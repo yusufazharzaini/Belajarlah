@@ -1,0 +1,566 @@
+/* ============================================================
+   RESET & BASE
+   ============================================================ */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg-primary: #0a0618;
+    --bg-secondary: #120d2a;
+    --bg-card: rgba(255, 255, 255, 0.04);
+    --text-primary: #f0e8ff;
+    --text-secondary: #b8a8e8;
+    --text-muted: #6a5a8a;
+    --accent-1: #ff8a9e;
+    --accent-2: #fad0c4;
+    --accent-3: #ffd1ff;
+    --border-color: rgba(255, 255, 255, 0.06);
+    --shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    --radius: 16px;
+    --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Quicksand', 'Noto Sans JP', sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    min-height: 100vh;
+    padding: 16px;
+    background-image: 
+        radial-gradient(ellipse at 10% 20%, rgba(255, 138, 158, 0.05) 0%, transparent 50%),
+        radial-gradient(ellipse at 90% 80%, rgba(255, 209, 255, 0.05) 0%, transparent 50%);
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--accent-1);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--accent-3);
+}
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+.header {
+    text-align: center;
+    padding: 24px 20px 20px;
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--border-color);
+    margin-bottom: 24px;
+    position: relative;
+    overflow: hidden;
+}
+.header::before {
+    content: '🌸';
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    font-size: 80px;
+    opacity: 0.06;
+    transform: rotate(15deg);
+}
+.header::after {
+    content: '🗾';
+    position: absolute;
+    bottom: -30px;
+    left: -20px;
+    font-size: 100px;
+    opacity: 0.04;
+    transform: rotate(-10deg);
+}
+.header h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2), var(--accent-3));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    letter-spacing: 1px;
+    position: relative;
+    z-index: 1;
+}
+.header .subtitle {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    letter-spacing: 6px;
+    margin-top: 4px;
+    position: relative;
+    z-index: 1;
+}
+.header .badge-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 12px;
+    position: relative;
+    z-index: 1;
+}
+.header .badge {
+    padding: 4px 14px;
+    border-radius: 50px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    transition: var(--transition);
+}
+.header .badge:hover {
+    background: rgba(255, 138, 158, 0.1);
+    border-color: var(--accent-1);
+}
+.header .badge .highlight {
+    color: var(--accent-1);
+}
+
+/* ============================================================
+   STATS
+   ============================================================ */
+.stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 8px;
+    margin: 0 0 20px 0;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.stats .stat-card {
+    background: var(--bg-card);
+    border-radius: 10px;
+    padding: 8px 4px;
+    text-align: center;
+    border: 1px solid var(--border-color);
+    transition: var(--transition);
+}
+.stats .stat-card:hover {
+    background: rgba(255, 255, 255, 0.07);
+    border-color: rgba(255, 138, 158, 0.2);
+}
+.stats .stat-card .number {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--accent-1);
+    display: block;
+    min-height: 2rem;
+}
+.stats .stat-card .label {
+    font-size: 0.55rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-muted);
+    margin-top: 2px;
+}
+
+/* ============================================================
+   CONTROLS
+   ============================================================ */
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+.controls input,
+.controls select {
+    padding: 8px 16px;
+    border-radius: 50px;
+    border: 1px solid var(--border-color);
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-primary);
+    font-family: inherit;
+    font-size: 0.85rem;
+    outline: none;
+    transition: var(--transition);
+    backdrop-filter: blur(6px);
+}
+.controls input::placeholder {
+    color: var(--text-muted);
+}
+.controls input:focus,
+.controls select:focus {
+    border-color: var(--accent-1);
+    background: rgba(255, 255, 255, 0.08);
+}
+.controls input {
+    flex: 1;
+    min-width: 160px;
+    max-width: 340px;
+}
+.controls select {
+    cursor: pointer;
+    min-width: 110px;
+}
+.controls select option {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+}
+
+/* ============================================================
+   THEME FILTERS
+   ============================================================ */
+.theme-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    justify-content: center;
+    margin-bottom: 18px;
+}
+.theme-filters button {
+    padding: 4px 10px;
+    border-radius: 50px;
+    border: 1px solid var(--border-color);
+    background: rgba(255, 255, 255, 0.03);
+    color: var(--text-secondary);
+    font-family: inherit;
+    font-size: 0.65rem;
+    cursor: pointer;
+    transition: var(--transition);
+    white-space: nowrap;
+}
+.theme-filters button:hover {
+    background: rgba(255, 138, 158, 0.1);
+    border-color: var(--accent-1);
+    color: var(--text-primary);
+}
+.theme-filters button.active {
+    background: linear-gradient(135deg, rgba(255, 138, 158, 0.2), rgba(255, 209, 255, 0.1));
+    border-color: var(--accent-1);
+    color: var(--accent-1);
+}
+
+/* ============================================================
+   VOCAB GRID
+   ============================================================ */
+.vocab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 14px;
+    max-width: 1600px;
+    margin: 0 auto;
+    min-height: 200px;
+}
+
+/* ============================================================
+   VOCAB CARD
+   ============================================================ */
+.vocab-card {
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    padding: 12px 14px 14px;
+    border: 1px solid var(--border-color);
+    transition: var(--transition);
+    position: relative;
+    overflow: hidden;
+    animation: fadeIn 0.25s ease forwards;
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.vocab-card:hover {
+    transform: translateY(-2px);
+    background: rgba(255, 255, 255, 0.07);
+    border-color: rgba(255, 138, 158, 0.2);
+    box-shadow: var(--shadow);
+}
+.vocab-card .level-tag {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    font-size: 0.45rem;
+    padding: 2px 8px;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--border-color);
+    color: var(--text-muted);
+}
+.vocab-card .theme-tag {
+    position: absolute;
+    top: 6px;
+    left: 8px;
+    font-size: 0.45rem;
+    padding: 2px 8px;
+    border-radius: 50px;
+    background: rgba(255, 138, 158, 0.12);
+    border: 1px solid rgba(255, 138, 158, 0.15);
+    color: var(--accent-1);
+    max-width: 40%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.vocab-card .kanji {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--accent-3);
+    display: block;
+    margin-top: 16px;
+    letter-spacing: 2px;
+}
+.vocab-card .hiragana {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    display: block;
+    margin-bottom: 2px;
+}
+.vocab-card .meaning {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    display: block;
+    margin-bottom: 2px;
+}
+.vocab-card .type {
+    display: inline-block;
+    font-size: 0.55rem;
+    padding: 1px 10px;
+    border-radius: 50px;
+    background: rgba(255, 209, 255, 0.08);
+    border: 1px solid rgba(255, 209, 255, 0.1);
+    color: var(--text-secondary);
+    margin-bottom: 4px;
+}
+.vocab-card .example {
+    font-size: 0.78rem;
+    color: #b0c0e8;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 6px 10px;
+    border-radius: 8px;
+    border-left: 3px solid var(--accent-1);
+    margin-top: 4px;
+    line-height: 1.5;
+}
+.vocab-card .example .jp {
+    color: #d8d0f0;
+}
+
+/* ============================================================
+   LOADING
+   ============================================================ */
+.loading-container {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-muted);
+}
+.loading-container .spinner {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 3px solid rgba(255, 255, 255, 0.05);
+    border-top-color: var(--accent-1);
+    animation: spin 0.8s linear infinite;
+    margin-bottom: 12px;
+}
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+.loading-container .progress-bar {
+    width: 200px;
+    max-width: 80%;
+    height: 4px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+    margin: 12px auto 0;
+    overflow: hidden;
+}
+.loading-container .progress-bar .progress-fill {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, var(--accent-1), var(--accent-2));
+    border-radius: 4px;
+    transition: width 0.3s ease;
+}
+
+/* ============================================================
+   NO RESULT
+   ============================================================ */
+.no-result {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-muted);
+}
+.no-result .big {
+    font-size: 2.5rem;
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* ============================================================
+   PAGINATION
+   ============================================================ */
+.pagination {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    justify-content: center;
+    margin: 24px 0 12px;
+}
+.pagination button {
+    padding: 5px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    background: rgba(255, 255, 255, 0.03);
+    color: var(--text-secondary);
+    font-family: inherit;
+    cursor: pointer;
+    transition: var(--transition);
+    font-size: 0.78rem;
+}
+.pagination button:hover {
+    background: rgba(255, 138, 158, 0.08);
+}
+.pagination button.active {
+    background: rgba(255, 138, 158, 0.15);
+    border-color: var(--accent-1);
+    color: var(--accent-1);
+}
+.pagination button:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+/* ============================================================
+   SCROLL TOP
+   ============================================================ */
+.scroll-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: none;
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+    color: var(--bg-primary);
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 0 4px 20px rgba(255, 138, 158, 0.25);
+    transition: var(--transition);
+    opacity: 0;
+    transform: translateY(20px);
+    pointer-events: none;
+    z-index: 999;
+}
+.scroll-top.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+}
+.scroll-top:hover {
+    transform: scale(1.08);
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.footer {
+    text-align: center;
+    padding: 20px 20px 8px;
+    color: var(--text-muted);
+    font-size: 0.75rem;
+    border-top: 1px solid var(--border-color);
+    margin-top: 20px;
+}
+.footer .heart {
+    color: var(--accent-1);
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    .header h1 {
+        font-size: 1.6rem;
+    }
+    .header .subtitle {
+        font-size: 0.75rem;
+        letter-spacing: 3px;
+    }
+    .vocab-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+    .controls input {
+        min-width: 120px;
+        max-width: 100%;
+    }
+    .controls select {
+        min-width: 90px;
+    }
+    .stats {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 6px;
+    }
+    .stats .stat-card .number {
+        font-size: 1.1rem;
+    }
+    .vocab-card .kanji {
+        font-size: 1.3rem;
+    }
+    .theme-filters button {
+        font-size: 0.55rem;
+        padding: 3px 8px;
+    }
+}
+@media (max-width: 480px) {
+    .stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .header h1 {
+        font-size: 1.3rem;
+    }
+    .controls {
+        flex-direction: column;
+        align-items: center;
+    }
+    .controls input {
+        min-width: 100%;
+    }
+    .controls select {
+        min-width: 100%;
+    }
+    .pagination button {
+        padding: 4px 8px;
+        font-size: 0.7rem;
+    }
+    .scroll-top {
+        width: 36px;
+        height: 36px;
+        font-size: 1rem;
+        bottom: 12px;
+        right: 12px;
+    }
+}
