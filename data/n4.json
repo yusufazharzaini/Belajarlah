@@ -1,0 +1,1910 @@
+[
+  {
+    "kanji": "会う",
+    "hiragana": "あう",
+    "meaning": "Bertemu",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "友達に会います。 (Tomodachi ni aimasu.) — Saya bertemu teman."
+  },
+  {
+    "kanji": "青い",
+    "hiragana": "あおい",
+    "meaning": "Biru",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "warna",
+    "example": "青い空です。 (Aoi sora desu.) — Langit biru."
+  },
+  {
+    "kanji": "赤い",
+    "hiragana": "あかい",
+    "meaning": "Merah",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "warna",
+    "example": "赤いリンゴです。 (Akai ringo desu.) — Apel merah."
+  },
+  {
+    "kanji": "明るい",
+    "hiragana": "あかるい",
+    "meaning": "Terang",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "部屋が明るいです。 (Heya ga akarui desu.) — Kamarnya terang."
+  },
+  {
+    "kanji": "赤ちゃん",
+    "hiragana": "あかちゃん",
+    "meaning": "Bayi",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "赤ちゃんが泣いています。 (Akachan ga naite imasu.) — Bayi sedang menangis."
+  },
+  {
+    "kanji": "秋",
+    "hiragana": "あき",
+    "meaning": "Musim gugur",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "秋は涼しいです。 (Aki wa suzushii desu.) — Musim gugur sejuk."
+  },
+  {
+    "kanji": "開く",
+    "hiragana": "あく",
+    "meaning": "Terbuka",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "ドアが開きます。 (Doa ga akimasu.) — Pintu terbuka."
+  },
+  {
+    "kanji": "明ける",
+    "hiragana": "あける",
+    "meaning": "Membuka",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "窓を開けます。 (Mado o akemasu.) — Saya membuka jendela."
+  },
+  {
+    "kanji": "あげる",
+    "hiragana": "あげる",
+    "meaning": "Memberi",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "友達にプレゼントをあげます。 (Tomodachi ni purezento o agemasu.) — Saya memberi hadiah pada teman."
+  },
+  {
+    "kanji": "朝ご飯",
+    "hiragana": "あさごはん",
+    "meaning": "Sarapan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "makanan",
+    "example": "朝ご飯を食べました。 (Asagohan o tabemashita.) — Saya sarapan."
+  },
+  {
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "meaning": "Pagi",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "毎朝６時に起きます。 (Maiasa rokuji ni okimasu.) — Setiap pagi bangun jam 6."
+  },
+  {
+    "kanji": "明日",
+    "hiragana": "あした",
+    "meaning": "Besok",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "明日は休みです。 (Ashita wa yasumi desu.) — Besok libur."
+  },
+  {
+    "kanji": "熱い",
+    "hiragana": "あつい",
+    "meaning": "Panas (benda)",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "コーヒーが熱いです。 (Koohii ga atsui desu.) — Kopinya panas."
+  },
+  {
+    "kanji": "暑い",
+    "hiragana": "あつい",
+    "meaning": "Panas (cuaca)",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "今日は暑いです。 (Kyou wa atsui desu.) — Hari ini panas."
+  },
+  {
+    "kanji": "厚い",
+    "hiragana": "あつい",
+    "meaning": "Tebal",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "この本は厚いです。 (Kono hon wa atsui desu.) — Buku ini tebal."
+  },
+  {
+    "kanji": "集める",
+    "hiragana": "あつめる",
+    "meaning": "Mengumpulkan",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "切手を集めます。 (Kitte o atsumemasu.) — Saya mengumpulkan perangko."
+  },
+  {
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "meaning": "Hujan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "雨が降っています。 (Ame ga futte imasu.) — Sedang hujan."
+  },
+  {
+    "kanji": "危ない",
+    "hiragana": "あぶない",
+    "meaning": "Berbahaya",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "ここは危ないです。 (Koko wa abunai desu.) — Di sini berbahaya."
+  },
+  {
+    "kanji": "甘い",
+    "hiragana": "あまい",
+    "meaning": "Manis",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "このケーキは甘いです。 (Kono keeki wa amai desu.) — Kue ini manis."
+  },
+  {
+    "kanji": "歩く",
+    "hiragana": "あるく",
+    "meaning": "Berjalan",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "学校に歩きます。 (Gakkou ni arukimasu.) — Saya berjalan ke sekolah."
+  },
+  {
+    "kanji": "ある",
+    "hiragana": "ある",
+    "meaning": "Ada (benda)",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "机の上に本があります。 (Tsukue no ue ni hon ga arimasu.) — Ada buku di atas meja."
+  },
+  {
+    "kanji": "いい",
+    "hiragana": "いい",
+    "meaning": "Baik",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "いい天気です。 (Ii tenki desu.) — Cuaca bagus."
+  },
+  {
+    "kanji": "言う",
+    "hiragana": "いう",
+    "meaning": "Berkata",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "彼はそう言いました。 (Kare wa sou iimashita.) — Dia berkata begitu."
+  },
+  {
+    "kanji": "家",
+    "hiragana": "いえ",
+    "meaning": "Rumah",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "家に帰ります。 (Ie ni kaerimasu.) — Saya pulang ke rumah."
+  },
+  {
+    "kanji": "行く",
+    "hiragana": "いく",
+    "meaning": "Pergi",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "学校に行きます。 (Gakkou ni ikimasu.) — Saya pergi ke sekolah."
+  },
+  {
+    "kanji": "急ぐ",
+    "hiragana": "いそぐ",
+    "meaning": "Terburu-buru",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "急いでください。 (Isoide kudasai.) — Tolong cepat."
+  },
+  {
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "meaning": "Sibuk",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "今日は忙しいです。 (Kyou wa isogashii desu.) — Hari ini sibuk."
+  },
+  {
+    "kanji": "いただきます",
+    "hiragana": "いただきます",
+    "meaning": "Selamat makan",
+    "type": "ucapan",
+    "level": "n4",
+    "theme": "ucapan",
+    "example": "いただきます。 (Itadakimasu.) — Selamat makan."
+  },
+  {
+    "kanji": "痛い",
+    "hiragana": "いたい",
+    "meaning": "Sakit",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "頭が痛いです。 (Atama ga itai desu.) — Kepala saya sakit."
+  },
+  {
+    "kanji": "一",
+    "hiragana": "いち",
+    "meaning": "Satu",
+    "type": "kata-bilangan",
+    "level": "n4",
+    "theme": "angka",
+    "example": "りんごが一つあります。 (Ringo ga hitotsu arimasu.) — Ada satu apel."
+  },
+  {
+    "kanji": "一緒に",
+    "hiragana": "いっしょに",
+    "meaning": "Bersama-sama",
+    "type": "kata-keterangan",
+    "level": "n4",
+    "theme": "keterangan",
+    "example": "一緒に行きます。 (Issho ni ikimasu.) — Saya pergi bersama."
+  },
+  {
+    "kanji": "いつも",
+    "hiragana": "いつも",
+    "meaning": "Selalu",
+    "type": "kata-keterangan",
+    "level": "n4",
+    "theme": "keterangan",
+    "example": "いつもありがとう。 (Itsumo arigatou.) — Terima kasih selalu."
+  },
+  {
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "meaning": "Anjing",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "hewan",
+    "example": "犬が好きです。 (Inu ga suki desu.) — Saya suka anjing."
+  },
+  {
+    "kanji": "今",
+    "hiragana": "いま",
+    "meaning": "Sekarang",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "今、何時ですか？ (Ima, nanji desu ka?) — Sekarang jam berapa?"
+  },
+  {
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "meaning": "Arti",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "abstrak",
+    "example": "意味が分かります。 (Imi ga wakarimasu.) — Saya mengerti artinya."
+  },
+  {
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "meaning": "Memasukkan",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "コーヒーに砂糖を入れます。 (Koohii ni satou o iremasu.) — Saya memasukkan gula ke kopi."
+  },
+  {
+    "kanji": "色",
+    "hiragana": "いろ",
+    "meaning": "Warna",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "warna",
+    "example": "色が綺麗です。 (Iro ga kirei desu.) — Warnanya cantik."
+  },
+  {
+    "kanji": "いろいろ",
+    "hiragana": "いろいろ",
+    "meaning": "Berbagai macam",
+    "type": "na-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "いろいろな本があります。 (Iroiro na hon ga arimasu.) — Ada berbagai macam buku."
+  },
+  {
+    "kanji": "上",
+    "hiragana": "うえ",
+    "meaning": "Atas",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "机の上に本があります。 (Tsukue no ue ni hon ga arimasu.) — Ada buku di atas meja."
+  },
+  {
+    "kanji": "後ろ",
+    "hiragana": "うしろ",
+    "meaning": "Belakang",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "学校の後ろに公園があります。 (Gakkou no ushiro ni kouen ga arimasu.) — Ada taman di belakang sekolah."
+  },
+  {
+    "kanji": "薄い",
+    "hiragana": "うすい",
+    "meaning": "Tipis",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "この紙は薄いです。 (Kono kami wa usui desu.) — Kertas ini tipis."
+  },
+  {
+    "kanji": "歌",
+    "hiragana": "うた",
+    "meaning": "Lagu",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "歌を歌います。 (Uta o utaimasu.) — Saya menyanyi."
+  },
+  {
+    "kanji": "歌う",
+    "hiragana": "うたう",
+    "meaning": "Bernyanyi",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "歌を歌います。 (Uta o utaimasu.) — Saya menyanyi."
+  },
+  {
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "meaning": "Cantik/Indah",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "彼女は美しいです。 (Kanojo wa utsukushii desu.) — Dia (perempuan) cantik."
+  },
+  {
+    "kanji": "写す",
+    "hiragana": "うつす",
+    "meaning": "Menyalin/Memotret",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "写真を写します。 (Shashin o utsushimasu.) — Saya memotret."
+  },
+  {
+    "kanji": "移る",
+    "hiragana": "うつる",
+    "meaning": "Pindah",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "新しい家に移ります。 (Atarashii ie ni utsurimasu.) — Saya pindah ke rumah baru."
+  },
+  {
+    "kanji": "馬",
+    "hiragana": "うま",
+    "meaning": "Kuda",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "hewan",
+    "example": "馬に乗ります。 (Uma ni norimasu.) — Saya naik kuda."
+  },
+  {
+    "kanji": "生まれる",
+    "hiragana": "うまれる",
+    "meaning": "Lahir",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "子供が生まれました。 (Kodomo ga umaremashita.) — Bayi lahir."
+  },
+  {
+    "kanji": "海",
+    "hiragana": "うみ",
+    "meaning": "Laut",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "海で泳ぎます。 (Umi de oyogimasu.) — Saya berenang di laut."
+  },
+  {
+    "kanji": "売る",
+    "hiragana": "うる",
+    "meaning": "Menjual",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "店で果物を売ります。 (Mise de kudamono o urimasu.) — Toko menjual buah."
+  },
+  {
+    "kanji": "嬉しい",
+    "hiragana": "うれしい",
+    "meaning": "Senang",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "プレゼントが嬉しいです。 (Purezento ga ureshii desu.) — Saya senang dengan hadiahnya."
+  },
+  {
+    "kanji": "運転",
+    "hiragana": "うんてん",
+    "meaning": "Mengemudi",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "車を運転します。 (Kuruma o unten shimasu.) — Saya mengemudi."
+  },
+  {
+    "kanji": "運転する",
+    "hiragana": "うんてんする",
+    "meaning": "Mengemudi",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "車を運転します。 (Kuruma o unten shimasu.) — Saya mengemudi."
+  },
+  {
+    "kanji": "運動",
+    "hiragana": "うんどう",
+    "meaning": "Olahraga",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "運動をします。 (Undou o shimasu.) — Saya berolahraga."
+  },
+  {
+    "kanji": "運動する",
+    "hiragana": "うんどうする",
+    "meaning": "Berolahraga",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "毎朝運動します。 (Maiasa undou shimasu.) — Setiap pagi saya berolahraga."
+  },
+  {
+    "kanji": "絵",
+    "hiragana": "え",
+    "meaning": "Gambar",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "絵を描きます。 (E o kakimasu.) — Saya menggambar."
+  },
+  {
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "meaning": "Film",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "映画を見ます。 (Eiga o mimasu.) — Saya menonton film."
+  },
+  {
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "meaning": "Bahasa Inggris",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "英語を勉強します。 (Eigo o benkyou shimasu.) — Saya belajar bahasa Inggris."
+  },
+  {
+    "kanji": "駅",
+    "hiragana": "えき",
+    "meaning": "Stasiun",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "駅で友達に会います。 (Eki de tomodachi ni aimasu.) — Saya bertemu teman di stasiun."
+  },
+  {
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "meaning": "Jauh",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "学校は遠いです。 (Gakkou wa tooi desu.) — Sekolah jauh."
+  },
+  {
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "meaning": "Besar",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "大きい犬がいます。 (Ookii inu ga imasu.) — Ada anjing besar."
+  },
+  {
+    "kanji": "多く",
+    "hiragana": "おおく",
+    "meaning": "Banyak",
+    "type": "kata-keterangan",
+    "level": "n4",
+    "theme": "keterangan",
+    "example": "多くの人がいます。 (Ooku no hito ga imasu.) — Ada banyak orang."
+  },
+  {
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "meaning": "Banyak",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "人が多いです。 (Hito ga ooi desu.) — Banyak orang."
+  },
+  {
+    "kanji": "大きな",
+    "hiragana": "おおきな",
+    "meaning": "Besar (pre-nominal)",
+    "type": "na-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "大きな家です。 (Ookina ie desu.) — Rumah besar."
+  },
+  {
+    "kanji": "お父さん",
+    "hiragana": "おとうさん",
+    "meaning": "Ayah",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "お父さんは会社員です。 (Otousan wa kaishain desu.) — Ayah adalah karyawan perusahaan."
+  },
+  {
+    "kanji": "お母さん",
+    "hiragana": "おかあさん",
+    "meaning": "Ibu",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "お母さんは料理をします。 (Okaasan wa ryouri o shimasu.) — Ibu memasak."
+  },
+  {
+    "kanji": "お兄さん",
+    "hiragana": "おにいさん",
+    "meaning": "Kakak laki-laki (orang lain)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "お兄さんは何をしていますか？ (Oniisan wa nani o shite imasu ka?) — Kakak laki-laki Anda bekerja sebagai apa?"
+  },
+  {
+    "kanji": "お姉さん",
+    "hiragana": "おねえさん",
+    "meaning": "Kakak perempuan (orang lain)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "お姉さんは綺麗ですね。 (Oneesan wa kirei desu ne.) — Kakak perempuan Anda cantik ya."
+  },
+  {
+    "kanji": "おじいさん",
+    "hiragana": "おじいさん",
+    "meaning": "Kakek",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "おじいさんは元気です。 (Ojiisan wa genki desu.) — Kakek sehat."
+  },
+  {
+    "kanji": "おばあさん",
+    "hiragana": "おばあさん",
+    "meaning": "Nenek",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "おばあさんは優しいです。 (Obaasan wa yasashii desu.) — Nenek baik hati."
+  },
+  {
+    "kanji": "起きる",
+    "hiragana": "おきる",
+    "meaning": "Bangun",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "朝6時に起きます。 (Asa rokuji ni okimasu.) — Saya bangun jam 6 pagi."
+  },
+  {
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "meaning": "Uang",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "お金を払います。 (Okane o haraimasu.) — Saya membayar."
+  },
+  {
+    "kanji": "置く",
+    "hiragana": "おく",
+    "meaning": "Meletakkan",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "本を机の上に置きます。 (Hon o tsukue no ue ni okimasu.) — Saya meletakkan buku di atas meja."
+  },
+  {
+    "kanji": "遅く",
+    "hiragana": "おそく",
+    "meaning": "Terlambat",
+    "type": "kata-keterangan",
+    "level": "n4",
+    "theme": "keterangan",
+    "example": "遅く起きました。 (Osoku okimashita.) — Saya bangun terlambat."
+  },
+  {
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "meaning": "Lambat/Terlambat",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "電車が遅いです。 (Densha ga osoi desu.) — Kereta lambat."
+  },
+  {
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "meaning": "Teh",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "makanan",
+    "example": "お茶を飲みます。 (Ocha o nomimasu.) — Saya minum teh."
+  },
+  {
+    "kanji": "お腹",
+    "hiragana": "おなか",
+    "meaning": "Perut",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tubuh",
+    "example": "お腹がすきました。 (Onaka ga sukimashita.) — Saya lapar."
+  },
+  {
+    "kanji": "覚える",
+    "hiragana": "おぼえる",
+    "meaning": "Mengingat",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "漢字を覚えます。 (Kanji o oboemasu.) — Saya menghafal kanji."
+  },
+  {
+    "kanji": "お前",
+    "hiragana": "おまえ",
+    "meaning": "Kamu (kasar)",
+    "type": "kata-ganti",
+    "level": "n4",
+    "theme": "kata-ganti-sapaan",
+    "example": "お前は誰だ？ (Omae wa dare da?) — Kamu siapa?"
+  },
+  {
+    "kanji": "おもしろい",
+    "hiragana": "おもしろい",
+    "meaning": "Menarik",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "この映画はおもしろいです。 (Kono eiga wa omoshiroi desu.) — Film ini menarik."
+  },
+  {
+    "kanji": "思う",
+    "hiragana": "おもう",
+    "meaning": "Berpikir/Merasa",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "そう思います。 (Sou omoimasu.) — Saya pikir begitu."
+  },
+  {
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "meaning": "Berat",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "荷物が重いです。 (Nimotsu ga omoi desu.) — Barangnya berat."
+  },
+  {
+    "kanji": "下りる",
+    "hiragana": "おりる",
+    "meaning": "Turun",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "駅で降ります。 (Eki de orimasu.) — Saya turun di stasiun."
+  },
+  {
+    "kanji": "終わる",
+    "hiragana": "おわる",
+    "meaning": "Berakhir",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "授業が終わります。 (Jugyou ga owarimasu.) — Pelajaran berakhir."
+  },
+  {
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "meaning": "Musik",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "音楽を聞きます。 (Ongaku o kikimasu.) — Saya mendengar musik."
+  },
+  {
+    "kanji": "女",
+    "hiragana": "おんな",
+    "meaning": "Perempuan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "あの女は先生です。 (Ano onna wa sensei desu.) — Perempuan itu adalah guru."
+  },
+  {
+    "kanji": "女の子",
+    "hiragana": "おんなのこ",
+    "meaning": "Anak perempuan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "女の子が笑っています。 (Onna no ko ga waratte imasu.) — Anak perempuan sedang tertawa."
+  },
+  {
+    "kanji": "買う",
+    "hiragana": "かう",
+    "meaning": "Membeli",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "本を買います。 (Hon o kaimasu.) — Saya membeli buku."
+  },
+  {
+    "kanji": "帰る",
+    "hiragana": "かえる",
+    "meaning": "Pulang",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "家に帰ります。 (Ie ni kaerimasu.) — Saya pulang ke rumah."
+  },
+  {
+    "kanji": "変える",
+    "hiragana": "かえる",
+    "meaning": "Mengubah",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "計画を変えます。 (Keikaku o kaemasu.) — Saya mengubah rencana."
+  },
+  {
+    "kanji": "返す",
+    "hiragana": "かえす",
+    "meaning": "Mengembalikan",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "本を返します。 (Hon o kaeshimasu.) — Saya mengembalikan buku."
+  },
+  {
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "meaning": "Perusahaan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "会社で働きます。 (Kaisha de hatarakimasu.) — Saya bekerja di perusahaan."
+  },
+  {
+    "kanji": "会議",
+    "hiragana": "かいぎ",
+    "meaning": "Rapat",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "会議をします。 (Kaigi o shimasu.) — Saya mengadakan rapat."
+  },
+  {
+    "kanji": "買い物",
+    "hiragana": "かいもの",
+    "meaning": "Belanja",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "買い物をします。 (Kaimono o shimasu.) — Saya berbelanja."
+  },
+  {
+    "kanji": "科学",
+    "hiragana": "かがく",
+    "meaning": "Sains",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "abstrak",
+    "example": "科学が好きです。 (Kagaku ga suki desu.) — Saya suka sains."
+  },
+  {
+    "kanji": "書く",
+    "hiragana": "かく",
+    "meaning": "Menulis",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "漢字を書きます。 (Kanji o kakimasu.) — Saya menulis kanji."
+  },
+  {
+    "kanji": "描く",
+    "hiragana": "かく",
+    "meaning": "Menggambar",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "絵を描きます。 (E o kakimasu.) — Saya menggambar."
+  },
+  {
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "meaning": "Mahasiswa/Pelajar",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "私は学生です。 (Watashi wa gakusei desu.) — Saya adalah mahasiswa."
+  },
+  {
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "meaning": "Keluarga",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "家族は5人です。 (Kazoku wa gonin desu.) — Keluarga saya ada 5 orang."
+  },
+  {
+    "kanji": "カバン",
+    "hiragana": "カバン",
+    "meaning": "Tas",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "カバンを持ちます。 (Kaban o mochimasu.) — Saya membawa tas."
+  },
+  {
+    "kanji": "下",
+    "hiragana": "した",
+    "meaning": "Bawah",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "椅子の下に猫がいます。 (Isu no shita ni neko ga imasu.) — Ada kucing di bawah kursi."
+  },
+  {
+    "kanji": "貸す",
+    "hiragana": "かす",
+    "meaning": "Meminjamkan",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "本を貸します。 (Hon o kashimasu.) — Saya meminjamkan buku."
+  },
+  {
+    "kanji": "風邪",
+    "hiragana": "かぜ",
+    "meaning": "Masuk angin",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "風邪をひきました。 (Kaze o hikimashita.) — Saya masuk angin."
+  },
+  {
+    "kanji": "風",
+    "hiragana": "かぜ",
+    "meaning": "Angin",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "風が強いです。 (Kaze ga tsuyoi desu.) — Angin kencang."
+  },
+  {
+    "kanji": "花",
+    "hiragana": "はな",
+    "meaning": "Bunga",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "hewan",
+    "example": "花が咲いています。 (Hana ga saite imasu.) — Bunga sedang mekar."
+  },
+  {
+    "kanji": "母",
+    "hiragana": "はは",
+    "meaning": "Ibu (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "母は料理をします。 (Haha wa ryouri o shimasu.) — Ibu saya memasak."
+  },
+  {
+    "kanji": "父",
+    "hiragana": "ちち",
+    "meaning": "Ayah (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "父は会社員です。 (Chichi wa kaishain desu.) — Ayah saya adalah karyawan perusahaan."
+  },
+  {
+    "kanji": "花見",
+    "hiragana": "はなみ",
+    "meaning": "Melihat bunga (picnic)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "花見をします。 (Hanami o shimasu.) — Saya pergi melihat bunga sakura."
+  },
+  {
+    "kanji": "話す",
+    "hiragana": "はなす",
+    "meaning": "Berbicara",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "日本語で話します。 (Nihongo de hanashimasu.) — Saya berbicara dalam bahasa Jepang."
+  },
+  {
+    "kanji": "運ぶ",
+    "hiragana": "はこぶ",
+    "meaning": "Membawa",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "荷物を運びます。 (Nimotsu o hakobimasu.) — Saya membawa barang."
+  },
+  {
+    "kanji": "始まる",
+    "hiragana": "はじまる",
+    "meaning": "Dimulai",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "授業が始まります。 (Jugyou ga hajimarimasu.) — Pelajaran dimulai."
+  },
+  {
+    "kanji": "始める",
+    "hiragana": "はじめる",
+    "meaning": "Memulai",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "勉強を始めます。 (Benkyou o hajimemasu.) — Saya memulai belajar."
+  },
+  {
+    "kanji": "初めて",
+    "hiragana": "はじめて",
+    "meaning": "Pertama kali",
+    "type": "kata-keterangan",
+    "level": "n4",
+    "theme": "keterangan",
+    "example": "初めて日本に来ました。 (Hajimete nihon ni kimashita.) — Saya pertama kali datang ke Jepang."
+  },
+  {
+    "kanji": "走る",
+    "hiragana": "はしる",
+    "meaning": "Berlari",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "毎朝走ります。 (Maiasa hashirimasu.) — Setiap pagi saya berlari."
+  },
+  {
+    "kanji": "橋",
+    "hiragana": "はし",
+    "meaning": "Jembatan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "橋を渡ります。 (Hashi o watarimasu.) — Saya menyeberang jembatan."
+  },
+  {
+    "kanji": "働く",
+    "hiragana": "はたらく",
+    "meaning": "Bekerja",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "会社で働きます。 (Kaisha de hatarakimasu.) — Saya bekerja di perusahaan."
+  },
+  {
+    "kanji": "八百屋",
+    "hiragana": "やおや",
+    "meaning": "Toko sayur",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "八百屋で野菜を買います。 (Yaoya de yasai o kaimasu.) — Saya membeli sayur di toko sayur."
+  },
+  {
+    "kanji": "やさしい",
+    "hiragana": "やさしい",
+    "meaning": "Mudah/Baik hati",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "彼女は優しいです。 (Kanojo wa yasashii desu.) — Dia (perempuan) baik hati."
+  },
+  {
+    "kanji": "休む",
+    "hiragana": "やすむ",
+    "meaning": "Istirahat/Libur",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "今日は休みます。 (Kyou wa yasumimasu.) — Hari ini saya istirahat."
+  },
+  {
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "meaning": "Murah",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "このパンは安いです。 (Kono pan wa yasui desu.) — Roti ini murah."
+  },
+  {
+    "kanji": "野球",
+    "hiragana": "やきゅう",
+    "meaning": "Bisbol",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "野球をします。 (Yakyuu o shimasu.) — Saya bermain bisbol."
+  },
+  {
+    "kanji": "焼く",
+    "hiragana": "やく",
+    "meaning": "Memanggang",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "パンを焼きます。 (Pan o yakimasu.) — Saya memanggang roti."
+  },
+  {
+    "kanji": "約束",
+    "hiragana": "やくそく",
+    "meaning": "Janji",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "abstrak",
+    "example": "約束を守ります。 (Yakusoku o mamorimasu.) — Saya menepati janji."
+  },
+  {
+    "kanji": "やっぱり",
+    "hiragana": "やっぱり",
+    "meaning": "Tetap saja",
+    "type": "kata-keterangan",
+    "level": "n4",
+    "theme": "keterangan",
+    "example": "やっぱり行きます。 (Yappari ikimasu.) — Tetap saja saya pergi."
+  },
+  {
+    "kanji": "山",
+    "hiragana": "やま",
+    "meaning": "Gunung",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "山に登ります。 (Yama ni noborimasu.) — Saya mendaki gunung."
+  },
+  {
+    "kanji": "弱い",
+    "hiragana": "よわい",
+    "meaning": "Lemah",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "彼女は弱いです。 (Kanojo wa yowai desu.) — Dia lemah."
+  },
+  {
+    "kanji": "読む",
+    "hiragana": "よむ",
+    "meaning": "Membaca",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "本を読みます。 (Hon o yomimasu.) — Saya membaca buku."
+  },
+  {
+    "kanji": "夜",
+    "hiragana": "よる",
+    "meaning": "Malam",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "夜は静かです。 (Yoru wa shizuka desu.) — Malam hari sepi."
+  },
+  {
+    "kanji": "来る",
+    "hiragana": "くる",
+    "meaning": "Datang",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "友達が来ます。 (Tomodachi ga kimasu.) — Teman datang."
+  },
+  {
+    "kanji": "黒い",
+    "hiragana": "くろい",
+    "meaning": "Hitam",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "warna",
+    "example": "黒い猫です。 (Kuroi neko desu.) — Kucing hitam."
+  },
+  {
+    "kanji": "苦い",
+    "hiragana": "にがい",
+    "meaning": "Pahit",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "この薬は苦いです。 (Kono kusuri wa nigai desu.) — Obat ini pahit."
+  },
+  {
+    "kanji": "逃げる",
+    "hiragana": "にげる",
+    "meaning": "Melarikan diri",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "猫が逃げました。 (Neko ga nigemashita.) — Kucing melarikan diri."
+  },
+  {
+    "kanji": "肉",
+    "hiragana": "にく",
+    "meaning": "Daging",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "makanan",
+    "example": "肉を食べます。 (Niku o tabemasu.) — Saya makan daging."
+  },
+  {
+    "kanji": "逃げる",
+    "hiragana": "にげる",
+    "meaning": "Melarikan diri",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "猫が逃げました。 (Neko ga nigemashita.) — Kucing melarikan diri."
+  },
+  {
+    "kanji": "西",
+    "hiragana": "にし",
+    "meaning": "Barat",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "西に太陽が沈みます。 (Nishi ni taiyou ga shizumimasu.) — Matahari terbenam di barat."
+  },
+  {
+    "kanji": "兄",
+    "hiragana": "あに",
+    "meaning": "Kakak laki-laki (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "兄は大学生です。 (Ani wa daigakusei desu.) — Kakak laki-laki saya adalah mahasiswa."
+  },
+  {
+    "kanji": "姉",
+    "hiragana": "あね",
+    "meaning": "Kakak perempuan (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "姉は看護師です。 (Ane wa kangoshi desu.) — Kakak perempuan saya adalah perawat."
+  },
+  {
+    "kanji": "寝る",
+    "hiragana": "ねる",
+    "meaning": "Tidur",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "夜11時に寝ます。 (Yoru juuichiji ni nemasu.) — Saya tidur jam 11 malam."
+  },
+  {
+    "kanji": "ノート",
+    "hiragana": "ノート",
+    "meaning": "Buku catatan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "ノートに書きます。 (Nooto ni kakimasu.) — Saya menulis di buku catatan."
+  },
+  {
+    "kanji": "信じる",
+    "hiragana": "しんじる",
+    "meaning": "Percaya",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "彼を信じます。 (Kare o shinjimasu.) — Saya percaya padanya."
+  },
+  {
+    "kanji": "新聞",
+    "hiragana": "しんぶん",
+    "meaning": "Koran",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "新聞を読みます。 (Shinbun o yomimasu.) — Saya membaca koran."
+  },
+  {
+    "kanji": "真面目",
+    "hiragana": "まじめ",
+    "meaning": "Serius/Rajin",
+    "type": "na-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "彼は真面目です。 (Kare wa majime desu.) — Dia serius."
+  },
+  {
+    "kanji": "間に合う",
+    "hiragana": "まにあう",
+    "meaning": "Tepat waktu",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-lanjutan",
+    "example": "電車に間に合いました。 (Densha ni maniaimashita.) — Saya tepat waktu untuk kereta."
+  },
+  {
+    "kanji": "まだ",
+    "hiragana": "まだ",
+    "meaning": "Masih",
+    "type": "kata-keterangan",
+    "level": "n4",
+    "theme": "keterangan",
+    "example": "まだ来ていません。 (Mada kite imasen.) — Masih belum datang."
+  },
+  {
+    "kanji": "丸い",
+    "hiragana": "まるい",
+    "meaning": "Bulat",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "このテーブルは丸いです。 (Kono teeburu wa marui desu.) — Meja ini bulat."
+  },
+  {
+    "kanji": "待つ",
+    "hiragana": "まつ",
+    "meaning": "Menunggu",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "友達を待ちます。 (Tomodachi o machimasu.) — Saya menunggu teman."
+  },
+  {
+    "kanji": "真っ白",
+    "hiragana": "まっしろ",
+    "meaning": "Putih bersih",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "warna",
+    "example": "真っ白な雪です。 (Masshiro na yuki desu.) — Salju putih bersih."
+  },
+  {
+    "kanji": "毎朝",
+    "hiragana": "まいあさ",
+    "meaning": "Setiap pagi",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "毎朝コーヒーを飲みます。 (Maiasa koohii o nomimasu.) — Setiap pagi saya minum kopi."
+  },
+  {
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "meaning": "Setiap hari",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "毎日日本語を勉強します。 (Mainichi nihongo o benkyou shimasu.) — Setiap hari saya belajar bahasa Jepang."
+  },
+  {
+    "kanji": "毎晩",
+    "hiragana": "まいばん",
+    "meaning": "Setiap malam",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "毎晩テレビを見ます。 (Maiban terebi o mimasu.) — Setiap malam saya menonton TV."
+  },
+  {
+    "kanji": "毎週",
+    "hiragana": "まいしゅう",
+    "meaning": "Setiap minggu",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "毎週土曜日に働きます。 (Maishuu doyoubi ni hatarakimasu.) — Setiap minggu saya bekerja pada hari Sabtu."
+  },
+  {
+    "kanji": "毎月",
+    "hiragana": "まいつき",
+    "meaning": "Setiap bulan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "毎月家賃を払います。 (Maitsuki yachin o haraimasu.) — Setiap bulan saya bayar sewa."
+  },
+  {
+    "kanji": "毎年",
+    "hiragana": "まいとし",
+    "meaning": "Setiap tahun",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "毎年夏に旅行します。 (Maitoshi natsu ni ryokou shimasu.) — Setiap tahun saya bepergian di musim panas."
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "meaning": "Depan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "家の前に車があります。 (Ie no mae ni kuruma ga arimasu.) — Ada mobil di depan rumah."
+  },
+  {
+    "kanji": "曲がる",
+    "hiragana": "まがる",
+    "meaning": "Berbelok",
+    "type": "verba",
+    "level": "n4",
+    "theme": "verba-dasar",
+    "example": "右に曲がります。 (Migi ni magarimasu.) — Saya berbelok ke kanan."
+  },
+  {
+    "kanji": "まずい",
+    "hiragana": "まずい",
+    "meaning": "Tidak enak",
+    "type": "i-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "この料理はまずいです。 (Kono ryouri wa mazui desu.) — Masakan ini tidak enak."
+  },
+  {
+    "kanji": "まだ",
+    "hiragana": "まだ",
+    "meaning": "Masih",
+    "type": "kata-keterangan",
+    "level": "n4",
+    "theme": "keterangan",
+    "example": "まだ来ていません。 (Mada kite imasen.) — Masih belum datang."
+  },
+  {
+    "kanji": "窓",
+    "hiragana": "まど",
+    "meaning": "Jendela",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "窓を開けます。 (Mado o akemasu.) — Saya membuka jendela."
+  },
+  {
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "meaning": "Antara",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "机と椅子の間にあります。 (Tsukue to isu no aida ni arimasu.) — Ada di antara meja dan kursi."
+  },
+  {
+    "kanji": "市",
+    "hiragana": "し",
+    "meaning": "Kota",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "tempat",
+    "example": "この市は大きいです。 (Kono shi wa ookii desu.) — Kota ini besar."
+  },
+  {
+    "kanji": "試験",
+    "hiragana": "しけん",
+    "meaning": "Ujian",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "試験があります。 (Shiken ga arimasu.) — Ada ujian."
+  },
+  {
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "meaning": "Jam/Waktu",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "時間がありません。 (Jikan ga arimasen.) — Tidak ada waktu."
+  },
+  {
+    "kanji": "自転車",
+    "hiragana": "じてんしゃ",
+    "meaning": "Sepeda",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "自転車に乗ります。 (Jitensha ni norimasu.) — Saya naik sepeda."
+  },
+  {
+    "kanji": "辞書",
+    "hiragana": "じしょ",
+    "meaning": "Kamus",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "辞書で調べます。 (Jisho de shirabemasu.) — Saya cari di kamus."
+  },
+  {
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "meaning": "Gempa bumi",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "地震がありました。 (Jishin ga arimashita.) — Ada gempa bumi."
+  },
+  {
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "meaning": "Pekerjaan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "lainnya",
+    "example": "仕事をします。 (Shigoto o shimasu.) — Saya bekerja."
+  },
+  {
+    "kanji": "静か",
+    "hiragana": "しずか",
+    "meaning": "Tenang",
+    "type": "na-adjektiva",
+    "level": "n4",
+    "theme": "sifat",
+    "example": "この町は静かです。 (Kono machi wa shizuka desu.) — Kota ini tenang."
+  },
+  {
+    "kanji": "春",
+    "hiragana": "はる",
+    "meaning": "Musim semi",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "春は暖かいです。 (Haru wa atatakai desu.) — Musim semi hangat."
+  },
+  {
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "meaning": "Musim panas",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "夏は暑いです。 (Natsu wa atsui desu.) — Musim panas panas."
+  },
+  {
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "meaning": "Musim dingin",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "冬は寒いです。 (Fuyu wa samui desu.) — Musim dingin dingin."
+  },
+  {
+    "kanji": "春休み",
+    "hiragana": "はるやすみ",
+    "meaning": "Liburan musim semi",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "春休みに旅行します。 (Haruyasumi ni ryokou shimasu.) — Saya bepergian saat liburan musim semi."
+  },
+  {
+    "kanji": "夏休み",
+    "hiragana": "なつやすみ",
+    "meaning": "Liburan musim panas",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "夏休みに海に行きます。 (Natsuyasumi ni umi ni ikimasu.) — Saya pergi ke pantai saat liburan musim panas."
+  },
+  {
+    "kanji": "冬休み",
+    "hiragana": "ふゆやすみ",
+    "meaning": "Liburan musim dingin",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "waktu",
+    "example": "冬休みにスキーをします。 (Fuyuyasumi ni sukii o shimasu.) — Saya bermain ski saat liburan musim dingin."
+  },
+  {
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "meaning": "Karyawan perusahaan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "父は会社員です。 (Chichi wa kaishain desu.) — Ayah saya adalah karyawan perusahaan."
+  },
+  {
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "meaning": "Dokter",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "彼は医者になりたいです。 (Kare wa isha ni naritai desu.) — Dia ingin menjadi dokter."
+  },
+  {
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "meaning": "Guru",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "先生は親切です。 (Sensei wa shinsetsu desu.) — Guru ramah."
+  },
+  {
+    "kanji": "生徒",
+    "hiragana": "せいと",
+    "meaning": "Murid",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "生徒は20人います。 (Seito wa nijuu nin imasu.) — Ada 20 murid."
+  },
+  {
+    "kanji": "店員",
+    "hiragana": "てんいん",
+    "meaning": "Pegawai toko",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "店員に聞いてください。 (Ten'in ni kiite kudasai.) — Tolong tanyakan pada pegawai toko."
+  },
+  {
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "meaning": "Mahasiswa/Pelajar",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "私は学生です。 (Watashi wa gakusei desu.) — Saya adalah mahasiswa."
+  },
+  {
+    "kanji": "友達",
+    "hiragana": "ともだち",
+    "meaning": "Teman",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "友達と映画を見ました。 (Tomodachi to eiga o mimashita.) — Saya menonton film dengan teman."
+  },
+  {
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "meaning": "Keluarga",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "家族は5人です。 (Kazoku wa gonin desu.) — Keluarga saya ada 5 orang."
+  },
+  {
+    "kanji": "兄弟",
+    "hiragana": "きょうだい",
+    "meaning": "Saudara (laki-laki)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "兄弟がいます。 (Kyoudai ga imasu.) — Saya punya saudara laki-laki."
+  },
+  {
+    "kanji": "姉妹",
+    "hiragana": "しまい",
+    "meaning": "Saudara (perempuan)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "姉妹がいます。 (Shimai ga imasu.) — Saya punya saudara perempuan."
+  },
+  {
+    "kanji": "子供",
+    "hiragana": "こども",
+    "meaning": "Anak",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "子供が公園で遊んでいます。 (Kodomo ga kouen de asonde imasu.) — Anak-anak sedang bermain di taman."
+  },
+  {
+    "kanji": "男の子",
+    "hiragana": "おとこのこ",
+    "meaning": "Anak laki-laki",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "男の子が走っています。 (Otoko no ko ga hashitte imasu.) — Anak laki-laki sedang berlari."
+  },
+  {
+    "kanji": "女の子",
+    "hiragana": "おんなのこ",
+    "meaning": "Anak perempuan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "女の子が笑っています。 (Onna no ko ga waratte imasu.) — Anak perempuan sedang tertawa."
+  },
+  {
+    "kanji": "赤ちゃん",
+    "hiragana": "あかちゃん",
+    "meaning": "Bayi",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "赤ちゃんが泣いています。 (Akachan ga naite imasu.) — Bayi sedang menangis."
+  },
+  {
+    "kanji": "お父さん",
+    "hiragana": "おとうさん",
+    "meaning": "Ayah",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "お父さんは会社員です。 (Otousan wa kaishain desu.) — Ayah adalah karyawan perusahaan."
+  },
+  {
+    "kanji": "お母さん",
+    "hiragana": "おかあさん",
+    "meaning": "Ibu",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "お母さんは料理をします。 (Okaasan wa ryouri o shimasu.) — Ibu memasak."
+  },
+  {
+    "kanji": "お兄さん",
+    "hiragana": "おにいさん",
+    "meaning": "Kakak laki-laki (orang lain)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "お兄さんは何をしていますか？ (Oniisan wa nani o shite imasu ka?) — Kakak laki-laki Anda bekerja sebagai apa?"
+  },
+  {
+    "kanji": "お姉さん",
+    "hiragana": "おねえさん",
+    "meaning": "Kakak perempuan (orang lain)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "お姉さんは綺麗ですね。 (Oneesan wa kirei desu ne.) — Kakak perempuan Anda cantik ya."
+  },
+  {
+    "kanji": "おじいさん",
+    "hiragana": "おじいさん",
+    "meaning": "Kakek",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "おじいさんは元気です。 (Ojiisan wa genki desu.) — Kakek sehat."
+  },
+  {
+    "kanji": "おばあさん",
+    "hiragana": "おばあさん",
+    "meaning": "Nenek",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "おばあさんは優しいです。 (Obaasan wa yasashii desu.) — Nenek baik hati."
+  },
+  {
+    "kanji": "祖父",
+    "hiragana": "そふ",
+    "meaning": "Kakek (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "祖父は元気です。 (Sofu wa genki desu.) — Kakek saya sehat."
+  },
+  {
+    "kanji": "祖母",
+    "hiragana": "そぼ",
+    "meaning": "Nenek (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "祖母は優しいです。 (Sobo wa yasashii desu.) — Nenek saya baik hati."
+  },
+  {
+    "kanji": "父",
+    "hiragana": "ちち",
+    "meaning": "Ayah (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "父は会社員です。 (Chichi wa kaishain desu.) — Ayah saya adalah karyawan perusahaan."
+  },
+  {
+    "kanji": "母",
+    "hiragana": "はは",
+    "meaning": "Ibu (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "母は料理をします。 (Haha wa ryouri o shimasu.) — Ibu saya memasak."
+  },
+  {
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "meaning": "Adik laki-laki",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "弟は小学生です。 (Otouto wa shougakusei desu.) — Adik laki-laki saya adalah siswa SD."
+  },
+  {
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "meaning": "Adik perempuan",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "妹は中学生です。 (Imouto wa chuugakusei desu.) — Adik perempuan saya adalah siswa SMP."
+  },
+  {
+    "kanji": "兄",
+    "hiragana": "あに",
+    "meaning": "Kakak laki-laki (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "兄は大学生です。 (Ani wa daigakusei desu.) — Kakak laki-laki saya adalah mahasiswa."
+  },
+  {
+    "kanji": "姉",
+    "hiragana": "あね",
+    "meaning": "Kakak perempuan (sendiri)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "姉は看護師です。 (Ane wa kangoshi desu.) — Kakak perempuan saya adalah perawat."
+  },
+  {
+    "kanji": "息子",
+    "hiragana": "むすこ",
+    "meaning": "Anak laki-laki (orang tua)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "息子は大学生です。 (Musuko wa daigakusei desu.) — Anak laki-laki saya adalah mahasiswa."
+  },
+  {
+    "kanji": "娘",
+    "hiragana": "むすめ",
+    "meaning": "Anak perempuan (orang tua)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "娘は看護師です。 (Musume wa kangoshi desu.) — Anak perempuan saya adalah perawat."
+  },
+  {
+    "kanji": "夫",
+    "hiragana": "おっと",
+    "meaning": "Suami",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "夫は会社員です。 (Otto wa kaishain desu.) — Suami saya adalah karyawan perusahaan."
+  },
+  {
+    "kanji": "妻",
+    "hiragana": "つま",
+    "meaning": "Istri",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "妻は看護師です。 (Tsuma wa kangoshi desu.) — Istri saya adalah perawat."
+  },
+  {
+    "kanji": "両親",
+    "hiragana": "りょうしん",
+    "meaning": "Kedua orang tua",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "両親は元気です。 (Ryou shin wa genki desu.) — Kedua orang tua sehat."
+  },
+  {
+    "kanji": "親",
+    "hiragana": "おや",
+    "meaning": "Orang tua",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "親に相談します。 (Oya ni soudan shimasu.) — Saya berkonsultasi dengan orang tua."
+  },
+  {
+    "kanji": "子供",
+    "hiragana": "こども",
+    "meaning": "Anak",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "子供が公園で遊んでいます。 (Kodomo ga kouen de asonde imasu.) — Anak-anak sedang bermain di taman."
+  },
+  {
+    "kanji": "大人",
+    "hiragana": "おとな",
+    "meaning": "Dewasa",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "大人は忙しいです。 (Otona wa isogashii desu.) — Orang dewasa sibuk."
+  },
+  {
+    "kanji": "女の人",
+    "hiragana": "おんなのひと",
+    "meaning": "Perempuan (orang)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "あの女の人は先生です。 (Ano onna no hito wa sensei desu.) — Perempuan itu adalah guru."
+  },
+  {
+    "kanji": "男の人",
+    "hiragana": "おとこのひと",
+    "meaning": "Laki-laki (orang)",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "あの男の人は医者です。 (Ano otoko no hito wa isha desu.) — Laki-laki itu adalah dokter."
+  },
+  {
+    "kanji": "人々",
+    "hiragana": "ひとびと",
+    "meaning": "Orang-orang",
+    "type": "kata-benda",
+    "level": "n4",
+    "theme": "keluarga",
+    "example": "人々が集まっています。 (Hitobito ga atsumatte imasu.) — Orang-orang sedang berkumpul."
+  }
+]
