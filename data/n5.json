@@ -1,5 +1,4 @@
 [
-  // === TEMA: KATA GANTI & SAPAAN ===
   {
     "kanji": "私",
     "hiragana": "わたし",
@@ -54,8 +53,6 @@
     "theme": "kata-ganti-sapaan",
     "example": "皆さん、こんにちは。 (Minasan, konnichiwa.) — Semuanya, selamat siang."
   },
-
-  // === TEMA: KELUARGA & ORANG ===
   {
     "kanji": "人",
     "hiragana": "ひと",
@@ -299,8 +296,6 @@
     "theme": "keluarga",
     "example": "今年は何年ですか？ (Kotoshi wa nannen desu ka?) — Tahun ini tahun berapa?"
   },
-
-  // === TEMA: WAKTU ===
   {
     "kanji": "今",
     "hiragana": "いま",
@@ -490,8 +485,6 @@
     "theme": "waktu",
     "example": "1時間半です。 (Ichijikan han desu.) — Satu setengah jam."
   },
-
-  // === TEMA: HARI & BULAN ===
   {
     "kanji": "月曜日",
     "hiragana": "げつようび",
@@ -762,8 +755,6 @@
     "theme": "waktu",
     "example": "十二月はクリスマスです。 (Juunigatsu wa Kurisumasu desu.) — Desember ada Natal."
   },
-
-  // === TEMA: ANGKA ===
   {
     "kanji": "一",
     "hiragana": "いち",
@@ -890,8 +881,6 @@
     "theme": "angka",
     "example": "100円です。 (Hyaku en desu.) — Seratus yen."
   },
-
-  // === TEMA: KATA TANYA ===
   {
     "kanji": "何",
     "hiragana": "なに/なん",
@@ -1000,8 +989,6 @@
     "theme": "lainnya",
     "example": "この本はいくらですか？ (Kono hon wa ikura desu ka?) — Berapa harga buku ini?"
   },
-
-  // === TEMA: TEMPAT ===
   {
     "kanji": "家",
     "hiragana": "いえ/うち",
@@ -1524,8 +1511,6 @@
     "theme": "tempat",
     "example": "北は寒いです。 (Kita wa samui desu.) — Utara dingin."
   },
-
-  // === TEMA: BARANG & PERLENGKAPAN ===
   {
     "kanji": "本",
     "hiragana": "ほん",
@@ -1832,8 +1817,6 @@
     "theme": "lainnya",
     "example": "地下鉄で行きます。 (Chikatetsu de ikimasu.) — Saya pergi dengan kereta bawah tanah."
   },
-
-  // === TEMA: MAKANAN ===
   {
     "kanji": "食べ物",
     "hiragana": "たべもの",
@@ -2068,8 +2051,6 @@
     "theme": "makanan",
     "example": "料理が上手です。 (Ryouri ga jouzu desu.) — Masakannya enak."
   },
-
-  // === TEMA: PAKAIAN ===
   {
     "kanji": "服",
     "hiragana": "ふく",
@@ -2169,8 +2150,6 @@
     "theme": "pakaian",
     "example": "眼鏡をかけます。 (Megane o kakemasu.) — Saya memakai kacamata."
   },
-
-  // === TEMA: TUBUH ===
   {
     "kanji": "体",
     "hiragana": "からだ",
@@ -2288,8 +2267,6 @@
     "theme": "tubuh",
     "example": "お腹がすきました。 (Onaka ga sukimashita.) — Saya lapar."
   },
-
-  // === TEMA: HEWAN & TUMBUHAN ===
   {
     "kanji": "犬",
     "hiragana": "いぬ",
@@ -2335,8 +2312,6 @@
     "theme": "hewan",
     "example": "木が高いです。 (Ki ga takai desu.) — Pohonnya tinggi."
   },
-
-  // === TEMA: CUACA & ALAM ===
   {
     "kanji": "天気",
     "hiragana": "てんき",
@@ -2409,8 +2384,6 @@
     "theme": "lainnya",
     "example": "星が光っています。 (Hoshi ga hikatte imasu.) — Bintang bersinar."
   },
-
-  // === TEMA: WARNA ===
   {
     "kanji": "色",
     "hiragana": "いろ",
@@ -2483,8 +2456,6 @@
     "theme": "warna",
     "example": "茶色の目です。 (Chairo no me desu.) — Mata coklat."
   },
-
-  // === TEMA: KATA SIFAT I-ADJEKTIVA ===
   {
     "kanji": "大きい",
     "hiragana": "おおきい",
@@ -2980,8 +2951,6 @@
     "theme": "sifat",
     "example": "この箱は四角いです。 (Kono hako wa shikakui desu.) — Kotak ini persegi."
   },
-
-  // === TEMA: KATA SIFAT NA-ADJEKTIVA ===
   {
     "kanji": "静か",
     "hiragana": "しずか",
@@ -4379,8 +4348,6 @@
     "theme": "verba-dasar",
     "example": "朝シャワーします。 (Asa shawaa shimasu.) — Saya mandi shower pagi."
   },
-
-  // === TEMA: LAINNYA (Kata Penunjuk, Keterangan, dll) ===
   {
     "kanji": "これ",
     "hiragana": "これ",
@@ -4921,8 +4888,6 @@
     "theme": "angka",
     "example": "大勢の人がいます。 (Oozei no hito ga imasu.) — Ada banyak orang."
   },
-
-  // === TEMA: KATA PENGHUBUNG ===
   {
     "kanji": "そして",
     "hiragana": "そして",
@@ -5076,8 +5041,6 @@
     "theme": "penghubung",
     "example": "例えば、私は猫が好きです。 (Tatoeba, watashi wa neko ga suki desu.) — Misalnya, saya suka kucing."
   },
-
-  // === TEMA: UCAPAN ===
   {
     "kanji": "はい",
     "hiragana": "はい",
