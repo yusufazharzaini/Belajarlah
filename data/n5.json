@@ -5551,5 +5551,707 @@
     "level": "n5",
     "theme": "keluarga",
     "example": "彼は外国人です。 (Kare wa gaikokujin desu.) — Dia orang asing."
+  },
+  {
+    "kanji": "先輩",
+    "hiragana": "せんぱい",
+    "meaning": "Senior",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "先輩は親切です。 (Senpai wa shinsetsu desu.) — Senior itu ramah."
+  },
+  {
+    "kanji": "後輩",
+    "hiragana": "こうはい",
+    "meaning": "Junior",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "後輩を助けます。 (Kouhai o tasukemasu.) — Saya membantu junior."
+  },
+  {
+    "kanji": "同僚",
+    "hiragana": "どうりょう",
+    "meaning": "Rekan kerja",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "同僚と昼ご飯を食べます。 (Douryou to hirugohan o tabemasu.) — Saya makan siang dengan rekan kerja."
+  },
+  {
+    "kanji": "上司",
+    "hiragana": "じょうし",
+    "meaning": "Atasan",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "上司に報告します。 (Joushi ni houkoku shimasu.) — Saya melapor kepada atasan."
+  },
+  {
+    "kanji": "部下",
+    "hiragana": "ぶか",
+    "meaning": "Bawahan",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "部下を指導します。 (Buka o shidou shimasu.) — Saya membimbing bawahan."
+  },
+  {
+    "kanji": "社長",
+    "hiragana": "しゃちょう",
+    "meaning": "Direktur",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "社長は忙しいです。 (Shachou wa isogashii desu.) — Direktur itu sibuk."
+  },
+  {
+    "kanji": "課長",
+    "hiragana": "かちょう",
+    "meaning": "Kepala bagian",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "課長に電話します。 (Kachou ni denwa shimasu.) — Saya menelepon kepala bagian."
+  },
+  {
+    "kanji": "係",
+    "hiragana": "かかり",
+    "meaning": "Petugas",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "係の者を呼びます。 (Kakari no mono o yobimasu.) — Saya memanggil petugas."
+  },
+  {
+    "kanji": "アルバイト",
+    "hiragana": "アルバイト",
+    "meaning": "Kerja paruh waktu",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "アルバイトを探しています。 (Arubaito o sagashite imasu.) — Saya sedang mencari kerja paruh waktu."
+  },
+  {
+    "kanji": "給料",
+    "hiragana": "きゅうりょう",
+    "meaning": "Gaji",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "給料が上がりました。 (Kyuuryou ga agarimashita.) — Gaji naik."
+  },
+  {
+    "kanji": "会議",
+    "hiragana": "かいぎ",
+    "meaning": "Rapat",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "会議を開きます。 (Kaigi o hirakimasu.) — Saya mengadakan rapat."
+  },
+  {
+    "kanji": "出張",
+    "hiragana": "しゅっちょう",
+    "meaning": "Dinas",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "出張で大阪に行きます。 (Shucchou de Osaka ni ikimasu.) — Saya pergi ke Osaka untuk dinas."
+  },
+  {
+    "kanji": "休み",
+    "hiragana": "やすみ",
+    "meaning": "Libur",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "明日は休みです。 (Ashita wa yasumi desu.) — Besok libur."
+  },
+  {
+    "kanji": "夏休み",
+    "hiragana": "なつやすみ",
+    "meaning": "Liburan musim panas",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "夏休みに海に行きます。 (Natsuyasumi ni umi ni ikimasu.) — Saya pergi ke pantai saat liburan musim panas."
+  },
+  {
+    "kanji": "冬休み",
+    "hiragana": "ふゆやすみ",
+    "meaning": "Liburan musim dingin",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "冬休みは寒いです。 (Fuyuyasumi wa samui desu.) — Liburan musim dingin itu dingin."
+  },
+  {
+    "kanji": "春休み",
+    "hiragana": "はるやすみ",
+    "meaning": "Liburan musim semi",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "春休みは暖かいです。 (Haruyasumi wa atatakai desu.) — Liburan musim semi itu hangat."
+  },
+  {
+    "kanji": "ゴールデンウィーク",
+    "hiragana": "ゴールデンウィーク",
+    "meaning": "Golden Week",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "ゴールデンウィークに旅行します。 (Gōruden Wīku ni ryokō shimasu.) — Saya bepergian saat Golden Week."
+  },
+  {
+    "kanji": "正月",
+    "hiragana": "しょうがつ",
+    "meaning": "Tahun Baru",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "正月に神社に行きます。 (Shougatsu ni jinja ni ikimasu.) — Saya pergi ke kuil saat Tahun Baru."
+  },
+  {
+    "kanji": "春",
+    "hiragana": "はる",
+    "meaning": "Musim semi",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "春は暖かいです。 (Haru wa atatakai desu.) — Musim semi itu hangat."
+  },
+  {
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "meaning": "Musim panas",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "夏は暑いです。 (Natsu wa atsui desu.) — Musim panas itu panas."
+  },
+  {
+    "kanji": "秋",
+    "hiragana": "あき",
+    "meaning": "Musim gugur",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "秋は涼しいです。 (Aki wa suzushii desu.) — Musim gugur itu sejuk."
+  },
+  {
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "meaning": "Musim dingin",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "冬は寒いです。 (Fuyu wa samui desu.) — Musim dingin itu dingin."
+  },
+  {
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "meaning": "Musim",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "日本は四季があります。 (Nihon wa shiki ga arimasu.) — Jepang memiliki empat musim."
+  },
+  {
+    "kanji": "曇り",
+    "hiragana": "くもり",
+    "meaning": "Berawan",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "今日は曇りです。 (Kyou wa kumori desu.) — Hari ini berawan."
+  },
+  {
+    "kanji": "晴れ",
+    "hiragana": "はれ",
+    "meaning": "Cerah",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "明日は晴れです。 (Ashita wa hare desu.) — Besok cerah."
+  },
+  {
+    "kanji": "台風",
+    "hiragana": "たいふう",
+    "meaning": "Topan",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "台風が来ます。 (Taifuu ga kimasu.) — Topan datang."
+  },
+  {
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "meaning": "Gempa bumi",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "地震が起こりました。 (Jishin ga okorimashita.) — Gempa bumi terjadi."
+  },
+  {
+    "kanji": "火事",
+    "hiragana": "かじ",
+    "meaning": "Kebakaran",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "火事に気をつけます。 (Kaji ni ki o tsukemasu.) — Saya berhati-hati terhadap kebakaran."
+  },
+  {
+    "kanji": "事故",
+    "hiragana": "じこ",
+    "meaning": "Kecelakaan",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "交通事故に遭いました。 (Koutsuu jiko ni aimashita.) — Saya mengalami kecelakaan lalu lintas."
+  },
+  {
+    "kanji": "戦争",
+    "hiragana": "せんそう",
+    "meaning": "Perang",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "戦争は怖いです。 (Sensou wa kowai desu.) — Perang itu menakutkan."
+  },
+  {
+    "kanji": "平和",
+    "hiragana": "へいわ",
+    "meaning": "Damai",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "平和が大切です。 (Heiwa ga taisetsu desu.) — Perdamaian itu penting."
+  },
+  {
+    "kanji": "世界",
+    "hiragana": "せかい",
+    "meaning": "Dunia",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "世界地図を見ます。 (Sekaichizu o mimasu.) — Saya melihat peta dunia."
+  },
+  {
+    "kanji": "社会",
+    "hiragana": "しゃかい",
+    "meaning": "Masyarakat",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "社会で働きます。 (Shakai de hatarakimasu.) — Saya bekerja di masyarakat."
+  },
+  {
+    "kanji": "政治",
+    "hiragana": "せいじ",
+    "meaning": "Politik",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "政治に興味があります。 (Seiji ni kyoumi ga arimasu.) — Saya tertarik pada politik."
+  },
+  {
+    "kanji": "経済",
+    "hiragana": "けいざい",
+    "meaning": "Ekonomi",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "経済が成長しています。 (Keizai ga seichou shite imasu.) — Ekonomi sedang berkembang."
+  },
+  {
+    "kanji": "文化",
+    "hiragana": "ぶんか",
+    "meaning": "Budaya",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "日本の文化を学びます。 (Nihon no bunka o manabimasu.) — Saya belajar budaya Jepang."
+  },
+  {
+    "kanji": "歴史",
+    "hiragana": "れきし",
+    "meaning": "Sejarah",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "歴史の本を読みます。 (Rekishi no hon o yomimasu.) — Saya membaca buku sejarah."
+  },
+  {
+    "kanji": "科学",
+    "hiragana": "かがく",
+    "meaning": "Sains",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "科学が好きです。 (Kagaku ga suki desu.) — Saya suka sains."
+  },
+  {
+    "kanji": "技術",
+    "hiragana": "ぎじゅつ",
+    "meaning": "Teknologi",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "技術が進んでいます。 (Gijutsu ga susunde imasu.) — Teknologi sedang berkembang."
+  },
+  {
+    "kanji": "自然",
+    "hiragana": "しぜん",
+    "meaning": "Alam",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "自然が綺麗です。 (Shizen ga kirei desu.) — Alam itu indah."
+  },
+  {
+    "kanji": "環境",
+    "hiragana": "かんきょう",
+    "meaning": "Lingkungan",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "環境を守ります。 (Kankyou o mamorimasu.) — Saya melindungi lingkungan."
+  },
+  {
+    "kanji": "動物",
+    "hiragana": "どうぶつ",
+    "meaning": "Hewan",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "動物が好きです。 (Doubutsu ga suki desu.) — Saya suka hewan."
+  },
+  {
+    "kanji": "植物",
+    "hiragana": "しょくぶつ",
+    "meaning": "Tumbuhan",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "植物を育てます。 (Shokubutsu o sodatemasu.) — Saya menanam tumbuhan."
+  },
+  {
+    "kanji": "虫",
+    "hiragana": "むし",
+    "meaning": "Serangga",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "虫が嫌いです。 (Mushi ga kirai desu.) — Saya benci serangga."
+  },
+  {
+    "kanji": "蝶",
+    "hiragana": "ちょう",
+    "meaning": "Kupu-kupu",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "蝶が飛んでいます。 (Chou ga tonde imasu.) — Kupu-kupu sedang terbang."
+  },
+  {
+    "kanji": "蚊",
+    "hiragana": "か",
+    "meaning": "Nyamuk",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "蚊に刺されました。 (Ka ni sasaremashita.) — Saya digigit nyamuk."
+  },
+  {
+    "kanji": "象",
+    "hiragana": "ぞう",
+    "meaning": "Gajah",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "象は大きいです。 (Zou wa ookii desu.) — Gajah itu besar."
+  },
+  {
+    "kanji": "馬",
+    "hiragana": "うま",
+    "meaning": "Kuda",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "馬に乗ります。 (Uma ni norimasu.) — Saya menaiki kuda."
+  },
+  {
+    "kanji": "牛",
+    "hiragana": "うし",
+    "meaning": "Sapi",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "牛が草を食べています。 (Ushi ga kusa o tabete imasu.) — Sapi sedang makan rumput."
+  },
+  {
+    "kanji": "豚",
+    "hiragana": "ぶた",
+    "meaning": "Babi",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "豚肉が好きです。 (Butaniku ga suki desu.) — Saya suka daging babi."
+  },
+  {
+    "kanji": "羊",
+    "hiragana": "ひつじ",
+    "meaning": "Domba",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "羊がたくさんいます。 (Hitsuji ga takusan imasu.) — Ada banyak domba."
+  },
+  {
+    "kanji": "猿",
+    "hiragana": "さる",
+    "meaning": "Monyet",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "猿が木に登っています。 (Saru ga ki ni nobotte imasu.) — Monyet sedang memanjat pohon."
+  },
+  {
+    "kanji": "熊",
+    "hiragana": "くま",
+    "meaning": "Beruang",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "熊は怖いです。 (Kuma wa kowai desu.) — Beruang itu menakutkan."
+  },
+  {
+    "kanji": "虎",
+    "hiragana": "とら",
+    "meaning": "Harimau",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "虎は強いです。 (Tora wa tsuyoi desu.) — Harimau itu kuat."
+  },
+  {
+    "kanji": "蛇",
+    "hiragana": "へび",
+    "meaning": "Ular",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "蛇が嫌いです。 (Hebi ga kirai desu.) — Saya benci ular."
+  },
+  {
+    "kanji": "亀",
+    "hiragana": "かめ",
+    "meaning": "Kura-kura",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "亀は長生きです。 (Kame wa nagaiki desu.) — Kura-kura berumur panjang."
+  },
+  {
+    "kanji": "鳩",
+    "hiragana": "はと",
+    "meaning": "Merpati",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "鳩が空を飛んでいます。 (Hato ga sora o tonde imasu.) — Merpati terbang di langit."
+  },
+  {
+    "kanji": "鶏",
+    "hiragana": "にわとり",
+    "meaning": "Ayam",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "鶏が鳴いています。 (Niwatori ga naite imasu.) — Ayam berkokok."
+  },
+  {
+    "kanji": "番組",
+    "hiragana": "ばんぐみ",
+    "meaning": "Program TV",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "テレビ番組を見ます。 (Terebi bangumi o mimasu.) — Saya menonton program TV."
+  },
+  {
+    "kanji": "ニュース",
+    "hiragana": "ニュース",
+    "meaning": "Berita",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "ニュースを見ます。 (Nyūsu o mimasu.) — Saya menonton berita."
+  },
+  {
+    "kanji": "ドラマ",
+    "hiragana": "ドラマ",
+    "meaning": "Drama",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "ドラマが好きです。 (Dorama ga suki desu.) — Saya suka drama."
+  },
+  {
+    "kanji": "アニメ",
+    "hiragana": "アニメ",
+    "meaning": "Anime",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "アニメを見ます。 (Anime o mimasu.) — Saya menonton anime."
+  },
+  {
+    "kanji": "漫画",
+    "hiragana": "まんが",
+    "meaning": "Manga",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "漫画を読みます。 (Manga o yomimasu.) — Saya membaca manga."
+  },
+  {
+    "kanji": "小説",
+    "hiragana": "しょうせつ",
+    "meaning": "Novel",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "小説を買いました。 (Shousetsu o kaimashita.) — Saya membeli novel."
+  },
+  {
+    "kanji": "物語",
+    "hiragana": "ものがたり",
+    "meaning": "Cerita",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "面白い物語です。 (Omoshiroi monogatari desu.) — Ini cerita yang menarik."
+  },
+  {
+    "kanji": "ゲーム",
+    "hiragana": "ゲーム",
+    "meaning": "Game",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "ゲームをします。 (Gēmu o shimasu.) — Saya bermain game."
+  },
+  {
+    "kanji": "趣味",
+    "hiragana": "しゅみ",
+    "meaning": "Hobi",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "趣味は何ですか？ (Shumi wa nan desu ka?) — Apa hobi Anda?"
+  },
+  {
+    "kanji": "興味",
+    "hiragana": "きょうみ",
+    "meaning": "Minat",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "日本に興味があります。 (Nihon ni kyoumi ga arimasu.) — Saya tertarik pada Jepang."
+  },
+  {
+    "kanji": "約",
+    "hiragana": "やく",
+    "meaning": "Kira-kira",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "約100人です。 (Yaku hyakunin desu.) — Kira-kira 100 orang."
+  },
+  {
+    "kanji": "程",
+    "hiragana": "ほど",
+    "meaning": "Sekitar",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "１時間ほどかかります。 (Ichijikan hodo kakarimasu.) — Membutuhkan sekitar satu jam."
+  },
+  {
+    "kanji": "以上",
+    "hiragana": "いじょう",
+    "meaning": "Di atas/Lebih dari",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "18歳以上です。 (Juu-hachi-sai ijou desu.) — Di atas 18 tahun."
+  },
+  {
+    "kanji": "以下",
+    "hiragana": "いか",
+    "meaning": "Di bawah/Kurang dari",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "18歳以下です。 (Juu-hachi-sai ika desu.) — Kurang dari 18 tahun."
+  },
+  {
+    "kanji": "以内",
+    "hiragana": "いない",
+    "meaning": "Dalam/Kurang dari",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "10分以内に着きます。 (Juppun inai ni tsukimasu.) — Tiba dalam 10 menit."
+  },
+  {
+    "kanji": "以外",
+    "hiragana": "いがい",
+    "meaning": "Selain",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "日曜日以外は働きます。 (Nichiyoubi igai wa hatarakimasu.) — Saya bekerja selain hari Minggu."
+  },
+  {
+    "kanji": "間に",
+    "hiragana": "あいだに",
+    "meaning": "Selama",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "夏休みの間に本を読みます。 (Natsuyasumi no aida ni hon o yomimasu.) — Saya membaca buku selama liburan musim panas."
+  },
+  {
+    "kanji": "前に",
+    "hiragana": "まえに",
+    "meaning": "Sebelum",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "食事の前に手を洗います。 (Shokuji no mae ni te o araimasu.) — Saya mencuci tangan sebelum makan."
+  },
+  {
+    "kanji": "後で",
+    "hiragana": "あとで",
+    "meaning": "Setelah",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "食事の後でコーヒーを飲みます。 (Shokuji no ato de koohii o nomimasu.) — Saya minum kopi setelah makan."
+  },
+  {
+    "kanji": "中に",
+    "hiragana": "なかに",
+    "meaning": "Di dalam",
+    "type": "kata-benda",
+    "level": "n5",
+    "theme": "lainnya",
+    "example": "箱の中に何がありますか？ (Hako no naka ni nani ga arimasu ka?) — Ada apa di dalam kotak?"
   }
 ]
