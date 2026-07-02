@@ -2263,7 +2263,7 @@
     "hiragana": "おなか",
     "meaning": "Perut",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "body",
     "example": "お腹が空きました。 (Onaka ga sukimashita.) - Saya lapar."
   },
@@ -2272,7 +2272,7 @@
     "hiragana": "いぬ",
     "meaning": "Anjing",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "animal",
     "example": "犬が好きです。 (Inu ga suki desu.) - Saya suka anjing."
   },
@@ -2281,7 +2281,7 @@
     "hiragana": "ねこ",
     "meaning": "Kucing",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "animal",
     "example": "猫を飼っています。 (Neko wo katte imasu.) - Saya memelihara kucing."
   },
@@ -2290,7 +2290,7 @@
     "hiragana": "とり",
     "meaning": "Burung",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "animal",
     "example": "鳥が飛んでいます。 (Tori ga tonde imasu.) - Burung terbang."
   },
@@ -2299,7 +2299,7 @@
     "hiragana": "はな",
     "meaning": "Bunga",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "花が咲いています。 (Hana ga saite imasu.) - Bunga sedang mekar."
   },
@@ -2308,7 +2308,7 @@
     "hiragana": "き",
     "meaning": "Pohon",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "木の下に座ります。 (Ki no shita ni suwarimasu.) - Saya duduk di bawah pohon."
   },
@@ -2317,7 +2317,7 @@
     "hiragana": "てんき",
     "meaning": "Cuaca",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "天気がいいです。 (Tenki ga ii desu.) - Cuaca bagus."
   },
@@ -2326,7 +2326,7 @@
     "hiragana": "あめ",
     "meaning": "Hujan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "雨が降っています。 (Ame ga futte imasu.) - Sedang hujan."
   },
@@ -2335,7 +2335,7 @@
     "hiragana": "ゆき",
     "meaning": "Salju",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "雪が降っています。 (Yuki ga futte imasu.) - Sedang turun salju."
   },
@@ -2344,7 +2344,7 @@
     "hiragana": "かぜ",
     "meaning": "Angin",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "風が強いです。 (Kaze ga tsuyoi desu.) - Angin kencang."
   },
@@ -2353,7 +2353,7 @@
     "hiragana": "そら",
     "meaning": "Langit",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "空が青いです。 (Sora ga aoi desu.) - Langit biru."
   },
@@ -2362,7 +2362,7 @@
     "hiragana": "たいよう",
     "meaning": "Matahari",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "太陽が昇ります。 (Taiyou ga noborimasu.) - Matahari terbit."
   },
@@ -2371,7 +2371,7 @@
     "hiragana": "つき",
     "meaning": "Bulan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "月がきれいです。 (Tsuki ga kirei desu.) - Bulan indah."
   },
@@ -2380,7 +2380,7 @@
     "hiragana": "ほし",
     "meaning": "Bintang",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "nature",
     "example": "星が光っています。 (Hoshi ga hikatte imasu.) - Bintang bersinar."
   },
@@ -2389,7 +2389,7 @@
     "hiragana": "いろ",
     "meaning": "Warna",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "color",
     "example": "色が好きです。 (Iro ga suki desu.) - Saya suka warna."
   },
@@ -2398,7 +2398,7 @@
     "hiragana": "あか",
     "meaning": "Merah",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "color",
     "example": "赤い車です。 (Akai kuruma desu.) - Mobil merah."
   },
@@ -2407,7 +2407,7 @@
     "hiragana": "あお",
     "meaning": "Biru",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "color",
     "example": "青い空です。 (Aoi sora desu.) - Langit biru."
   },
@@ -2416,7 +2416,7 @@
     "hiragana": "しろ",
     "meaning": "Putih",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "color",
     "example": "白い服です。 (Shiroi fuku desu.) - Pakaian putih."
   },
@@ -2425,7 +2425,7 @@
     "hiragana": "くろ",
     "meaning": "Hitam",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "color",
     "example": "黒い猫です。 (Kuroi neko desu.) - Kucing hitam."
   },
@@ -2434,7 +2434,7 @@
     "hiragana": "きいろ",
     "meaning": "Kuning",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "color",
     "example": "黄色い花です。 (Kiiroi hana desu.) - Bunga kuning."
   },
@@ -2443,7 +2443,7 @@
     "hiragana": "みどり",
     "meaning": "Hijau",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "color",
     "example": "緑の葉です。 (Midori no ha desu.) - Daun hijau."
   },
@@ -2452,7 +2452,7 @@
     "hiragana": "ちゃいろ",
     "meaning": "Coklat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "color",
     "example": "茶色の机です。 (Chairo no tsukue desu.) - Meja coklat."
   },
@@ -2461,7 +2461,7 @@
     "hiragana": "おおきい",
     "meaning": "Besar",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "大きい家です。 (Ookii ie desu.) - Rumah besar."
   },
@@ -2470,7 +2470,7 @@
     "hiragana": "ちいさい",
     "meaning": "Kecil",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "小さい猫です。 (Chiisai neko desu.) - Kucing kecil."
   },
@@ -2479,7 +2479,7 @@
     "hiragana": "ながい",
     "meaning": "Panjang",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "長い川です。 (Nagai kawa desu.) - Sungai panjang."
   },
@@ -2488,7 +2488,7 @@
     "hiragana": "みじかい",
     "meaning": "Pendek",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "短い鉛筆です。 (Mijikai enpitsu desu.) - Pensil pendek."
   },
@@ -2497,7 +2497,7 @@
     "hiragana": "たかい",
     "meaning": "Tinggi/Mahal",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "高い山です。 (Takai yama desu.) - Gunung tinggi."
   },
@@ -2506,7 +2506,7 @@
     "hiragana": "ひくい",
     "meaning": "Rendah",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "低い声です。 (Hikui koe desu.) - Suara rendah."
   },
@@ -2515,7 +2515,7 @@
     "hiragana": "やすい",
     "meaning": "Murah",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "安い店です。 (Yasui mise desu.) - Toko murah."
   },
@@ -2524,7 +2524,7 @@
     "hiragana": "あたらしい",
     "meaning": "Baru",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "新しい車です。 (Atarashii kuruma desu.) - Mobil baru."
   },
@@ -2533,7 +2533,7 @@
     "hiragana": "ふるい",
     "meaning": "Lama/Tua",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "古い本です。 (Furui hon desu.) - Buku lama."
   },
@@ -2542,7 +2542,7 @@
     "hiragana": "いい/よい",
     "meaning": "Baik",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "良い天気です。 (Ii tenki desu.) - Cuaca baik."
   },
@@ -2551,7 +2551,7 @@
     "hiragana": "わるい",
     "meaning": "Buruk",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "悪い人です。 (Warui hito desu.) - Orang buruk."
   },
@@ -2560,7 +2560,7 @@
     "hiragana": "おおい",
     "meaning": "Banyak",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "人が多いです。 (Hito ga ooi desu.) - Banyak orang."
   },
@@ -2569,7 +2569,7 @@
     "hiragana": "すくない",
     "meaning": "Sedikit",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "お金が少ないです。 (Okane ga sukunai desu.) - Uang sedikit."
   },
@@ -2578,7 +2578,7 @@
     "hiragana": "ひろい",
     "meaning": "Luas",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "広い部屋です。 (Hiroi heya desu.) - Kamar luas."
   },
@@ -2587,7 +2587,7 @@
     "hiragana": "せまい",
     "meaning": "Sempit",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "狭い道です。 (Semai michi desu.) - Jalan sempit."
   },
@@ -2596,7 +2596,7 @@
     "hiragana": "おもい",
     "meaning": "Berat",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "重い荷物です。 (Omoi nimotsu desu.) - Barang berat."
   },
@@ -2605,7 +2605,7 @@
     "hiragana": "かるい",
     "meaning": "Ringan",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "軽い本です。 (Karui hon desu.) - Buku ringan."
   },
@@ -2614,7 +2614,7 @@
     "hiragana": "あつい",
     "meaning": "Tebal",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "厚い辞書です。 (Atsui jisho desu.) - Kamus tebal."
   },
@@ -2623,7 +2623,7 @@
     "hiragana": "うすい",
     "meaning": "Tipis",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "薄い紙です。 (Usui kami desu.) - Kertas tipis."
   },
@@ -2632,7 +2632,7 @@
     "hiragana": "あつい",
     "meaning": "Panas (cuaca)",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "今日は暑いです。 (Kyou wa atsui desu.) - Hari ini panas."
   },
@@ -2641,7 +2641,7 @@
     "hiragana": "さむい",
     "meaning": "Dingin (cuaca)",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "冬は寒いです。 (Fuyu wa samui desu.) - Musim dingin dingin."
   },
@@ -2650,7 +2650,7 @@
     "hiragana": "あつい",
     "meaning": "Panas (benda)",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "熱いお茶です。 (Atsui ocha desu.) - Teh panas."
   },
@@ -2659,7 +2659,7 @@
     "hiragana": "つめたい",
     "meaning": "Dingin (benda)",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "冷たい水です。 (Tsumetai mizu desu.) - Air dingin."
   },
@@ -2668,7 +2668,7 @@
     "hiragana": "あたたかい",
     "meaning": "Hangat",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "暖かい部屋です。 (Atatakai heya desu.) - Kamar hangat."
   },
@@ -2677,7 +2677,7 @@
     "hiragana": "すずしい",
     "meaning": "Sejuk",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "涼しい風です。 (Suzushii kaze desu.) - Angin sejuk."
   },
@@ -2686,7 +2686,7 @@
     "hiragana": "あまい",
     "meaning": "Manis",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "甘いケーキです。 (Amai keeki desu.) - Kue manis."
   },
@@ -2695,7 +2695,7 @@
     "hiragana": "からい",
     "meaning": "Pedas",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "辛いカレーです。 (Karai karee desu.) - Kari pedas."
   },
@@ -2704,7 +2704,7 @@
     "hiragana": "にがい",
     "meaning": "Pahit",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この薬は苦いです。 (Kono kusuri wa nigai desu.) - Obat ini pahit."
   },
@@ -2713,7 +2713,7 @@
     "hiragana": "すっぱい",
     "meaning": "Asam",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "このレモンは酸っぱいです。 (Kono remon wa suppai desu.) - Lemon ini asam."
   },
@@ -2722,7 +2722,7 @@
     "hiragana": "おいしい",
     "meaning": "Enak",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "このケーキは美味しいです。 (Kono keeki wa oishii desu.) - Kue ini enak."
   },
@@ -2731,7 +2731,7 @@
     "hiragana": "まずい",
     "meaning": "Tidak enak",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この料理はまずいです。 (Kono ryouri wa mazui desu.) - Masakan ini tidak enak."
   },
@@ -2740,7 +2740,7 @@
     "hiragana": "はやい",
     "meaning": "Cepat/Pagi",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "今日は早く起きました。 (Kyou wa hayaku okimashita.) - Saya bangun pagi hari ini."
   },
@@ -2749,7 +2749,7 @@
     "hiragana": "おそい",
     "meaning": "Lambat/Terlambat",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "電車が遅いです。 (Densha ga osoi desu.) - Kereta lambat."
   },
@@ -2758,7 +2758,7 @@
     "hiragana": "はやい",
     "meaning": "Cepat (kecepatan)",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この車は速いです。 (Kono kuruma wa hayai desu.) - Mobil ini cepat."
   },
@@ -2767,7 +2767,7 @@
     "hiragana": "ちかい",
     "meaning": "Dekat",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "駅は近いです。 (Eki wa chikai desu.) - Stasiun dekat."
   },
@@ -2776,7 +2776,7 @@
     "hiragana": "とおい",
     "meaning": "Jauh",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "ここから遠いです。 (Koko kara tooi desu.) - Jauh dari sini."
   },
@@ -2785,7 +2785,7 @@
     "hiragana": "むずかしい",
     "meaning": "Sulit",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この問題は難しいです。 (Kono mondai wa muzukashii desu.) - Soal ini sulit."
   },
@@ -2794,7 +2794,7 @@
     "hiragana": "やさしい",
     "meaning": "Mudah",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "このテストは易しいです。 (Kono tesuto wa yasashii desu.) - Tes ini mudah."
   },
@@ -2803,7 +2803,7 @@
     "hiragana": "やさしい",
     "meaning": "Baik hati",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "彼は優しい人です。 (Kare wa yasashii hito desu.) - Dia orang yang baik hati."
   },
@@ -2812,7 +2812,7 @@
     "hiragana": "おもしろい",
     "meaning": "Menarik",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この本は面白いです。 (Kono hon wa omoshiroi desu.) - Buku ini menarik."
   },
@@ -2821,7 +2821,7 @@
     "hiragana": "つまらない",
     "meaning": "Membosankan",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この映画はつまらないです。 (Kono eiga wa tsumaranai desu.) - Film ini membosankan."
   },
@@ -2830,7 +2830,7 @@
     "hiragana": "たのしい",
     "meaning": "Menyenangkan",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "パーティーは楽しかったです。 (Paatii wa tanoshikatta desu.) - Pestanya menyenangkan."
   },
@@ -2839,7 +2839,7 @@
     "hiragana": "うれしい",
     "meaning": "Senang",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "プレゼントをもらって嬉しいです。 (Purezento wo moratte ureshii desu.) - Saya senang menerima hadiah."
   },
@@ -2848,7 +2848,7 @@
     "hiragana": "かなしい",
     "meaning": "Sedih",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "彼の話を聞いて悲しいです。 (Kare no hanashi wo kiite kanashii desu.) - Saya sedih mendengar ceritanya."
   },
@@ -2857,7 +2857,7 @@
     "hiragana": "こわい",
     "meaning": "Menakutkan",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この映画は怖いです。 (Kono eiga wa kowai desu.) - Film ini menakutkan."
   },
@@ -2866,7 +2866,7 @@
     "hiragana": "あかるい",
     "meaning": "Terang",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "部屋が明るいです。 (Heya ga akarui desu.) - Ruangan terang."
   },
@@ -2875,7 +2875,7 @@
     "hiragana": "くらい",
     "meaning": "Gelap",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "外は暗いです。 (Soto wa kurai desu.) - Di luar gelap."
   },
@@ -2884,7 +2884,7 @@
     "hiragana": "いそがしい",
     "meaning": "Sibuk",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "今日は忙しいです。 (Kyou wa isogashii desu.) - Hari ini sibuk."
   },
@@ -2893,7 +2893,7 @@
     "hiragana": "ねむい",
     "meaning": "Mengantuk",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "眠いです。 (Nemui desu.) - Saya mengantuk."
   },
@@ -2902,7 +2902,7 @@
     "hiragana": "いたい",
     "meaning": "Sakit",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "頭が痛いです。 (Atama ga itai desu.) - Kepala saya sakit."
   },
@@ -2911,7 +2911,7 @@
     "hiragana": "つよい",
     "meaning": "Kuat",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "彼は強いです。 (Kare wa tsuyoi desu.) - Dia kuat."
   },
@@ -2920,7 +2920,7 @@
     "hiragana": "よわい",
     "meaning": "Lemah",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "私は弱いです。 (Watashi wa yowai desu.) - Saya lemah."
   },
@@ -2938,7 +2938,7 @@
     "hiragana": "まるい",
     "meaning": "Bulat",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "このテーブルは丸いです。 (Kono teeburu wa marui desu.) - Meja ini bulat."
   },
@@ -2947,7 +2947,7 @@
     "hiragana": "しかくい",
     "meaning": "Persegi",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この箱は四角いです。 (Kono hako wa shikakui desu.) - Kotak ini persegi."
   },
@@ -2956,7 +2956,7 @@
     "hiragana": "しずか",
     "meaning": "Tenang",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この町は静かです。 (Kono machi wa shizuka desu.) - Kota ini tenang."
   },
@@ -2965,7 +2965,7 @@
     "hiragana": "にぎやか",
     "meaning": "Ramai",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この通りは賑やかです。 (Kono toori wa nigiyaka desu.) - Jalan ini ramai."
   },
@@ -2974,7 +2974,7 @@
     "hiragana": "ゆうめい",
     "meaning": "Terkenal",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "富士山は有名です。 (Fujisan wa yuumei desu.) - Gunung Fuji terkenal."
   },
@@ -2983,7 +2983,7 @@
     "hiragana": "しんせつ",
     "meaning": "Ramah",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "彼女は親切です。 (Kanojo wa shinsetsu desu.) - Dia (perempuan) ramah."
   },
@@ -2992,7 +2992,7 @@
     "hiragana": "げんき",
     "meaning": "Sehat/Semangat",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "お元気ですか？ (Ogenki desu ka?) - Apakah Anda sehat?"
   },
@@ -3001,7 +3001,7 @@
     "hiragana": "だいじょうぶ",
     "meaning": "Tidak apa-apa",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "大丈夫です。 (Daijoubu desu.) - Tidak apa-apa."
   },
@@ -3010,7 +3010,7 @@
     "hiragana": "たいせつ",
     "meaning": "Penting",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "時間は大切です。 (Jikan wa taisetsu desu.) - Waktu itu penting."
   },
@@ -3019,7 +3019,7 @@
     "hiragana": "たいへん",
     "meaning": "Sangat/Sulit",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "これは大変です。 (Kore wa taihen desu.) - Ini sulit/sangat."
   },
@@ -3028,7 +3028,7 @@
     "hiragana": "かんたん",
     "meaning": "Mudah",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この問題は簡単です。 (Kono mondai wa kantan desu.) - Soal ini mudah."
   },
@@ -3037,7 +3037,7 @@
     "hiragana": "べんり",
     "meaning": "Praktis",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "このカバンは便利です。 (Kono kaban wa benri desu.) - Tas ini praktis."
   },
@@ -3046,7 +3046,7 @@
     "hiragana": "ふべん",
     "meaning": "Tidak praktis",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "ここは不便です。 (Koko wa fuben desu.) - Di sini tidak praktis."
   },
@@ -3055,7 +3055,7 @@
     "hiragana": "きれい",
     "meaning": "Cantik/Bersih",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この花は綺麗です。 (Kono hana wa kirei desu.) - Bunga ini cantik."
   },
@@ -3064,7 +3064,7 @@
     "hiragana": "きたない",
     "meaning": "Kotor",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "この部屋は汚いです。 (Kono heya wa kitanai desu.) - Kamar ini kotor."
   },
@@ -3073,7 +3073,7 @@
     "hiragana": "じょうず",
     "meaning": "Pandai",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "彼は料理が上手です。 (Kare wa ryouri ga jouzu desu.) - Dia pandai memasak."
   },
@@ -3082,7 +3082,7 @@
     "hiragana": "へた",
     "meaning": "Tidak pandai",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "私は歌が下手です。 (Watashi wa uta ga heta desu.) - Saya tidak pandai bernyanyi."
   },
@@ -3091,7 +3091,7 @@
     "hiragana": "すき",
     "meaning": "Suka",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "私は猫が好きです。 (Watashi wa neko ga suki desu.) - Saya suka kucing."
   },
@@ -3100,7 +3100,7 @@
     "hiragana": "きらい",
     "meaning": "Benci",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "彼は野菜が嫌いです。 (Kare wa yasai ga kirai desu.) - Dia benci sayuran."
   },
@@ -3109,7 +3109,7 @@
     "hiragana": "ひま",
     "meaning": "Senggang",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "今日は暇ですか？ (Kyou wa hima desu ka?) - Apakah Anda senggang hari ini?"
   },
@@ -3118,7 +3118,7 @@
     "hiragana": "いろいろ",
     "meaning": "Berbagai macam",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "色々な本があります。 (Iroiro na hon ga arimasu.) - Ada berbagai macam buku."
   },
@@ -3127,7 +3127,7 @@
     "hiragana": "おなじ",
     "meaning": "Sama",
     "type": "na-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "同じです。 (Onaji desu.) - Sama."
   },
@@ -3136,7 +3136,7 @@
     "hiragana": "ちがう",
     "meaning": "Berbeda",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "これは違います。 (Kore wa chigaimasu.) - Ini berbeda."
   },
@@ -3145,7 +3145,7 @@
     "hiragana": "いく",
     "meaning": "Pergi",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "学校へ行きます。 (Gakkou e ikimasu.) - Saya pergi ke sekolah."
   },
@@ -3154,7 +3154,7 @@
     "hiragana": "くる",
     "meaning": "Datang",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "友達が来ます。 (Tomodachi ga kimasu.) - Teman datang."
   },
@@ -3163,7 +3163,7 @@
     "hiragana": "かえる",
     "meaning": "Pulang",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "家へ帰ります。 (Ie e kaerimasu.) - Saya pulang ke rumah."
   },
@@ -3172,7 +3172,7 @@
     "hiragana": "でる",
     "meaning": "Keluar",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "部屋を出ます。 (Heya wo demasu.) - Saya keluar kamar."
   },
@@ -3181,7 +3181,7 @@
     "hiragana": "はいる",
     "meaning": "Masuk",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "部屋に入ります。 (Heya ni hairimasu.) - Saya masuk kamar."
   },
@@ -3190,7 +3190,7 @@
     "hiragana": "でかける",
     "meaning": "Pergi keluar",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "出かけます。 (Dekakemasu.) - Saya pergi keluar."
   },
@@ -3199,7 +3199,7 @@
     "hiragana": "つく",
     "meaning": "Tiba",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "駅に着きました。 (Eki ni tsukimashita.) - Saya tiba di stasiun."
   },
@@ -3208,7 +3208,7 @@
     "hiragana": "あるく",
     "meaning": "Berjalan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "歩いて学校へ行きます。 (Aruite gakkou e ikimasu.) - Saya pergi ke sekolah dengan berjalan."
   },
@@ -3217,7 +3217,7 @@
     "hiragana": "はしる",
     "meaning": "Berlari",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "公園を走ります。 (Kouen wo hashirimasu.) - Saya berlari di taman."
   },
@@ -3226,7 +3226,7 @@
     "hiragana": "のる",
     "meaning": "Naik (kendaraan)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "バスに乗ります。 (Basu ni norimasu.) - Saya naik bus."
   },
@@ -3235,7 +3235,7 @@
     "hiragana": "おりる",
     "meaning": "Turun (kendaraan)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "駅で降ります。 (Eki de orimasu.) - Saya turun di stasiun."
   },
@@ -3244,7 +3244,7 @@
     "hiragana": "わたる",
     "meaning": "Menyeberang",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "道を渡ります。 (Michi wo watarimasu.) - Saya menyeberang jalan."
   },
@@ -3253,7 +3253,7 @@
     "hiragana": "まがる",
     "meaning": "Berbelok",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "右に曲がります。 (Migi ni magarimasu.) - Saya belok kanan."
   },
@@ -3262,7 +3262,7 @@
     "hiragana": "とまる",
     "meaning": "Berhenti",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "車が止まります。 (Kuruma ga tomarimasu.) - Mobil berhenti."
   },
@@ -3271,7 +3271,7 @@
     "hiragana": "およぐ",
     "meaning": "Berenang",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "プールで泳ぎます。 (Puuru de oyogimasu.) - Saya berenang di kolam."
   },
@@ -3280,7 +3280,7 @@
     "hiragana": "とぶ",
     "meaning": "Terbang",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "鳥が飛びます。 (Tori ga tobimasu.) - Burung terbang."
   },
@@ -3289,7 +3289,7 @@
     "hiragana": "のぼる",
     "meaning": "Mendaki",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "山に登ります。 (Yama ni noborimasu.) - Saya mendaki gunung."
   },
@@ -3298,7 +3298,7 @@
     "hiragana": "たべる",
     "meaning": "Makan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ご飯を食べます。 (Gohan wo tabemasu.) - Saya makan nasi."
   },
@@ -3307,7 +3307,7 @@
     "hiragana": "のむ",
     "meaning": "Minum",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "水を飲みます。 (Mizu wo nomimasu.) - Saya minum air."
   },
@@ -3316,7 +3316,7 @@
     "hiragana": "つくる",
     "meaning": "Membuat",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "料理を作ります。 (Ryouri wo tsukurimasu.) - Saya membuat masakan."
   },
@@ -3325,7 +3325,7 @@
     "hiragana": "かう",
     "meaning": "Membeli",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "本を買います。 (Hon wo kaimasu.) - Saya membeli buku."
   },
@@ -3334,7 +3334,7 @@
     "hiragana": "うる",
     "meaning": "Menjual",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "この店は果物を売ります。 (Kono mise wa kudamono wo urimasu.) - Toko ini menjual buah."
   },
@@ -3343,7 +3343,7 @@
     "hiragana": "はらう",
     "meaning": "Membayar",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "お金を払います。 (Okane wo haraimasu.) - Saya membayar uang."
   },
@@ -3352,7 +3352,7 @@
     "hiragana": "かす",
     "meaning": "Meminjamkan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "友達に本を貸します。 (Tomodachi ni hon wo kashimasu.) - Saya meminjamkan buku kepada teman."
   },
@@ -3361,7 +3361,7 @@
     "hiragana": "かりる",
     "meaning": "Meminjam",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "図書館で本を借ります。 (Toshokan de hon wo karimasu.) - Saya meminjam buku di perpustakaan."
   },
@@ -3370,7 +3370,7 @@
     "hiragana": "かえす",
     "meaning": "Mengembalikan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "本を返します。 (Hon wo kaeshimasu.) - Saya mengembalikan buku."
   },
@@ -3379,7 +3379,7 @@
     "hiragana": "あげる",
     "meaning": "Memberi",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "友達にプレゼントをあげます。 (Tomodachi ni purezento wo agemasu.) - Saya memberi hadiah kepada teman."
   },
@@ -3388,7 +3388,7 @@
     "hiragana": "もらう",
     "meaning": "Menerima",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "友達からプレゼントをもらいます。 (Tomodachi kara purezento wo moraimasu.) - Saya menerima hadiah dari teman."
   },
@@ -3397,7 +3397,7 @@
     "hiragana": "くれる",
     "meaning": "Memberiku",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "友達がプレゼントをくれました。 (Tomodachi ga purezento wo kuremashita.) - Teman memberi saya hadiah."
   },
@@ -3406,7 +3406,7 @@
     "hiragana": "おくる",
     "meaning": "Mengirim",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "手紙を送ります。 (Tegami wo okurimasu.) - Saya mengirim surat."
   },
@@ -3415,7 +3415,7 @@
     "hiragana": "とどく",
     "meaning": "Sampai (barang)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "荷物が届きました。 (Nimotsu ga todokimashita.) - Barang sudah sampai."
   },
@@ -3424,7 +3424,7 @@
     "hiragana": "みる",
     "meaning": "Melihat",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "テレビを見ます。 (Terebi wo mimasu.) - Saya menonton TV."
   },
@@ -3433,7 +3433,7 @@
     "hiragana": "みせる",
     "meaning": "Memperlihatkan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "写真を見せます。 (Shashin wo misemasu.) - Saya memperlihatkan foto."
   },
@@ -3442,7 +3442,7 @@
     "hiragana": "きく",
     "meaning": "Mendengar/Bertanya",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "音楽を聞きます。 (Ongaku wo kikimasu.) - Saya mendengar musik."
   },
@@ -3451,7 +3451,7 @@
     "hiragana": "はなす",
     "meaning": "Berbicara",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "日本語を話します。 (Nihongo wo hanashimasu.) - Saya berbicara bahasa Jepang."
   },
@@ -3460,7 +3460,7 @@
     "hiragana": "いう",
     "meaning": "Berkata",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "彼はそう言いました。 (Kare wa sou iimashita.) - Dia berkata begitu."
   },
@@ -3469,7 +3469,7 @@
     "hiragana": "よむ",
     "meaning": "Membaca",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "本を読みます。 (Hon wo yomimasu.) - Saya membaca buku."
   },
@@ -3478,7 +3478,7 @@
     "hiragana": "かく",
     "meaning": "Menulis",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "手紙を書きます。 (Tegami wo kakimasu.) - Saya menulis surat."
   },
@@ -3487,7 +3487,7 @@
     "hiragana": "かく",
     "meaning": "Menggambar",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "絵を描きます。 (E wo kakimasu.) - Saya menggambar."
   },
@@ -3496,7 +3496,7 @@
     "hiragana": "ならう",
     "meaning": "Belajar (dari guru)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "先生に日本語を習います。 (Sensei ni nihongo wo naraimasu.) - Saya belajar bahasa Jepang dari guru."
   },
@@ -3505,7 +3505,7 @@
     "hiragana": "べんきょうする",
     "meaning": "Belajar",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "日本語を勉強します。 (Nihongo wo benkyou shimasu.) - Saya belajar bahasa Jepang."
   },
@@ -3514,7 +3514,7 @@
     "hiragana": "おしえる",
     "meaning": "Mengajar",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "先生が日本語を教えます。 (Sensei ga nihongo wo oshiemasu.) - Guru mengajar bahasa Jepang."
   },
@@ -3523,7 +3523,7 @@
     "hiragana": "おぼえる",
     "meaning": "Mengingat",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "単語を覚えます。 (Tango wo oboemasu.) - Saya mengingat kosakata."
   },
@@ -3532,7 +3532,7 @@
     "hiragana": "わすれる",
     "meaning": "Lupa",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "傘を忘れました。 (Kasa wo wasuremashita.) - Saya lupa payung."
   },
@@ -3541,7 +3541,7 @@
     "hiragana": "しる",
     "meaning": "Tahu",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "彼の名前を知っています。 (Kare no namae wo shitte imasu.) - Saya tahu namanya."
   },
@@ -3550,7 +3550,7 @@
     "hiragana": "わかる",
     "meaning": "Mengerti",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "日本語が分かります。 (Nihongo ga wakarimasu.) - Saya mengerti bahasa Jepang."
   },
@@ -3559,7 +3559,7 @@
     "hiragana": "かんがえる",
     "meaning": "Berpikir",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "よく考えます。 (Yoku kangaemasu.) - Saya berpikir dengan baik."
   },
@@ -3568,7 +3568,7 @@
     "hiragana": "おもう",
     "meaning": "Berpikir/Merasa",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "そう思います。 (Sou omoimasu.) - Saya pikir begitu."
   },
@@ -3577,7 +3577,7 @@
     "hiragana": "こたえる",
     "meaning": "Menjawab",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "質問に答えます。 (Shitsumon ni kotaemasu.) - Saya menjawab pertanyaan."
   },
@@ -3586,7 +3586,7 @@
     "hiragana": "しつもんする",
     "meaning": "Bertanya",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "先生に質問します。 (Sensei ni shitsumon shimasu.) - Saya bertanya kepada guru."
   },
@@ -3595,7 +3595,7 @@
     "hiragana": "はたらく",
     "meaning": "Bekerja",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "会社で働きます。 (Kaisha de hatarakimasu.) - Saya bekerja di perusahaan."
   },
@@ -3604,7 +3604,7 @@
     "hiragana": "やすむ",
     "meaning": "Istirahat",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "日曜日は休みます。 (Nichiyoubi wa yasumimasu.) - Saya istirahat pada hari Minggu."
   },
@@ -3613,7 +3613,7 @@
     "hiragana": "あそぶ",
     "meaning": "Bermain",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "公園で遊びます。 (Kouen de asobimasu.) - Saya bermain di taman."
   },
@@ -3622,7 +3622,7 @@
     "hiragana": "おきる",
     "meaning": "Bangun",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "朝6時に起きます。 (Asa rokuji ni okimasu.) - Saya bangun jam 6 pagi."
   },
@@ -3631,7 +3631,7 @@
     "hiragana": "ねる",
     "meaning": "Tidur",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "夜10時に寝ます。 (Yoru juuji ni nemasu.) - Saya tidur jam 10 malam."
   },
@@ -3649,7 +3649,7 @@
     "hiragana": "たつ",
     "meaning": "Berdiri",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "立ちます。 (Tachimasu.) - Saya berdiri."
   },
@@ -3658,7 +3658,7 @@
     "hiragana": "まつ",
     "meaning": "Menunggu",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "バスを待ちます。 (Basu wo machimasu.) - Saya menunggu bus."
   },
@@ -3667,7 +3667,7 @@
     "hiragana": "あう",
     "meaning": "Bertemu",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "友達に会います。 (Tomodachi ni aimasu.) - Saya bertemu teman."
   },
@@ -3676,7 +3676,7 @@
     "hiragana": "つかう",
     "meaning": "Menggunakan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "パソコンを使います。 (Pasokon wo tsukaimasu.) - Saya menggunakan komputer."
   },
@@ -3685,7 +3685,7 @@
     "hiragana": "もつ",
     "meaning": "Memegang",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "カバンを持ちます。 (Kaban wo mochimasu.) - Saya memegang tas."
   },
@@ -3694,7 +3694,7 @@
     "hiragana": "おく",
     "meaning": "Meletakkan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "本を机に置きます。 (Hon wo tsukue ni okimasu.) - Saya meletakkan buku di meja."
   },
@@ -3703,7 +3703,7 @@
     "hiragana": "とる",
     "meaning": "Mengambil",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ペンを取ります。 (Pen wo torimasu.) - Saya mengambil pulpen."
   },
@@ -3712,7 +3712,7 @@
     "hiragana": "とる",
     "meaning": "Memotret",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "写真を撮ります。 (Shashin wo torimasu.) - Saya memotret."
   },
@@ -3721,7 +3721,7 @@
     "hiragana": "おす",
     "meaning": "Mendorong/Menekan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ボタンを押します。 (Botan wo oshimasu.) - Saya menekan tombol."
   },
@@ -3730,7 +3730,7 @@
     "hiragana": "ひく",
     "meaning": "Menarik",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ドアを引きます。 (Doa wo hikimasu.) - Saya menarik pintu."
   },
@@ -3739,7 +3739,7 @@
     "hiragana": "あける",
     "meaning": "Membuka",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "窓を開けます。 (Mado wo akemasu.) - Saya membuka jendela."
   },
@@ -3748,7 +3748,7 @@
     "hiragana": "しめる",
     "meaning": "Menutup",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ドアを閉めます。 (Doa wo shimemasu.) - Saya menutup pintu."
   },
@@ -3757,7 +3757,7 @@
     "hiragana": "あく",
     "meaning": "Terbuka",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ドアが開きます。 (Doa ga akimasu.) - Pintu terbuka."
   },
@@ -3766,7 +3766,7 @@
     "hiragana": "しまる",
     "meaning": "Tertutup",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ドアが閉まります。 (Doa ga shimarimasu.) - Pintu tertutup."
   },
@@ -3775,7 +3775,7 @@
     "hiragana": "つける",
     "meaning": "Menyalakan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "電気を付けます。 (Denki wo tsukemasu.) - Saya menyalakan lampu."
   },
@@ -3784,7 +3784,7 @@
     "hiragana": "けす",
     "meaning": "Mematikan/Menghapus",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "電気を消します。 (Denki wo keshimasu.) - Saya mematikan lampu."
   },
@@ -3793,7 +3793,7 @@
     "hiragana": "つく",
     "meaning": "Menyala",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "電気が点きます。 (Denki ga tsukimasu.) - Lampu menyala."
   },
@@ -3802,7 +3802,7 @@
     "hiragana": "きる",
     "meaning": "Memotong",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "野菜を切ります。 (Yasai wo kirimasu.) - Saya memotong sayuran."
   },
@@ -3811,7 +3811,7 @@
     "hiragana": "きる",
     "meaning": "Memakai (baju)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "シャツを着ます。 (Shatsu wo kimasu.) - Saya memakai kemeja."
   },
@@ -3820,7 +3820,7 @@
     "hiragana": "ぬぐ",
     "meaning": "Melepas (baju)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "靴を脱ぎます。 (Kutsu wo nugimasu.) - Saya melepas sepatu."
   },
@@ -3829,7 +3829,7 @@
     "hiragana": "はく",
     "meaning": "Memakai (celana/sepatu)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ズボンを履きます。 (Zubon wo hakimasu.) - Saya memakai celana."
   },
@@ -3838,7 +3838,7 @@
     "hiragana": "かぶる",
     "meaning": "Memakai (topi)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "帽子を被ります。 (Boushi wo kaburimasu.) - Saya memakai topi."
   },
@@ -3847,7 +3847,7 @@
     "hiragana": "かける",
     "meaning": "Menggantung",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "服をハンガーに掛けます。 (Fuku wo hangaa ni kakemasu.) - Saya menggantung baju di gantungan."
   },
@@ -3856,7 +3856,7 @@
     "hiragana": "あらう",
     "meaning": "Mencuci",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "手を洗います。 (Te wo araimasu.) - Saya mencuci tangan."
   },
@@ -3865,7 +3865,7 @@
     "hiragana": "そうじする",
     "meaning": "Membersihkan",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "部屋を掃除します。 (Heya wo souji shimasu.) - Saya membersihkan kamar."
   },
@@ -3874,7 +3874,7 @@
     "hiragana": "ほす",
     "meaning": "Menjemur",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "洗濯物を干します。 (Sentakumono wo hoshimasu.) - Saya menjemur cucian."
   },
@@ -3883,7 +3883,7 @@
     "hiragana": "すむ",
     "meaning": "Tinggal",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "東京に住んでいます。 (Toukyou ni sunde imasu.) - Saya tinggal di Tokyo."
   },
@@ -3892,7 +3892,7 @@
     "hiragana": "いる",
     "meaning": "Butuh",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "お金が要ります。 (Okane ga irimasu.) - Saya butuh uang."
   },
@@ -3901,7 +3901,7 @@
     "hiragana": "ある",
     "meaning": "Ada (benda)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "机の上に本があります。 (Tsukue no ue ni hon ga arimasu.) - Ada buku di atas meja."
   },
@@ -3910,7 +3910,7 @@
     "hiragana": "いる",
     "meaning": "Ada (makhluk hidup)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "部屋に猫がいます。 (Heya ni neko ga imasu.) - Ada kucing di kamar."
   },
@@ -3919,7 +3919,7 @@
     "hiragana": "する",
     "meaning": "Melakukan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "何をしますか？ (Nani wo shimasu ka?) - Apa yang Anda lakukan?"
   },
@@ -3928,7 +3928,7 @@
     "hiragana": "なる",
     "meaning": "Menjadi",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "医者になりたいです。 (Isha ni naritai desu.) - Saya ingin menjadi dokter."
   },
@@ -3937,7 +3937,7 @@
     "hiragana": "できる",
     "meaning": "Bisa",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "日本語が出来ます。 (Nihongo ga dekimasu.) - Saya bisa bahasa Jepang."
   },
@@ -3946,7 +3946,7 @@
     "hiragana": "はじまる",
     "meaning": "Dimulai",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "授業が始まります。 (Jugyou ga hajimarimasu.) - Pelajaran dimulai."
   },
@@ -3955,7 +3955,7 @@
     "hiragana": "おわる",
     "meaning": "Berakhir",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "授業が終わります。 (Jugyou ga owarimasu.) - Pelajaran berakhir."
   },
@@ -3964,7 +3964,7 @@
     "hiragana": "はじめる",
     "meaning": "Memulai",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "勉強を始めます。 (Benkyou wo hajimemasu.) - Saya memulai belajar."
   },
@@ -3973,7 +3973,7 @@
     "hiragana": "つづける",
     "meaning": "Melanjutkan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "走り続けます。 (Hashiri tsudzukemasu.) - Saya terus berlari."
   },
@@ -3982,7 +3982,7 @@
     "hiragana": "かわる",
     "meaning": "Berubah",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "天気が変わります。 (Tenki ga kawarimasu.) - Cuaca berubah."
   },
@@ -3991,7 +3991,7 @@
     "hiragana": "きめる",
     "meaning": "Memutuskan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "行くことを決めました。 (Iku koto wo kimemashita.) - Saya memutuskan untuk pergi."
   },
@@ -4000,7 +4000,7 @@
     "hiragana": "いれる",
     "meaning": "Memasukkan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "箱に本を入れます。 (Hako ni hon wo iremasu.) - Saya memasukkan buku ke dalam kotak."
   },
@@ -4009,7 +4009,7 @@
     "hiragana": "だす",
     "meaning": "Mengeluarkan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "財布を出します。 (Saifu wo dashimasu.) - Saya mengeluarkan dompet."
   },
@@ -4018,7 +4018,7 @@
     "hiragana": "ならぶ",
     "meaning": "Berbaris",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "列に並びます。 (Retsu ni narabimasu.) - Saya berbaris dalam antrian."
   },
@@ -4027,7 +4027,7 @@
     "hiragana": "ならべる",
     "meaning": "Menyusun",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "本を並べます。 (Hon wo narabemasu.) - Saya menyusun buku."
   },
@@ -4036,7 +4036,7 @@
     "hiragana": "あつめる",
     "meaning": "Mengumpulkan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "切手を集めます。 (Kitte wo atsumemasu.) - Saya mengumpulkan perangko."
   },
@@ -4045,7 +4045,7 @@
     "hiragana": "すてる",
     "meaning": "Membuang",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ゴミを捨てます。 (Gomi wo sutemasu.) - Saya membuang sampah."
   },
@@ -4054,7 +4054,7 @@
     "hiragana": "ひろう",
     "meaning": "Memungut",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ペンを拾います。 (Pen wo hiroimasu.) - Saya memungut pulpen."
   },
@@ -4063,7 +4063,7 @@
     "hiragana": "おとす",
     "meaning": "Menjatuhkan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "本を落としました。 (Hon wo otoshimashita.) - Saya menjatuhkan buku."
   },
@@ -4072,7 +4072,7 @@
     "hiragana": "おちる",
     "meaning": "Jatuh",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "りんごが落ちました。 (Ringo ga ochimashita.) - Apel jatuh."
   },
@@ -4081,7 +4081,7 @@
     "hiragana": "こわす",
     "meaning": "Merusak",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "時計を壊しました。 (Tokei wo kowashimashita.) - Saya merusak jam."
   },
@@ -4090,7 +4090,7 @@
     "hiragana": "こわれる",
     "meaning": "Rusak",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "パソコンが壊れました。 (Pasokon ga kowaremashita.) - Komputer rusak."
   },
@@ -4099,7 +4099,7 @@
     "hiragana": "なおす",
     "meaning": "Memperbaiki",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "自転車を直します。 (Jitensha wo naoshimasu.) - Saya memperbaiki sepeda."
   },
@@ -4108,7 +4108,7 @@
     "hiragana": "なおる",
     "meaning": "Sembuh",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "風邪が治りました。 (Kaze ga naorimashita.) - Flu saya sembuh."
   },
@@ -4117,7 +4117,7 @@
     "hiragana": "しぬ",
     "meaning": "Mati",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "魚が死にました。 (Sakana ga shinimashita.) - Ikan mati."
   },
@@ -4126,7 +4126,7 @@
     "hiragana": "うまれる",
     "meaning": "Lahir",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "私は東京で生まれました。 (Watashi wa Toukyou de umaremashita.) - Saya lahir di Tokyo."
   },
