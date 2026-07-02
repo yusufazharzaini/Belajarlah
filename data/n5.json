@@ -292,7 +292,7 @@
     "hiragana": "とし",
     "meaning": "Tahun/Umur",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "私は20歳です。 (Watashi wa hatachi desu.) - Umur saya 20 tahun."
   },
@@ -301,7 +301,7 @@
     "hiragana": "いま",
     "meaning": "Sekarang",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "今何時ですか？ (Ima nanji desu ka?) - Sekarang jam berapa?"
   },
@@ -310,7 +310,7 @@
     "hiragana": "きょう",
     "meaning": "Hari ini",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "今日は暑いです。 (Kyou wa atsui desu.) - Hari ini panas."
   },
@@ -319,7 +319,7 @@
     "hiragana": "あした",
     "meaning": "Besok",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "明日は休みです。 (Ashita wa yasumi desu.) - Besok libur."
   },
@@ -328,7 +328,7 @@
     "hiragana": "きのう",
     "meaning": "Kemarin",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "昨日は雨でした。 (Kinou wa ame deshita.) - Kemarin hujan."
   },
@@ -337,7 +337,7 @@
     "hiragana": "あさ",
     "meaning": "Pagi",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "朝ご飯を食べます。 (Asagohan wo tabemasu.) - Saya makan sarapan."
   },
@@ -346,7 +346,7 @@
     "hiragana": "ひる",
     "meaning": "Siang",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "昼に友達と会います。 (Hiru ni tomodachi to aimasu.) - Saya bertemu teman pada siang."
   },
@@ -355,7 +355,7 @@
     "hiragana": "よる",
     "meaning": "Malam",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "夜は静かです。 (Yoru wa shizuka desu.) - Malam sepi."
   },
@@ -364,7 +364,7 @@
     "hiragana": "ゆうがた",
     "meaning": "Sore",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "夕方に散歩します。 (Yuugata ni sanpo shimasu.) - Saya jalan-jalan sore."
   },
@@ -373,7 +373,7 @@
     "hiragana": "ごぜん",
     "meaning": "Sebelum siang (AM)",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "午前9時です。 (Gozen kuji desu.) - Jam 9 pagi."
   },
@@ -382,7 +382,7 @@
     "hiragana": "ごご",
     "meaning": "Setelah siang (PM)",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "午後3時に会いましょう。 (Gogo sanji ni aimashou.) - Mari bertemu jam 3 sore."
   },
@@ -391,7 +391,7 @@
     "hiragana": "まいにち",
     "meaning": "Setiap hari",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "毎日日本語を勉強します。 (Mainichi nihongo wo benkyou shimasu.) - Saya belajar bahasa Jepang setiap hari."
   },
@@ -400,7 +400,7 @@
     "hiragana": "まいあさ",
     "meaning": "Setiap pagi",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "毎朝ジョギングをします。 (Maiasa jogingu wo shimasu.) - Saya jogging setiap pagi."
   },
@@ -409,7 +409,7 @@
     "hiragana": "まいばん",
     "meaning": "Setiap malam",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "毎晩本を読みます。 (Maiban hon wo yomimasu.) - Saya membaca buku setiap malam."
   },
@@ -418,7 +418,7 @@
     "hiragana": "まいしゅう",
     "meaning": "Setiap minggu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "毎週日曜日に映画を見ます。 (Maishuu nichiyoubi ni eiga wo mimasu.) - Saya menonton film setiap Minggu."
   },
@@ -427,7 +427,7 @@
     "hiragana": "まいつき",
     "meaning": "Setiap bulan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "毎月家賃を払います。 (Maitsuki yachin wo haraimasu.) - Saya membayar sewa setiap bulan."
   },
@@ -436,7 +436,7 @@
     "hiragana": "まいとし",
     "meaning": "Setiap tahun",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "毎年夏に海へ行きます。 (Maitoshi natsu ni umi e ikimasu.) - Saya pergi ke laut setiap tahun pada musim panas."
   },
@@ -445,7 +445,7 @@
     "hiragana": "とき",
     "meaning": "Waktu/Saat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "この時、彼は家にいました。 (Kono toki, kare wa ie ni imashita.) - Pada saat ini, dia ada di rumah."
   },
@@ -454,7 +454,7 @@
     "hiragana": "じかん",
     "meaning": "Jam/Waktu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "時間がありません。 (Jikan ga arimasen.) - Tidak ada waktu."
   },
