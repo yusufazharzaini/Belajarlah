@@ -922,7 +922,7 @@
     "hiragana": "どう",
     "meaning": "Bagaimana",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "お元気ですか？ - どうですか？ (Ogenki desu ka? - Dou desu ka?) - Bagaimana kabar?"
   },
@@ -2929,7 +2929,7 @@
     "hiragana": "わかい",
     "meaning": "Muda",
     "type": "i-adjective",
-    "level": "N5",
+    "level": "n5",
     "theme": "adjective",
     "example": "彼は若いです。 (Kare wa wakai desu.) - Dia muda."
   },
@@ -3640,7 +3640,7 @@
     "hiragana": "すわる",
     "meaning": "Duduk",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "椅子に座ります。 (Isu ni suwarimasu.) - Saya duduk di kursi."
   },
