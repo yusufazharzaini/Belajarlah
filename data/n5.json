@@ -4,7 +4,7 @@
     "hiragana": "わたし",
     "meaning": "Saya",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "pronoun",
     "example": "私は学生です。 (Watashi wa gakusei desu.) - Saya adalah pelajar."
   },
@@ -13,7 +13,7 @@
     "hiragana": "あなた",
     "meaning": "Kamu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "pronoun",
     "example": "あなたは誰ですか？ (Anata wa dare desu ka?) - Kamu siapa?"
   },
@@ -22,7 +22,7 @@
     "hiragana": "かれ",
     "meaning": "Dia (laki-laki)",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "pronoun",
     "example": "彼は先生です。 (Kare wa sensei desu.) - Dia (laki-laki) adalah guru."
   },
@@ -31,7 +31,7 @@
     "hiragana": "かのじょ",
     "meaning": "Dia (perempuan)",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "pronoun",
     "example": "彼女は学生です。 (Kanojo wa gakusei desu.) - Dia (perempuan) adalah pelajar."
   },
@@ -40,7 +40,7 @@
     "hiragana": "わたしたち",
     "meaning": "Kami",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "pronoun",
     "example": "私達は日本人です。 (Watashitachi wa nihonjin desu.) - Kami adalah orang Jepang."
   },
@@ -49,7 +49,7 @@
     "hiragana": "みなさん",
     "meaning": "Semuanya",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "pronoun",
     "example": "皆さん、こんにちは。 (Minasan, konnichiwa.) - Halo semuanya."
   },
@@ -58,7 +58,7 @@
     "hiragana": "ひと",
     "meaning": "Orang",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "people",
     "example": "あそこに人がいます。 (Asoko ni hito ga imasu.) - Ada orang di sana."
   },
@@ -67,7 +67,7 @@
     "hiragana": "おとこ",
     "meaning": "Laki-laki",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "people",
     "example": "あの男は誰ですか？ (Ano otoko wa dare desu ka?) - Siapa laki-laki itu?"
   },
@@ -76,7 +76,7 @@
     "hiragana": "おんな",
     "meaning": "Perempuan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "people",
     "example": "あの女は先生です。 (Ano onna wa sensei desu.) - Perempuan itu adalah guru."
   },
@@ -85,7 +85,7 @@
     "hiragana": "こども",
     "meaning": "Anak",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "people",
     "example": "子供が公園で遊んでいます。 (Kodomo ga kouen de asonde imasu.) - Anak-anak bermain di taman."
   },
@@ -94,7 +94,7 @@
     "hiragana": "おとこのこ",
     "meaning": "Anak laki-laki",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "people",
     "example": "男の子が走っています。 (Otoko no ko ga hashitte imasu.) - Anak laki-laki sedang berlari."
   },
@@ -103,7 +103,7 @@
     "hiragana": "おんなのこ",
     "meaning": "Anak perempuan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "people",
     "example": "女の子が笑っています。 (Onna no ko ga waratte imasu.) - Anak perempuan sedang tertawa."
   },
@@ -112,7 +112,7 @@
     "hiragana": "あかちゃん",
     "meaning": "Bayi",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "people",
     "example": "赤ちゃんが寝ています。 (Akachan ga nete imasu.) - Bayi sedang tidur."
   },
@@ -121,7 +121,7 @@
     "hiragana": "おとうさん",
     "meaning": "Ayah",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "お父さんは会社員です。 (Otousan wa kaishain desu.) - Ayah adalah karyawan perusahaan."
   },
@@ -130,7 +130,7 @@
     "hiragana": "おかあさん",
     "meaning": "Ibu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "お母さんは主婦です。 (Okaasan wa shufu desu.) - Ibu adalah ibu rumah tangga."
   },
@@ -139,7 +139,7 @@
     "hiragana": "あに",
     "meaning": "Kakak laki-laki (sendiri)",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "兄は大学生です。 (Ani wa daigakusei desu.) - Kakak laki-laki saya adalah mahasiswa."
   },
@@ -148,7 +148,7 @@
     "hiragana": "あね",
     "meaning": "Kakak perempuan (sendiri)",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "姉は看護師です。 (Ane wa kangoshi desu.) - Kakak perempuan saya adalah perawat."
   },
@@ -157,7 +157,7 @@
     "hiragana": "おとうと",
     "meaning": "Adik laki-laki",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "弟は小学生です。 (Otouto wa shougakusei desu.) - Adik laki-laki saya adalah murid SD."
   },
@@ -166,7 +166,7 @@
     "hiragana": "いもうと",
     "meaning": "Adik perempuan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "妹は中学生です。 (Imouto wa chuugakusei desu.) - Adik perempuan saya adalah murid SMP."
   },
@@ -175,7 +175,7 @@
     "hiragana": "おにいさん",
     "meaning": "Kakak laki-laki (orang lain)",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "お兄さんは優しいです。 (Oniisan wa yasashii desu.) - Kakak laki-laki (Anda) baik."
   },
@@ -184,7 +184,7 @@
     "hiragana": "おねえさん",
     "meaning": "Kakak perempuan (orang lain)",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "お姉さんはきれいです。 (Oneesan wa kirei desu.) - Kakak perempuan (Anda) cantik."
   },
@@ -193,7 +193,7 @@
     "hiragana": "おじいさん",
     "meaning": "Kakek",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "おじいさんは元気です。 (Ojiisan wa genki desu.) - Kakek sehat."
   },
@@ -202,7 +202,7 @@
     "hiragana": "おばあさん",
     "meaning": "Nenek",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "おばあさんは料理が上手です。 (Obaasan wa ryouri ga jouzu desu.) - Nenek pandai memasak."
   },
@@ -211,7 +211,7 @@
     "hiragana": "かぞく",
     "meaning": "Keluarga",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "family",
     "example": "私の家族は四人です。 (Watashi no kazoku wa yonin desu.) - Keluarga saya berempat."
   },
@@ -220,7 +220,7 @@
     "hiragana": "ともだち",
     "meaning": "Teman",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "relationship",
     "example": "友達と映画を見ました。 (Tomodachi to eiga wo mimashita.) - Saya menonton film dengan teman."
   },
@@ -229,7 +229,7 @@
     "hiragana": "せんせい",
     "meaning": "Guru",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "occupation",
     "example": "先生は教室にいます。 (Sensei wa kyoushitsu ni imasu.) - Guru ada di ruang kelas."
   },
@@ -238,7 +238,7 @@
     "hiragana": "がくせい",
     "meaning": "Mahasiswa/Pelajar",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "occupation",
     "example": "私は学生です。 (Watashi wa gakusei desu.) - Saya adalah pelajar."
   },
@@ -247,7 +247,7 @@
     "hiragana": "せいと",
     "meaning": "Murid",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "occupation",
     "example": "生徒は図書館で勉強します。 (Seito wa toshokan de benkyou shimasu.) - Murid belajar di perpustakaan."
   },
@@ -256,7 +256,7 @@
     "hiragana": "かいしゃいん",
     "meaning": "Karyawan perusahaan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "occupation",
     "example": "父は会社員です。 (Chichi wa kaishain desu.) - Ayah saya adalah karyawan perusahaan."
   },
@@ -265,7 +265,7 @@
     "hiragana": "いしゃ",
     "meaning": "Dokter",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "occupation",
     "example": "彼は医者です。 (Kare wa isha desu.) - Dia adalah dokter."
   },
@@ -274,7 +274,7 @@
     "hiragana": "てんいん",
     "meaning": "Pegawai toko",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "occupation",
     "example": "店員が商品を並べています。 (Ten'in ga shouhin wo narabete imasu.) - Pegawai toko sedang menata barang."
   },
@@ -283,7 +283,7 @@
     "hiragana": "なまえ",
     "meaning": "Nama",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "あなたの名前は何ですか？ (Anata no namae wa nan desu ka?) - Siapa nama Anda?"
   },
