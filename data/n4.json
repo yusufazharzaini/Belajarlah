@@ -1,0 +1,2702 @@
+[
+  {
+    "kanji": "挨拶",
+    "hiragana": "あいさつ",
+    "meaning": "Salam",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは挨拶です。"
+  },
+  {
+    "kanji": "相手",
+    "hiragana": "あいて",
+    "meaning": "Lawan/Pasangan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは相手です。"
+  },
+  {
+    "kanji": "合う",
+    "hiragana": "あう",
+    "meaning": "Cocok",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は合います。"
+  },
+  {
+    "kanji": "上がる",
+    "hiragana": "あがる",
+    "meaning": "Naik",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は上がります。"
+  },
+  {
+    "kanji": "空く",
+    "hiragana": "あく",
+    "meaning": "Kosong",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は空きます。"
+  },
+  {
+    "kanji": "諦める",
+    "hiragana": "あきらめる",
+    "meaning": "Menyerah",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は諦めます。"
+  },
+  {
+    "kanji": "開く",
+    "hiragana": "ひらく",
+    "meaning": "Membuka (lebar)",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は開きます。"
+  },
+  {
+    "kanji": "味わう",
+    "hiragana": "あじわう",
+    "meaning": "Mencicipi",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は味わいます。"
+  },
+  {
+    "kanji": "預かる",
+    "hiragana": "あずかる",
+    "meaning": "Menjaga/Menitipkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は預かります。"
+  },
+  {
+    "kanji": "預ける",
+    "hiragana": "あずける",
+    "meaning": "Menitipkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は預けます。"
+  },
+  {
+    "kanji": "汗",
+    "hiragana": "あせ",
+    "meaning": "Keringat",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは汗です。"
+  },
+  {
+    "kanji": "遊び",
+    "hiragana": "あそび",
+    "meaning": "Permainan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは遊びです。"
+  },
+  {
+    "kanji": "暖まる",
+    "hiragana": "あたたまる",
+    "meaning": "Menjadi hangat",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は暖まります。"
+  },
+  {
+    "kanji": "当たる",
+    "hiragana": "あたる",
+    "meaning": "Mengenai",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は当たります。"
+  },
+  {
+    "kanji": "辺り",
+    "hiragana": "あたり",
+    "meaning": "Sekitar",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは辺りです。"
+  },
+  {
+    "kanji": "当たり前",
+    "hiragana": "あたりまえ",
+    "meaning": "Wajar",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは当たり前です。"
+  },
+  {
+    "kanji": "集まる",
+    "hiragana": "あつまる",
+    "meaning": "Berkumpul",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は集まります。"
+  },
+  {
+    "kanji": "扱う",
+    "hiragana": "あつかう",
+    "meaning": "Menangani",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は扱います。"
+  },
+  {
+    "kanji": "暴れる",
+    "hiragana": "あばれる",
+    "meaning": "Mengamuk",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は暴れます。"
+  },
+  {
+    "kanji": "油",
+    "hiragana": "あぶら",
+    "meaning": "Minyak",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは油です。"
+  },
+  {
+    "kanji": "甘える",
+    "hiragana": "あまえる",
+    "meaning": "Bermanja",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は甘えます。"
+  },
+  {
+    "kanji": "余る",
+    "hiragana": "あまる",
+    "meaning": "Tersisa",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は余ります。"
+  },
+  {
+    "kanji": "編む",
+    "hiragana": "あむ",
+    "meaning": "Merajut",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は編みます。"
+  },
+  {
+    "kanji": "謝る",
+    "hiragana": "あやまる",
+    "meaning": "Minta maaf",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は謝ります。"
+  },
+  {
+    "kanji": "表す",
+    "hiragana": "あらわす",
+    "meaning": "Menunjukkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は表します。"
+  },
+  {
+    "kanji": "現れる",
+    "hiragana": "あらわれる",
+    "meaning": "Muncul",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は現れます。"
+  },
+  {
+    "kanji": "在る",
+    "hiragana": "ある",
+    "meaning": "Berada",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私はあります。"
+  },
+  {
+    "kanji": "或いは",
+    "hiragana": "あるいは",
+    "meaning": "Atau",
+    "type": "conj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "或いは..."
+  },
+  {
+    "kanji": "合わせる",
+    "hiragana": "あわせる",
+    "meaning": "Menggabungkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は合わせます。"
+  },
+  {
+    "kanji": "案",
+    "hiragana": "あん",
+    "meaning": "Ide/Rencana",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは案です。"
+  },
+  {
+    "kanji": "案内",
+    "hiragana": "あんない",
+    "meaning": "Panduan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは案内です。"
+  },
+  {
+    "kanji": "以前",
+    "hiragana": "いぜん",
+    "meaning": "Sebelumnya",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは以前です。"
+  },
+  {
+    "kanji": "以後",
+    "hiragana": "いご",
+    "meaning": "Setelah itu",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは以後です。"
+  },
+  {
+    "kanji": "息",
+    "hiragana": "いき",
+    "meaning": "Napas",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは息です。"
+  },
+  {
+    "kanji": "生きる",
+    "hiragana": "いきる",
+    "meaning": "Hidup",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は生きます。"
+  },
+  {
+    "kanji": "意見",
+    "hiragana": "いけん",
+    "meaning": "Pendapat",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは意見です。"
+  },
+  {
+    "kanji": "石",
+    "hiragana": "いし",
+    "meaning": "Batu",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは石です。"
+  },
+  {
+    "kanji": "意識",
+    "hiragana": "いしき",
+    "meaning": "Kesadaran",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは意識です。"
+  },
+  {
+    "kanji": "急ぐ",
+    "hiragana": "いそぐ",
+    "meaning": "Terburu-buru",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は急ぎます。"
+  },
+  {
+    "kanji": "痛み",
+    "hiragana": "いたみ",
+    "meaning": "Rasa sakit",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは痛みです。"
+  },
+  {
+    "kanji": "頂く",
+    "hiragana": "いただく",
+    "meaning": "Menerima (hormat)",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は頂きます。"
+  },
+  {
+    "kanji": "一度",
+    "hiragana": "いちど",
+    "meaning": "Sekali",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは一度です。"
+  },
+  {
+    "kanji": "一般",
+    "hiragana": "いっぱん",
+    "meaning": "Umum",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは一般です。"
+  },
+  {
+    "kanji": "糸",
+    "hiragana": "いと",
+    "meaning": "Benang",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは糸です。"
+  },
+  {
+    "kanji": "以来",
+    "hiragana": "いらい",
+    "meaning": "Sejak",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは以来です。"
+  },
+  {
+    "kanji": "祈る",
+    "hiragana": "いのる",
+    "meaning": "Berdoa",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は祈ります。"
+  },
+  {
+    "kanji": "今に",
+    "hiragana": "いまに",
+    "meaning": "Sebentar lagi",
+    "type": "adv",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "今に..."
+  },
+  {
+    "kanji": "移る",
+    "hiragana": "うつる",
+    "meaning": "Pindah",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は移ります。"
+  },
+  {
+    "kanji": "移す",
+    "hiragana": "うつす",
+    "meaning": "Memindahkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は移します。"
+  },
+  {
+    "kanji": "訴える",
+    "hiragana": "うったえる",
+    "meaning": "Menuntut",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は訴えます。"
+  },
+  {
+    "kanji": "打つ",
+    "hiragana": "うつ",
+    "meaning": "Memukul",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は打ちます。"
+  },
+  {
+    "kanji": "写す",
+    "hiragana": "うつす",
+    "meaning": "Menyalin/Memotret",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は写します。"
+  },
+  {
+    "kanji": "映る",
+    "hiragana": "うつる",
+    "meaning": "Terpantul",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は映ります。"
+  },
+  {
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "meaning": "Indah",
+    "type": "i-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは美しいです。"
+  },
+  {
+    "kanji": "腕",
+    "hiragana": "うで",
+    "meaning": "Lengan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは腕です。"
+  },
+  {
+    "kanji": "奪う",
+    "hiragana": "うばう",
+    "meaning": "Merampas",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は奪います。"
+  },
+  {
+    "kanji": "埋める",
+    "hiragana": "うめる",
+    "meaning": "Mengubur",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は埋めます。"
+  },
+  {
+    "kanji": "裏",
+    "hiragana": "うら",
+    "meaning": "Belakang/Balik",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは裏です。"
+  },
+  {
+    "kanji": "売り場",
+    "hiragana": "うりば",
+    "meaning": "Tempat penjualan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは売り場です。"
+  },
+  {
+    "kanji": "嬉しがる",
+    "hiragana": "うれしがる",
+    "meaning": "Terlihat senang",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は嬉しがります。"
+  },
+  {
+    "kanji": "運",
+    "hiragana": "うん",
+    "meaning": "Keberuntungan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは運です。"
+  },
+  {
+    "kanji": "運転",
+    "hiragana": "うんてん",
+    "meaning": "Mengemudi",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは運転です。"
+  },
+  {
+    "kanji": "運動",
+    "hiragana": "うんどう",
+    "meaning": "Olahraga",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは運動です。"
+  },
+  {
+    "kanji": "運ぶ",
+    "hiragana": "はこぶ",
+    "meaning": "Membawa",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は運びます。"
+  },
+  {
+    "kanji": "影響",
+    "hiragana": "えいきょう",
+    "meaning": "Pengaruh",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは影響です。"
+  },
+  {
+    "kanji": "栄養",
+    "hiragana": "えいよう",
+    "meaning": "Nutrisi",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは栄養です。"
+  },
+  {
+    "kanji": "笑顔",
+    "hiragana": "えがお",
+    "meaning": "Senyum",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは笑顔です。"
+  },
+  {
+    "kanji": "駅員",
+    "hiragana": "えきいん",
+    "meaning": "Petugas stasiun",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは駅員です。"
+  },
+  {
+    "kanji": "枝",
+    "hiragana": "えだ",
+    "meaning": "Cabang",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは枝です。"
+  },
+  {
+    "kanji": "選ぶ",
+    "hiragana": "えらぶ",
+    "meaning": "Memilih",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は選びます。"
+  },
+  {
+    "kanji": "遠慮",
+    "hiragana": "えんりょ",
+    "meaning": "Sungkan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは遠慮です。"
+  },
+  {
+    "kanji": "追う",
+    "hiragana": "おう",
+    "meaning": "Mengejar",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は追います。"
+  },
+  {
+    "kanji": "応じる",
+    "hiragana": "おうじる",
+    "meaning": "Menanggapi",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は応じます。"
+  },
+  {
+    "kanji": "応援",
+    "hiragana": "おうえん",
+    "meaning": "Dukungan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは応援です。"
+  },
+  {
+    "kanji": "横断",
+    "hiragana": "おうだん",
+    "meaning": "Menyeberang",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは横断です。"
+  },
+  {
+    "kanji": "終える",
+    "hiragana": "おえる",
+    "meaning": "Menyelesaikan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は終えます。"
+  },
+  {
+    "kanji": "大きな",
+    "hiragana": "おおきな",
+    "meaning": "Besar (preadj)",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは大きなです。"
+  },
+  {
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "meaning": "Kecil (preadj)",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは小さなです。"
+  },
+  {
+    "kanji": "送り",
+    "hiragana": "おくり",
+    "meaning": "Pengiriman",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは送りです。"
+  },
+  {
+    "kanji": "送る",
+    "hiragana": "おくる",
+    "meaning": "Mengirim",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は送ります。"
+  },
+  {
+    "kanji": "遅れる",
+    "hiragana": "おくれる",
+    "meaning": "Terlambat",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は遅れます。"
+  },
+  {
+    "kanji": "起こす",
+    "hiragana": "おこす",
+    "meaning": "Membangunkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は起こします。"
+  },
+  {
+    "kanji": "行う",
+    "hiragana": "おこなう",
+    "meaning": "Melaksanakan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は行います。"
+  },
+  {
+    "kanji": "押さえる",
+    "hiragana": "おさえる",
+    "meaning": "Menekan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は押さえます。"
+  },
+  {
+    "kanji": "教わる",
+    "hiragana": "おそわる",
+    "meaning": "Diajarkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は教わります。"
+  },
+  {
+    "kanji": "落ち着く",
+    "hiragana": "おちつく",
+    "meaning": "Tenang",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は落ち着きます。"
+  },
+  {
+    "kanji": "お手洗い",
+    "hiragana": "おてあらい",
+    "meaning": "Toilet (sopan)",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これはお手洗いです。"
+  },
+  {
+    "kanji": "落とす",
+    "hiragana": "おとす",
+    "meaning": "Menjatuhkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は落とします。"
+  },
+  {
+    "kanji": "男の人",
+    "hiragana": "おとこのひと",
+    "meaning": "Pria",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは男の人です。"
+  },
+  {
+    "kanji": "女の人",
+    "hiragana": "おんなのひと",
+    "meaning": "Wanita",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは女の人です。"
+  },
+  {
+    "kanji": "驚く",
+    "hiragana": "おどろく",
+    "meaning": "Terkejut",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は驚きます。"
+  },
+  {
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "meaning": "Perayaan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これはお祝いです。"
+  },
+  {
+    "kanji": "思い出",
+    "hiragana": "おもいで",
+    "meaning": "Kenangan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは思い出です。"
+  },
+  {
+    "kanji": "思い出す",
+    "hiragana": "おもいだす",
+    "meaning": "Mengingat",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は思い出します。"
+  },
+  {
+    "kanji": "重み",
+    "hiragana": "おもみ",
+    "meaning": "Bobot",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは重みです。"
+  },
+  {
+    "kanji": "表",
+    "hiragana": "おもて",
+    "meaning": "Permukaan/Depan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは表です。"
+  },
+  {
+    "kanji": "泳ぎ",
+    "hiragana": "およぎ",
+    "meaning": "Renang",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは泳ぎです。"
+  },
+  {
+    "kanji": "及ぶ",
+    "hiragana": "およぶ",
+    "meaning": "Mencapai",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は及びます。"
+  },
+  {
+    "kanji": "折る",
+    "hiragana": "おる",
+    "meaning": "Melipat",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は折ります。"
+  },
+  {
+    "kanji": "折れる",
+    "hiragana": "おれる",
+    "meaning": "Patah",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は折れます。"
+  },
+  {
+    "kanji": "降ろす",
+    "hiragana": "おろす",
+    "meaning": "Menurunkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は降ろします。"
+  },
+  {
+    "kanji": "温度",
+    "hiragana": "おんど",
+    "meaning": "Suhu",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは温度です。"
+  },
+  {
+    "kanji": "女性",
+    "hiragana": "じょせい",
+    "meaning": "Perempuan (formal)",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは女性です。"
+  },
+  {
+    "kanji": "男性",
+    "hiragana": "だんせい",
+    "meaning": "Laki-laki (formal)",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは男性です。"
+  },
+  {
+    "kanji": "海外",
+    "hiragana": "かいがい",
+    "meaning": "Luar negeri",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは海外です。"
+  },
+  {
+    "kanji": "会話",
+    "hiragana": "かいわ",
+    "meaning": "Percakapan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは会話です。"
+  },
+  {
+    "kanji": "帰り",
+    "hiragana": "かえり",
+    "meaning": "Kepulangan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは帰りです。"
+  },
+  {
+    "kanji": "変える",
+    "hiragana": "かえる",
+    "meaning": "Mengubah",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は変えます。"
+  },
+  {
+    "kanji": "科学",
+    "hiragana": "かがく",
+    "meaning": "Ilmu pengetahuan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは科学です。"
+  },
+  {
+    "kanji": "輝く",
+    "hiragana": "かがやく",
+    "meaning": "Bersinar",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は輝きます。"
+  },
+  {
+    "kanji": "係り",
+    "hiragana": "かかり",
+    "meaning": "Petugas",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは係りです。"
+  },
+  {
+    "kanji": "掛かる",
+    "hiragana": "かかる",
+    "meaning": "Memakan (waktu/biaya)",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は掛かります。"
+  },
+  {
+    "kanji": "書き方",
+    "hiragana": "かきかた",
+    "meaning": "Cara menulis",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは書き方です。"
+  },
+  {
+    "kanji": "限る",
+    "hiragana": "かぎる",
+    "meaning": "Terbatas",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は限ります。"
+  },
+  {
+    "kanji": "学部",
+    "hiragana": "がくぶ",
+    "meaning": "Fakultas",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは学部です。"
+  },
+  {
+    "kanji": "掛ける",
+    "hiragana": "かける",
+    "meaning": "Menggantung",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は掛けます。"
+  },
+  {
+    "kanji": "過去",
+    "hiragana": "かこ",
+    "meaning": "Masa lalu",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは過去です。"
+  },
+  {
+    "kanji": "囲む",
+    "hiragana": "かこむ",
+    "meaning": "Mengelilingi",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は囲みます。"
+  },
+  {
+    "kanji": "重ねる",
+    "hiragana": "かさねる",
+    "meaning": "Menumpuk",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は重ねます。"
+  },
+  {
+    "kanji": "飾る",
+    "hiragana": "かざる",
+    "meaning": "Menghias",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は飾ります。"
+  },
+  {
+    "kanji": "菓子",
+    "hiragana": "かし",
+    "meaning": "Kue",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは菓子です。"
+  },
+  {
+    "kanji": "貸し出す",
+    "hiragana": "かしだす",
+    "meaning": "Meminjamkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は貸し出します。"
+  },
+  {
+    "kanji": "賢い",
+    "hiragana": "かしこい",
+    "meaning": "Pintar",
+    "type": "i-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは賢いです。"
+  },
+  {
+    "kanji": "数",
+    "hiragana": "かず",
+    "meaning": "Jumlah",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは数です。"
+  },
+  {
+    "kanji": "稼ぐ",
+    "hiragana": "かせぐ",
+    "meaning": "Mencari nafkah",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は稼ぎます。"
+  },
+  {
+    "kanji": "形",
+    "hiragana": "かたち",
+    "meaning": "Bentuk",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは形です。"
+  },
+  {
+    "kanji": "片付ける",
+    "hiragana": "かたづける",
+    "meaning": "Membereskan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は片付けます。"
+  },
+  {
+    "kanji": "固い",
+    "hiragana": "かたい",
+    "meaning": "Keras",
+    "type": "i-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは固いです。"
+  },
+  {
+    "kanji": "勝つ",
+    "hiragana": "かつ",
+    "meaning": "Menang",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は勝ちます。"
+  },
+  {
+    "kanji": "活動",
+    "hiragana": "かつどう",
+    "meaning": "Kegiatan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは活動です。"
+  },
+  {
+    "kanji": "活躍",
+    "hiragana": "かつやく",
+    "meaning": "Aktif/Berprestasi",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは活躍です。"
+  },
+  {
+    "kanji": "悲しみ",
+    "hiragana": "かなしみ",
+    "meaning": "Kesedihan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは悲しみです。"
+  },
+  {
+    "kanji": "必ずしも",
+    "hiragana": "かならずしも",
+    "meaning": "Tidak selalu",
+    "type": "adv",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "必ずしも..."
+  },
+  {
+    "kanji": "金持ち",
+    "hiragana": "かねもち",
+    "meaning": "Orang kaya",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは金持ちです。"
+  },
+  {
+    "kanji": "彼方",
+    "hiragana": "かなた",
+    "meaning": "Sana (jauh)",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは彼方です。"
+  },
+  {
+    "kanji": "可能",
+    "hiragana": "かのう",
+    "meaning": "Mungkin",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは可能です。"
+  },
+  {
+    "kanji": "構う",
+    "hiragana": "かまう",
+    "meaning": "Peduli",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は構います。"
+  },
+  {
+    "kanji": "髪の毛",
+    "hiragana": "かみのけ",
+    "meaning": "Rambut",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは髪の毛です。"
+  },
+  {
+    "kanji": "噛む",
+    "hiragana": "かむ",
+    "meaning": "Mengunyah",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は噛みます。"
+  },
+  {
+    "kanji": "通う",
+    "hiragana": "かよう",
+    "meaning": "Bolak-balik",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は通います。"
+  },
+  {
+    "kanji": "乾く",
+    "hiragana": "かわく",
+    "meaning": "Kering",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は乾きます。"
+  },
+  {
+    "kanji": "代わり",
+    "hiragana": "かわり",
+    "meaning": "Pengganti",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは代わりです。"
+  },
+  {
+    "kanji": "代わる",
+    "hiragana": "かわる",
+    "meaning": "Menggantikan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は代わります。"
+  },
+  {
+    "kanji": "看護",
+    "hiragana": "かんご",
+    "meaning": "Perawatan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは看護です。"
+  },
+  {
+    "kanji": "関係",
+    "hiragana": "かんけい",
+    "meaning": "Hubungan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは関係です。"
+  },
+  {
+    "kanji": "観光",
+    "hiragana": "かんこう",
+    "meaning": "Wisata",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは観光です。"
+  },
+  {
+    "kanji": "感じ",
+    "hiragana": "かんじ",
+    "meaning": "Perasaan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは感じです。"
+  },
+  {
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "meaning": "Merasakan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は感じます。"
+  },
+  {
+    "kanji": "感謝",
+    "hiragana": "かんしゃ",
+    "meaning": "Terima kasih",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは感謝です。"
+  },
+  {
+    "kanji": "完成",
+    "hiragana": "かんせい",
+    "meaning": "Selesai/Lengkap",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは完成です。"
+  },
+  {
+    "kanji": "感動",
+    "hiragana": "かんどう",
+    "meaning": "Tersentuh",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは感動です。"
+  },
+  {
+    "kanji": "管理",
+    "hiragana": "かんり",
+    "meaning": "Manajemen",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは管理です。"
+  },
+  {
+    "kanji": "記憶",
+    "hiragana": "きおく",
+    "meaning": "Ingatan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは記憶です。"
+  },
+  {
+    "kanji": "機会",
+    "hiragana": "きかい",
+    "meaning": "Kesempatan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは機会です。"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "meaning": "Mesin",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは機械です。"
+  },
+  {
+    "kanji": "期間",
+    "hiragana": "きかん",
+    "meaning": "Periode",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは期間です。"
+  },
+  {
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "meaning": "Bahaya",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは危険です。"
+  },
+  {
+    "kanji": "記号",
+    "hiragana": "きごう",
+    "meaning": "Simbol",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは記号です。"
+  },
+  {
+    "kanji": "傷",
+    "hiragana": "きず",
+    "meaning": "Luka",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは傷です。"
+  },
+  {
+    "kanji": "気付く",
+    "hiragana": "きづく",
+    "meaning": "Menyadari",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は気付きます。"
+  },
+  {
+    "kanji": "きつい",
+    "hiragana": "きつい",
+    "meaning": "Ketat/Berat",
+    "type": "i-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これはきついです。"
+  },
+  {
+    "kanji": "記念",
+    "hiragana": "きねん",
+    "meaning": "Peringatan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは記念です。"
+  },
+  {
+    "kanji": "気分",
+    "hiragana": "きぶん",
+    "meaning": "Suasana hati",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは気分です。"
+  },
+  {
+    "kanji": "基本",
+    "hiragana": "きほん",
+    "meaning": "Dasar",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは基本です。"
+  },
+  {
+    "kanji": "決まる",
+    "hiragana": "きまる",
+    "meaning": "Ditentukan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は決まります。"
+  },
+  {
+    "kanji": "君",
+    "hiragana": "きみ",
+    "meaning": "Kamu (akrab)",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは君です。"
+  },
+  {
+    "kanji": "気持ち",
+    "hiragana": "きもち",
+    "meaning": "Perasaan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは気持ちです。"
+  },
+  {
+    "kanji": "客",
+    "hiragana": "きゃく",
+    "meaning": "Tamu",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは客です。"
+  },
+  {
+    "kanji": "急に",
+    "hiragana": "きゅうに",
+    "meaning": "Tiba-tiba",
+    "type": "adv",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "急に..."
+  },
+  {
+    "kanji": "急行",
+    "hiragana": "きゅうこう",
+    "meaning": "Kereta ekspres",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは急行です。"
+  },
+  {
+    "kanji": "教育",
+    "hiragana": "きょういく",
+    "meaning": "Pendidikan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは教育です。"
+  },
+  {
+    "kanji": "行事",
+    "hiragana": "ぎょうじ",
+    "meaning": "Acara",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは行事です。"
+  },
+  {
+    "kanji": "競争",
+    "hiragana": "きょうそう",
+    "meaning": "Kompetisi",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは競争です。"
+  },
+  {
+    "kanji": "共通",
+    "hiragana": "きょうつう",
+    "meaning": "Umum/Sama",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは共通です。"
+  },
+  {
+    "kanji": "興味",
+    "hiragana": "きょうみ",
+    "meaning": "Minat",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは興味です。"
+  },
+  {
+    "kanji": "協力",
+    "hiragana": "きょうりょく",
+    "meaning": "Kerja sama",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは協力です。"
+  },
+  {
+    "kanji": "距離",
+    "hiragana": "きょり",
+    "meaning": "Jarak",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは距離です。"
+  },
+  {
+    "kanji": "嫌う",
+    "hiragana": "きらう",
+    "meaning": "Membenci",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は嫌います。"
+  },
+  {
+    "kanji": "切れる",
+    "hiragana": "きれる",
+    "meaning": "Terputus",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は切れます。"
+  },
+  {
+    "kanji": "記録",
+    "hiragana": "きろく",
+    "meaning": "Catatan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは記録です。"
+  },
+  {
+    "kanji": "金額",
+    "hiragana": "きんがく",
+    "meaning": "Jumlah uang",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは金額です。"
+  },
+  {
+    "kanji": "緊張",
+    "hiragana": "きんちょう",
+    "meaning": "Tegang",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは緊張です。"
+  },
+  {
+    "kanji": "金属",
+    "hiragana": "きんぞく",
+    "meaning": "Logam",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは金属です。"
+  },
+  {
+    "kanji": "空気",
+    "hiragana": "くうき",
+    "meaning": "Udara",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは空気です。"
+  },
+  {
+    "kanji": "草",
+    "hiragana": "くさ",
+    "meaning": "Rumput",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは草です。"
+  },
+  {
+    "kanji": "臭い",
+    "hiragana": "くさい",
+    "meaning": "Bau",
+    "type": "i-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは臭いです。"
+  },
+  {
+    "kanji": "腐る",
+    "hiragana": "くさる",
+    "meaning": "Busuk",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は腐ります。"
+  },
+  {
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "meaning": "Obat",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは薬です。"
+  },
+  {
+    "kanji": "下さる",
+    "hiragana": "くださる",
+    "meaning": "Memberi (hormat)",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は下さります。"
+  },
+  {
+    "kanji": "癖",
+    "hiragana": "くせ",
+    "meaning": "Kebiasaan buruk",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは癖です。"
+  },
+  {
+    "kanji": "苦しい",
+    "hiragana": "くるしい",
+    "meaning": "Menderita",
+    "type": "i-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは苦しいです。"
+  },
+  {
+    "kanji": "苦しむ",
+    "hiragana": "くるしむ",
+    "meaning": "Menderita",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は苦しみます。"
+  },
+  {
+    "kanji": "暮らす",
+    "hiragana": "くらす",
+    "meaning": "Hidup/Tinggal",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は暮らします。"
+  },
+  {
+    "kanji": "比べる",
+    "hiragana": "くらべる",
+    "meaning": "Membandingkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は比べます。"
+  },
+  {
+    "kanji": "繰り返す",
+    "hiragana": "くりかえす",
+    "meaning": "Mengulang",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は繰り返します。"
+  },
+  {
+    "kanji": "詳しい",
+    "hiragana": "くわしい",
+    "meaning": "Detail",
+    "type": "i-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは詳しいです。"
+  },
+  {
+    "kanji": "加える",
+    "hiragana": "くわえる",
+    "meaning": "Menambahkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は加えます。"
+  },
+  {
+    "kanji": "訓練",
+    "hiragana": "くんれん",
+    "meaning": "Pelatihan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは訓練です。"
+  },
+  {
+    "kanji": "計画",
+    "hiragana": "けいかく",
+    "meaning": "Rencana",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは計画です。"
+  },
+  {
+    "kanji": "経験",
+    "hiragana": "けいけん",
+    "meaning": "Pengalaman",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは経験です。"
+  },
+  {
+    "kanji": "景色",
+    "hiragana": "けしき",
+    "meaning": "Pemandangan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは景色です。"
+  },
+  {
+    "kanji": "化粧",
+    "hiragana": "けしょう",
+    "meaning": "Rias wajah",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは化粧です。"
+  },
+  {
+    "kanji": "削る",
+    "hiragana": "けずる",
+    "meaning": "Mengikis",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は削ります。"
+  },
+  {
+    "kanji": "結果",
+    "hiragana": "けっか",
+    "meaning": "Hasil",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは結果です。"
+  },
+  {
+    "kanji": "結局",
+    "hiragana": "けっきょく",
+    "meaning": "Pada akhirnya",
+    "type": "adv",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "結局..."
+  },
+  {
+    "kanji": "決心",
+    "hiragana": "けっしん",
+    "meaning": "Tekad",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは決心です。"
+  },
+  {
+    "kanji": "決して",
+    "hiragana": "けっして",
+    "meaning": "Sama sekali tidak",
+    "type": "adv",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "決して..."
+  },
+  {
+    "kanji": "欠点",
+    "hiragana": "けってん",
+    "meaning": "Kekurangan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは欠点です。"
+  },
+  {
+    "kanji": "結論",
+    "hiragana": "けつろん",
+    "meaning": "Kesimpulan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは結論です。"
+  },
+  {
+    "kanji": "煙",
+    "hiragana": "けむり",
+    "meaning": "Asap",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは煙です。"
+  },
+  {
+    "kanji": "蹴る",
+    "hiragana": "ける",
+    "meaning": "Menendang",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は蹴ります。"
+  },
+  {
+    "kanji": "県",
+    "hiragana": "けん",
+    "meaning": "Prefektur",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは県です。"
+  },
+  {
+    "kanji": "研究",
+    "hiragana": "けんきゅう",
+    "meaning": "Penelitian",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは研究です。"
+  },
+  {
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "meaning": "Kesehatan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは健康です。"
+  },
+  {
+    "kanji": "検査",
+    "hiragana": "けんさ",
+    "meaning": "Pemeriksaan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは検査です。"
+  },
+  {
+    "kanji": "見学",
+    "hiragana": "けんがく",
+    "meaning": "Kunjungan studi",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは見学です。"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "meaning": "Penyebab",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは原因です。"
+  },
+  {
+    "kanji": "現金",
+    "hiragana": "げんきん",
+    "meaning": "Uang tunai",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは現金です。"
+  },
+  {
+    "kanji": "現在",
+    "hiragana": "げんざい",
+    "meaning": "Saat ini",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは現在です。"
+  },
+  {
+    "kanji": "現象",
+    "hiragana": "げんしょう",
+    "meaning": "Fenomena",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは現象です。"
+  },
+  {
+    "kanji": "現代",
+    "hiragana": "げんだい",
+    "meaning": "Modern",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは現代です。"
+  },
+  {
+    "kanji": "建築",
+    "hiragana": "けんちく",
+    "meaning": "Arsitektur",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは建築です。"
+  },
+  {
+    "kanji": "恋",
+    "hiragana": "こい",
+    "meaning": "Cinta",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは恋です。"
+  },
+  {
+    "kanji": "恋人",
+    "hiragana": "こいびと",
+    "meaning": "Kekasih",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは恋人です。"
+  },
+  {
+    "kanji": "高級",
+    "hiragana": "こうきゅう",
+    "meaning": "Mewah",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは高級です。"
+  },
+  {
+    "kanji": "工業",
+    "hiragana": "こうぎょう",
+    "meaning": "Industri",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは工業です。"
+  },
+  {
+    "kanji": "合計",
+    "hiragana": "ごうけい",
+    "meaning": "Total",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは合計です。"
+  },
+  {
+    "kanji": "効果",
+    "hiragana": "こうか",
+    "meaning": "Efek",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは効果です。"
+  },
+  {
+    "kanji": "工事",
+    "hiragana": "こうじ",
+    "meaning": "Konstruksi",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは工事です。"
+  },
+  {
+    "kanji": "講堂",
+    "hiragana": "こうどう",
+    "meaning": "Aula",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは講堂です。"
+  },
+  {
+    "kanji": "行動",
+    "hiragana": "こうどう",
+    "meaning": "Tindakan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは行動です。"
+  },
+  {
+    "kanji": "幸福",
+    "hiragana": "こうふく",
+    "meaning": "Kebahagiaan",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは幸福です。"
+  },
+  {
+    "kanji": "公務員",
+    "hiragana": "こうむいん",
+    "meaning": "PNS",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは公務員です。"
+  },
+  {
+    "kanji": "声",
+    "hiragana": "こえ",
+    "meaning": "Suara",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは声です。"
+  },
+  {
+    "kanji": "凍る",
+    "hiragana": "こおる",
+    "meaning": "Membeku",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は凍ります。"
+  },
+  {
+    "kanji": "氷",
+    "hiragana": "こおり",
+    "meaning": "Es",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは氷です。"
+  },
+  {
+    "kanji": "越える",
+    "hiragana": "こえる",
+    "meaning": "Melewati",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は越えます。"
+  },
+  {
+    "kanji": "誤解",
+    "hiragana": "ごかい",
+    "meaning": "Kesalahpahaman",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは誤解です。"
+  },
+  {
+    "kanji": "故郷",
+    "hiragana": "こきょう",
+    "meaning": "Kampung halaman",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは故郷です。"
+  },
+  {
+    "kanji": "国籍",
+    "hiragana": "こくせき",
+    "meaning": "Kewarganegaraan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは国籍です。"
+  },
+  {
+    "kanji": "国際",
+    "hiragana": "こくさい",
+    "meaning": "Internasional",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは国際です。"
+  },
+  {
+    "kanji": "心",
+    "hiragana": "こころ",
+    "meaning": "Hati",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは心です。"
+  },
+  {
+    "kanji": "腰",
+    "hiragana": "こし",
+    "meaning": "Pinggang",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは腰です。"
+  },
+  {
+    "kanji": "故障",
+    "hiragana": "こしょう",
+    "meaning": "Kerusakan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは故障です。"
+  },
+  {
+    "kanji": "越す",
+    "hiragana": "こす",
+    "meaning": "Melewati",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は越します。"
+  },
+  {
+    "kanji": "答",
+    "hiragana": "こたえ",
+    "meaning": "Jawaban",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは答です。"
+  },
+  {
+    "kanji": "小遣い",
+    "hiragana": "こづかい",
+    "meaning": "Uang saku",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは小遣いです。"
+  },
+  {
+    "kanji": "骨",
+    "hiragana": "ほね",
+    "meaning": "Tulang",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは骨です。"
+  },
+  {
+    "kanji": "断る",
+    "hiragana": "ことわる",
+    "meaning": "Menolak",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は断ります。"
+  },
+  {
+    "kanji": "粉",
+    "hiragana": "こな",
+    "meaning": "Bubuk",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは粉です。"
+  },
+  {
+    "kanji": "好む",
+    "hiragana": "このむ",
+    "meaning": "Menyukai",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は好みます。"
+  },
+  {
+    "kanji": "細かい",
+    "hiragana": "こまかい",
+    "meaning": "Halus/Detail",
+    "type": "i-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは細かいです。"
+  },
+  {
+    "kanji": "込む",
+    "hiragana": "こむ",
+    "meaning": "Padat",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は込みます。"
+  },
+  {
+    "kanji": "ごみ",
+    "hiragana": "ごみ",
+    "meaning": "Sampah",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これはごみです。"
+  },
+  {
+    "kanji": "米",
+    "hiragana": "こめ",
+    "meaning": "Beras",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは米です。"
+  },
+  {
+    "kanji": "怖がる",
+    "hiragana": "こわがる",
+    "meaning": "Takut",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は怖がります。"
+  },
+  {
+    "kanji": "壊す",
+    "hiragana": "こわす",
+    "meaning": "Merusak",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は壊します。"
+  },
+  {
+    "kanji": "混雑",
+    "hiragana": "こんざつ",
+    "meaning": "Keramaian",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは混雑です。"
+  },
+  {
+    "kanji": "今度",
+    "hiragana": "こんど",
+    "meaning": "Kali ini",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは今度です。"
+  },
+  {
+    "kanji": "今夜",
+    "hiragana": "こんや",
+    "meaning": "Malam ini",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは今夜です。"
+  },
+  {
+    "kanji": "最近",
+    "hiragana": "さいきん",
+    "meaning": "Akhir-akhir ini",
+    "type": "adv",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "最近..."
+  },
+  {
+    "kanji": "最高",
+    "hiragana": "さいこう",
+    "meaning": "Terbaik",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは最高です。"
+  },
+  {
+    "kanji": "最後",
+    "hiragana": "さいご",
+    "meaning": "Terakhir",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは最後です。"
+  },
+  {
+    "kanji": "最初",
+    "hiragana": "さいしょ",
+    "meaning": "Pertama",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは最初です。"
+  },
+  {
+    "kanji": "最低",
+    "hiragana": "さいてい",
+    "meaning": "Terburuk/Minimal",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは最低です。"
+  },
+  {
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "meaning": "Bahan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは材料です。"
+  },
+  {
+    "kanji": "探す",
+    "hiragana": "さがす",
+    "meaning": "Mencari",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は探します。"
+  },
+  {
+    "kanji": "逆",
+    "hiragana": "ぎゃく",
+    "meaning": "Terbalik",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは逆です。"
+  },
+  {
+    "kanji": "盛ん",
+    "hiragana": "さかん",
+    "meaning": "Berkembang",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは盛んです。"
+  },
+  {
+    "kanji": "下がる",
+    "hiragana": "さがる",
+    "meaning": "Turun",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は下がります。"
+  },
+  {
+    "kanji": "下げる",
+    "hiragana": "さげる",
+    "meaning": "Menurunkan",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は下げます。"
+  },
+  {
+    "kanji": "先程",
+    "hiragana": "さきほど",
+    "meaning": "Tadi",
+    "type": "adv",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "先程..."
+  },
+  {
+    "kanji": "叫ぶ",
+    "hiragana": "さけぶ",
+    "meaning": "Berteriak",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は叫びます。"
+  },
+  {
+    "kanji": "避ける",
+    "hiragana": "さける",
+    "meaning": "Menghindari",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は避けます。"
+  },
+  {
+    "kanji": "差す",
+    "hiragana": "さす",
+    "meaning": "Menunjuk",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は差します。"
+  },
+  {
+    "kanji": "刺す",
+    "hiragana": "さす",
+    "meaning": "Menusuk",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は刺します。"
+  },
+  {
+    "kanji": "誘う",
+    "hiragana": "さそう",
+    "meaning": "Mengajak",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は誘います。"
+  },
+  {
+    "kanji": "騒ぐ",
+    "hiragana": "さわぐ",
+    "meaning": "Ribut",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は騒ぎます。"
+  },
+  {
+    "kanji": "触る",
+    "hiragana": "さわる",
+    "meaning": "Menyentuh",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は触ります。"
+  },
+  {
+    "kanji": "産業",
+    "hiragana": "さんぎょう",
+    "meaning": "Industri",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは産業です。"
+  },
+  {
+    "kanji": "参加",
+    "hiragana": "さんか",
+    "meaning": "Partisipasi",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは参加です。"
+  },
+  {
+    "kanji": "残念",
+    "hiragana": "ざんねん",
+    "meaning": "Sayang sekali",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは残念です。"
+  },
+  {
+    "kanji": "賛成",
+    "hiragana": "さんせい",
+    "meaning": "Setuju",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは賛成です。"
+  },
+  {
+    "kanji": "幸せ",
+    "hiragana": "しあわせ",
+    "meaning": "Kebahagiaan",
+    "type": "na-adj",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは幸せです。"
+  },
+  {
+    "kanji": "仕方",
+    "hiragana": "しかた",
+    "meaning": "Cara",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは仕方です。"
+  },
+  {
+    "kanji": "時期",
+    "hiragana": "じき",
+    "meaning": "Waktu/Periode",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは時期です。"
+  },
+  {
+    "kanji": "敷く",
+    "hiragana": "しく",
+    "meaning": "Menggelar",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は敷きます。"
+  },
+  {
+    "kanji": "試合",
+    "hiragana": "しあい",
+    "meaning": "Pertandingan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは試合です。"
+  },
+  {
+    "kanji": "資源",
+    "hiragana": "しげん",
+    "meaning": "Sumber daya",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは資源です。"
+  },
+  {
+    "kanji": "事故",
+    "hiragana": "じこ",
+    "meaning": "Kecelakaan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは事故です。"
+  },
+  {
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "meaning": "Gempa bumi",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは地震です。"
+  },
+  {
+    "kanji": "事実",
+    "hiragana": "じじつ",
+    "meaning": "Fakta",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは事実です。"
+  },
+  {
+    "kanji": "自身",
+    "hiragana": "じしん",
+    "meaning": "Diri sendiri",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは自身です。"
+  },
+  {
+    "kanji": "自信",
+    "hiragana": "じしん",
+    "meaning": "Kepercayaan diri",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは自信です。"
+  },
+  {
+    "kanji": "静まる",
+    "hiragana": "しずまる",
+    "meaning": "Menjadi tenang",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は静まります。"
+  },
+  {
+    "kanji": "沈む",
+    "hiragana": "しずむ",
+    "meaning": "Tenggelam",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は沈みます。"
+  },
+  {
+    "kanji": "従う",
+    "hiragana": "したがう",
+    "meaning": "Mengikuti",
+    "type": "verb",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "私は従います。"
+  },
+  {
+    "kanji": "下着",
+    "hiragana": "したぎ",
+    "meaning": "Pakaian dalam",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは下着です。"
+  },
+  {
+    "kanji": "支度",
+    "hiragana": "したく",
+    "meaning": "Persiapan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは支度です。"
+  },
+  {
+    "kanji": "失敗",
+    "hiragana": "しっぱい",
+    "meaning": "Kegagalan",
+    "type": "noun",
+    "level": "n4",
+    "theme": "Umum",
+    "example": "これは失敗です。"
+  }
+]
