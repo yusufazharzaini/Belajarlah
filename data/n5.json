@@ -463,7 +463,7 @@
     "hiragana": "ふん",
     "meaning": "Menit",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "10分待ってください。 (Juppun matte kudasai.) - Tolong tunggu 10 menit."
   },
@@ -472,7 +472,7 @@
     "hiragana": "びょう",
     "meaning": "Detik",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "3秒で終わります。 (Sanbyou de owari masu.) - Selesai dalam 3 detik."
   },
@@ -481,7 +481,7 @@
     "hiragana": "はん",
     "meaning": "Setengah",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "30分半です。 (Sanjuppun han desu.) - 30 setengah menit."
   },
@@ -490,7 +490,7 @@
     "hiragana": "げつようび",
     "meaning": "Senin",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "月曜日は忙しいです。 (Getsuyoubi wa isogashii desu.) - Senin sibuk."
   },
@@ -499,7 +499,7 @@
     "hiragana": "かようび",
     "meaning": "Selasa",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "火曜日にテストがあります。 (Kayoubi ni tesuto ga arimasu.) - Ada ujian pada Selasa."
   },
@@ -508,7 +508,7 @@
     "hiragana": "すいようび",
     "meaning": "Rabu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "水曜日は休みです。 (Suiyoubi wa yasumi desu.) - Rabu libur."
   },
@@ -517,7 +517,7 @@
     "hiragana": "もくようび",
     "meaning": "Kamis",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "木曜日に会議があります。 (Mokuyoubi ni kaigi ga arimasu.) - Ada rapat pada Kamis."
   },
@@ -526,7 +526,7 @@
     "hiragana": "きんようび",
     "meaning": "Jumat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "金曜日にパーティーがあります。 (Kinyoubi ni paatii ga arimasu.) - Ada pesta pada Jumat."
   },
@@ -535,7 +535,7 @@
     "hiragana": "どようび",
     "meaning": "Sabtu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "土曜日は買い物に行きます。 (Doyoubi wa kaimono ni ikimasu.) - Saya pergi belanja pada Sabtu."
   },
@@ -544,7 +544,7 @@
     "hiragana": "にちようび",
     "meaning": "Minggu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "日曜日は家族と過ごします。 (Nichiyoubi wa kazoku to sugoshimasu.) - Saya menghabiskan waktu dengan keluarga pada Minggu."
   },
@@ -553,7 +553,7 @@
     "hiragana": "しゅう",
     "meaning": "Minggu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "今週は忙しいです。 (Konshuu wa isogashii desu.) - Minggu ini sibuk."
   },
@@ -562,7 +562,7 @@
     "hiragana": "しゅうまつ",
     "meaning": "Akhir pekan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "週末に何をしますか？ (Shuumatsu ni nani wo shimasu ka?) - Apa yang Anda lakukan pada akhir pekan?"
   },
@@ -571,7 +571,7 @@
     "hiragana": "せんしゅう",
     "meaning": "Minggu lalu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "先週、京都に行きました。 (Senshuu, Kyoto ni ikimashita.) - Saya pergi ke Kyoto minggu lalu."
   },
@@ -580,7 +580,7 @@
     "hiragana": "こんしゅう",
     "meaning": "Minggu ini",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "今週は試験があります。 (Konshuu wa shiken ga arimasu.) - Ada ujian minggu ini."
   },
@@ -589,7 +589,7 @@
     "hiragana": "らいしゅう",
     "meaning": "Minggu depan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "来週、引っ越します。 (Raishuu, hikkoshimasu.) - Saya pindah minggu depan."
   },
@@ -598,7 +598,7 @@
     "hiragana": "せんげつ",
     "meaning": "Bulan lalu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "先月、誕生日でした。 (Sengetsu, tanjoubi deshita.) - Bulan lalu adalah ulang tahun."
   },
@@ -607,7 +607,7 @@
     "hiragana": "こんげつ",
     "meaning": "Bulan ini",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "今月は忙しいです。 (Kongetsu wa isogashii desu.) - Bulan ini sibuk."
   },
@@ -616,7 +616,7 @@
     "hiragana": "らいげつ",
     "meaning": "Bulan depan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "来月、旅行に行きます。 (Raigetsu, ryokou ni ikimasu.) - Saya pergi wisata bulan depan."
   },
@@ -625,7 +625,7 @@
     "hiragana": "きょねん",
     "meaning": "Tahun lalu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "去年、日本に行きました。 (Kyonen, Nihon ni ikimashita.) - Saya pergi ke Jepang tahun lalu."
   },
@@ -634,7 +634,7 @@
     "hiragana": "ことし",
     "meaning": "Tahun ini",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "今年はオリンピックがあります。 (Kotoshi wa orinpikku ga arimasu.) - Tahun ini ada Olimpiade."
   },
@@ -643,7 +643,7 @@
     "hiragana": "らいねん",
     "meaning": "Tahun depan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "来年、大学を卒業します。 (Rainen, daigaku wo sotsugyou shimasu.) - Saya lulus universitas tahun depan."
   },
@@ -652,7 +652,7 @@
     "hiragana": "いちがつ",
     "meaning": "Januari",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "一月は寒いです。 (Ichigatsu wa samui desu.) - Januari dingin."
   },
@@ -661,7 +661,7 @@
     "hiragana": "にがつ",
     "meaning": "Februari",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "二月にバレンタインデーがあります。 (Nigatsu ni barentain dee ga arimasu.) - Ada Hari Valentine di Februari."
   },
@@ -670,7 +670,7 @@
     "hiragana": "さんがつ",
     "meaning": "Maret",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "三月に桜が咲きます。 (Sangatsu ni sakura ga sakimasu.) - Bunga sakura mekar di Maret."
   },
@@ -679,7 +679,7 @@
     "hiragana": "しがつ",
     "meaning": "April",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "四月から新学期です。 (Shigatsu kara shingakki desu.) - Semester baru mulai April."
   },
@@ -688,7 +688,7 @@
     "hiragana": "ごがつ",
     "meaning": "Mei",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "五月にゴールデンウィークがあります。 (Gogatsu ni goolden wiiku ga arimasu.) - Ada Golden Week di Mei."
   },
@@ -697,7 +697,7 @@
     "hiragana": "ろくがつ",
     "meaning": "Juni",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "六月は雨が多いです。 (Rokugatsu wa ame ga ooi desu.) - Juni banyak hujan."
   },
@@ -706,7 +706,7 @@
     "hiragana": "しちがつ",
     "meaning": "Juli",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "七月に海開きがあります。 (Shichigatsu ni umibiraki ga arimasu.) - Pembukaan pantai di Juli."
   },
@@ -715,7 +715,7 @@
     "hiragana": "はちがつ",
     "meaning": "Agustus",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "八月は暑いです。 (Hachigatsu wa atsui desu.) - Agustus panas."
   },
@@ -724,7 +724,7 @@
     "hiragana": "くがつ",
     "meaning": "September",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "九月に運動会があります。 (Kugatsu ni undoukai ga arimasu.) - Ada festival olahraga di September."
   },
@@ -733,7 +733,7 @@
     "hiragana": "じゅうがつ",
     "meaning": "Oktober",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "十月はハロウィンがあります。 (Juugatsu ni harouin ga arimasu.) - Ada Halloween di Oktober."
   },
@@ -742,7 +742,7 @@
     "hiragana": "じゅういちがつ",
     "meaning": "November",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "十一月は紅葉がきれいです。 (Juuiichigatsu wa kouyou ga kirei desu.) - Daun musim gugur indah di November."
   },
@@ -751,7 +751,7 @@
     "hiragana": "じゅうにがつ",
     "meaning": "Desember",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "十二月はクリスマスがあります。 (Juunigatsu wa kurisumasu ga arimasu.) - Ada Natal di Desember."
   },
@@ -760,7 +760,7 @@
     "hiragana": "いち",
     "meaning": "Satu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "一つください。 (Hitotsu kudasai.) - Tolong beri satu."
   },
@@ -769,7 +769,7 @@
     "hiragana": "に",
     "meaning": "Dua",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "二つあります。 (Futatsu arimasu.) - Ada dua."
   },
@@ -778,7 +778,7 @@
     "hiragana": "さん",
     "meaning": "Tiga",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "三つ食べました。 (Mittsu tabemashita.) - Saya makan tiga."
   },
@@ -787,7 +787,7 @@
     "hiragana": "し/よん",
     "meaning": "Empat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "四つ目は何ですか？ (Yottsume wa nan desu ka?) - Apa yang keempat?"
   },
@@ -796,7 +796,7 @@
     "hiragana": "ご",
     "meaning": "Lima",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "五つあります。 (Itsutsu arimasu.) - Ada lima."
   },
@@ -805,7 +805,7 @@
     "hiragana": "ろく",
     "meaning": "Enam",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "六つください。 (Muttsu kudasai.) - Tolong beri enam."
   },
@@ -814,7 +814,7 @@
     "hiragana": "しち/なな",
     "meaning": "Tujuh",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "七つあります。 (Nanatsu arimasu.) - Ada tujuh."
   },
@@ -823,7 +823,7 @@
     "hiragana": "はち",
     "meaning": "Delapan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "八つあります。 (Yattsu arimasu.) - Ada delapan."
   },
@@ -832,7 +832,7 @@
     "hiragana": "きゅう/く",
     "meaning": "Sembilan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "九つあります。 (Kokonotsu arimasu.) - Ada sembilan."
   },
@@ -841,7 +841,7 @@
     "hiragana": "じゅう",
     "meaning": "Sepuluh",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "十個ください。 (Jukko kudasai.) - Tolong beri sepuluh."
   },
@@ -850,7 +850,7 @@
     "hiragana": "ひゃく",
     "meaning": "Seratus",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "百円です。 (Hyaku en desu.) - Seratus yen."
   },
@@ -859,7 +859,7 @@
     "hiragana": "せん",
     "meaning": "Seribu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "千円です。 (Sen en desu.) - Seribu yen."
   },
@@ -868,7 +868,7 @@
     "hiragana": "まん",
     "meaning": "Sepuluh ribu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "一万円です。 (Ichiman en desu.) - Sepuluh ribu yen."
   },
@@ -877,7 +877,7 @@
     "hiragana": "えん",
     "meaning": "Yen",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "number",
     "example": "これは五百円です。 (Kore wa gohyaku en desu.) - Ini lima ratus yen."
   },
@@ -886,7 +886,7 @@
     "hiragana": "なに/なん",
     "meaning": "Apa",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "これは何ですか？ (Kore wa nan desu ka?) - Apa ini?"
   },
@@ -895,7 +895,7 @@
     "hiragana": "だれ",
     "meaning": "Siapa",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "あの人は誰ですか？ (Ano hito wa dare desu ka?) - Siapa orang itu?"
   },
@@ -904,7 +904,7 @@
     "hiragana": "どこ",
     "meaning": "Di mana",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "トイレはどこですか？ (Toire wa doko desu ka?) - Di mana toilet?"
   },
@@ -913,7 +913,7 @@
     "hiragana": "いつ",
     "meaning": "Kapan",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "パーティーはいつですか？ (Paatii wa itsu desu ka?) - Kapan pestanya?"
   },
@@ -931,7 +931,7 @@
     "hiragana": "どうして",
     "meaning": "Mengapa",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "どうして遅れましたか？ (Doushite okuremashita ka?) - Mengapa Anda terlambat?"
   },
@@ -940,7 +940,7 @@
     "hiragana": "なぜ",
     "meaning": "Mengapa",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "なぜ来ませんでしたか？ (Naze kimasen deshita ka?) - Mengapa tidak datang?"
   },
@@ -949,7 +949,7 @@
     "hiragana": "どれ",
     "meaning": "Yang mana",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "どれがあなたの傘ですか？ (Dore ga anata no kasa desu ka?) - Yang mana payung Anda?"
   },
@@ -958,7 +958,7 @@
     "hiragana": "どの",
     "meaning": "Yang mana (adj)",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "どの本がいいですか？ (Dono hon ga ii desu ka?) - Buku yang mana yang bagus?"
   },
@@ -967,7 +967,7 @@
     "hiragana": "どちら",
     "meaning": "Mana (sopan)",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "どちらがお好きですか？ (Dochira ga osuki desu ka?) - Yang mana yang Anda suka?"
   },
@@ -976,7 +976,7 @@
     "hiragana": "いくつ",
     "meaning": "Berapa banyak",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "いくつありますか？ (Ikutsu arimasu ka?) - Ada berapa?"
   },
@@ -985,7 +985,7 @@
     "hiragana": "いくら",
     "meaning": "Berapa harga",
     "type": "interrogative",
-    "level": "N5",
+    "level": "n5",
     "theme": "question",
     "example": "これはいくらですか？ (Kore wa ikura desu ka?) - Berapa harga ini?"
   },
@@ -994,7 +994,7 @@
     "hiragana": "いえ/うち",
     "meaning": "Rumah",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "私の家はここです。 (Watashi no ie wa koko desu.) - Rumah saya di sini."
   },
@@ -1003,7 +1003,7 @@
     "hiragana": "へや",
     "meaning": "Kamar",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "この部屋は広いです。 (Kono heya wa hiroi desu.) - Kamar ini luas."
   },
@@ -1012,7 +1012,7 @@
     "hiragana": "だいどころ",
     "meaning": "Dapur",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "台所で料理をします。 (Daidokoro de ryouri wo shimasu.) - Saya masak di dapur."
   },
@@ -1021,7 +1021,7 @@
     "hiragana": "トイレ",
     "meaning": "Toilet",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "トイレはどこですか？ (Toire wa doko desu ka?) - Di mana toilet?"
   },
@@ -1030,7 +1030,7 @@
     "hiragana": "おふろ",
     "meaning": "Kamar mandi",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "お風呂に入ります。 (Ofuro ni hairimasu.) - Saya mandi."
   },
@@ -1039,7 +1039,7 @@
     "hiragana": "げんかん",
     "meaning": "Pintu depan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "玄関で靴を脱ぎます。 (Genkan de kutsu wo nugimasu.) - Saya melepas sepatu di pintu depan."
   },
@@ -1048,7 +1048,7 @@
     "hiragana": "にわ",
     "meaning": "Halaman",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "庭に花があります。 (Niwa ni hana ga arimasu.) - Ada bunga di halaman."
   },
@@ -1057,7 +1057,7 @@
     "hiragana": "まど",
     "meaning": "Jendela",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "窓を開けます。 (Mado wo akemasu.) - Saya membuka jendela."
   },
@@ -1066,7 +1066,7 @@
     "hiragana": "ドア",
     "meaning": "Pintu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "ドアを閉めてください。 (Doa wo shimete kudasai.) - Tolong tutup pintu."
   },
@@ -1075,7 +1075,7 @@
     "hiragana": "かいだん",
     "meaning": "Tangga",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "階段を上がります。 (Kaidan wo agarimasu.) - Saya naik tangga."
   },
@@ -1084,7 +1084,7 @@
     "hiragana": "エレベーター",
     "meaning": "Lift",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "エレベーターで行きます。 (Erebeetaa de ikimasu.) - Saya pergi dengan lift."
   },
@@ -1093,7 +1093,7 @@
     "hiragana": "がっこう",
     "meaning": "Sekolah",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "学校に行きます。 (Gakkou ni ikimasu.) - Saya pergi ke sekolah."
   },
@@ -1102,7 +1102,7 @@
     "hiragana": "だいがく",
     "meaning": "Universitas",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "大学で勉強します。 (Daigaku de benkyou shimasu.) - Saya belajar di universitas."
   },
@@ -1111,7 +1111,7 @@
     "hiragana": "びょういん",
     "meaning": "Rumah sakit",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "病院へ行きます。 (Byouin e ikimasu.) - Saya pergi ke rumah sakit."
   },
@@ -1120,7 +1120,7 @@
     "hiragana": "ぎんこう",
     "meaning": "Bank",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "銀行でお金を下ろします。 (Ginkou de okane wo oroshimasu.) - Saya mengambil uang di bank."
   },
@@ -1129,7 +1129,7 @@
     "hiragana": "ゆうびんきょく",
     "meaning": "Kantor pos",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "郵便局で手紙を出します。 (Yuubinkyoku de tegami wo dashimasu.) - Saya mengirim surat di kantor pos."
   },
@@ -1138,7 +1138,7 @@
     "hiragana": "えき",
     "meaning": "Stasiun",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "駅で電車に乗ります。 (Eki de densha ni norimasu.) - Saya naik kereta di stasiun."
   },
@@ -1147,7 +1147,7 @@
     "hiragana": "くうこう",
     "meaning": "Bandara",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "空港へ行きます。 (Kuukou e ikimasu.) - Saya pergi ke bandara."
   },
@@ -1156,7 +1156,7 @@
     "hiragana": "みせ",
     "meaning": "Toko",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "この店は安いです。 (Kono mise wa yasui desu.) - Toko ini murah."
   },
@@ -1165,7 +1165,7 @@
     "hiragana": "レストラン",
     "meaning": "Restoran",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "レストランで食事をします。 (Resutoran de shokuji wo shimasu.) - Saya makan di restoran."
   },
@@ -1174,7 +1174,7 @@
     "hiragana": "きっさてん",
     "meaning": "Kafe",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "喫茶店でコーヒーを飲みます。 (Kissaten de koohii wo nomimasu.) - Saya minum kopi di kafe."
   },
@@ -1183,7 +1183,7 @@
     "hiragana": "としょかん",
     "meaning": "Perpustakaan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "図書館で本を読みます。 (Toshokan de hon wo yomimasu.) - Saya membaca buku di perpustakaan."
   },
@@ -1192,7 +1192,7 @@
     "hiragana": "こうえん",
     "meaning": "Taman",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "公園で遊びます。 (Kouen de asobimasu.) - Saya bermain di taman."
   },
@@ -1201,7 +1201,7 @@
     "hiragana": "えいがかん",
     "meaning": "Bioskop",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "映画館で映画を見ます。 (Eigakan de eiga wo mimasu.) - Saya menonton film di bioskop."
   },
@@ -1210,7 +1210,7 @@
     "hiragana": "かいしゃ",
     "meaning": "Perusahaan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "会社で働きます。 (Kaisha de hatarakimasu.) - Saya bekerja di perusahaan."
   },
@@ -1219,7 +1219,7 @@
     "hiragana": "こうじょう",
     "meaning": "Pabrik",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "工場で製品を作ります。 (Koujou de seihin wo tsukurimasu.) - Saya membuat produk di pabrik."
   },
@@ -1228,7 +1228,7 @@
     "hiragana": "こうばん",
     "meaning": "Pos polisi",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "交番で道を聞きます。 (Kouban de michi wo kikimasu.) - Saya bertanya jalan di pos polisi."
   },
@@ -1237,7 +1237,7 @@
     "hiragana": "ホテル",
     "meaning": "Hotel",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "ホテルに泊まります。 (Hoteru ni tomarimasu.) - Saya menginap di hotel."
   },
@@ -1246,7 +1246,7 @@
     "hiragana": "デパート",
     "meaning": "Department store",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "デパートで買い物をします。 (Depaato de kaimono wo shimasu.) - Saya belanja di department store."
   },
@@ -1255,7 +1255,7 @@
     "hiragana": "スーパー",
     "meaning": "Supermarket",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "スーパーで野菜を買います。 (Suupaa de yasai wo kaimasu.) - Saya membeli sayur di supermarket."
   },
@@ -1264,7 +1264,7 @@
     "hiragana": "コンビニ",
     "meaning": "Minimarket",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "コンビニでおにぎりを買います。 (Konbini de onigiri wo kaimasu.) - Saya membeli onigiri di minimarket."
   },
@@ -1273,7 +1273,7 @@
     "hiragana": "みち",
     "meaning": "Jalan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "この道をまっすぐ行きます。 (Kono michi wo massugu ikimasu.) - Saya pergi lurus di jalan ini."
   },
@@ -1282,7 +1282,7 @@
     "hiragana": "はし",
     "meaning": "Jembatan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "橋を渡ります。 (Hashi wo watarimasu.) - Saya menyeberangi jembatan."
   },
@@ -1291,7 +1291,7 @@
     "hiragana": "かわ",
     "meaning": "Sungai",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "川で泳ぎます。 (Kawa de oyogimasu.) - Saya berenang di sungai."
   },
@@ -1300,7 +1300,7 @@
     "hiragana": "やま",
     "meaning": "Gunung",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "山に登ります。 (Yama ni noborimasu.) - Saya mendaki gunung."
   },
@@ -1309,7 +1309,7 @@
     "hiragana": "うみ",
     "meaning": "Laut",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "海が見えます。 (Umi ga miemasu.) - Saya bisa melihat laut."
   },
@@ -1318,7 +1318,7 @@
     "hiragana": "いけ",
     "meaning": "Kolam",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "池に鯉がいます。 (Ike ni koi ga imasu.) - Ada ikan mas di kolam."
   },
@@ -1327,7 +1327,7 @@
     "hiragana": "くに",
     "meaning": "Negara",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "あなたの国はどこですか？ (Anata no kuni wa doko desu ka?) - Negara Anda di mana?"
   },
@@ -1336,7 +1336,7 @@
     "hiragana": "まち",
     "meaning": "Kota kecil",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "この町は静かです。 (Kono machi wa shizuka desu.) - Kota ini tenang."
   },
@@ -1345,7 +1345,7 @@
     "hiragana": "むら",
     "meaning": "Desa",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "村に住んでいます。 (Mura ni sunde imasu.) - Saya tinggal di desa."
   },
@@ -1354,7 +1354,7 @@
     "hiragana": "そと",
     "meaning": "Luar",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "外で遊びます。 (Soto de asobimasu.) - Saya bermain di luar."
   },
@@ -1363,7 +1363,7 @@
     "hiragana": "なか",
     "meaning": "Dalam",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "箱の中に何がありますか？ (Hako no naka ni nani ga arimasu ka?) - Ada apa di dalam kotak?"
   },
@@ -1372,7 +1372,7 @@
     "hiragana": "うえ",
     "meaning": "Atas",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "机の上に本があります。 (Tsukue no ue ni hon ga arimasu.) - Ada buku di atas meja."
   },
@@ -1381,7 +1381,7 @@
     "hiragana": "した",
     "meaning": "Bawah",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "椅子の下に猫がいます。 (Isu no shita ni neko ga imasu.) - Ada kucing di bawah kursi."
   },
@@ -1390,7 +1390,7 @@
     "hiragana": "まえ",
     "meaning": "Depan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "学校の前にバス停があります。 (Gakkou no mae ni basutei ga arimasu.) - Ada halte bus di depan sekolah."
   },
@@ -1399,7 +1399,7 @@
     "hiragana": "うしろ",
     "meaning": "Belakang",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "家の後ろに庭があります。 (Ie no ushiro ni niwa ga arimasu.) - Ada halaman di belakang rumah."
   },
@@ -1408,7 +1408,7 @@
     "hiragana": "みぎ",
     "meaning": "Kanan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "右に曲がってください。 (Migi ni magatte kudasai.) - Tolong belok kanan."
   },
@@ -1417,7 +1417,7 @@
     "hiragana": "ひだり",
     "meaning": "Kiri",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "左に曲がります。 (Hidari ni magarimasu.) - Saya belok kiri."
   },
@@ -1426,7 +1426,7 @@
     "hiragana": "となり",
     "meaning": "Sebelah",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "私の隣に友達が座っています。 (Watashi no tonari ni tomodachi ga suwatte imasu.) - Teman duduk di sebelah saya."
   },
@@ -1435,7 +1435,7 @@
     "hiragana": "ちかく",
     "meaning": "Dekat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "駅の近くにコンビニがあります。 (Eki no chikaku ni konbini ga arimasu.) - Ada minimarket di dekat stasiun."
   },
@@ -1444,7 +1444,7 @@
     "hiragana": "とおく",
     "meaning": "Jauh",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "遠くに山が見えます。 (Tooku ni yama ga miemasu.) - Saya bisa melihat gunung di kejauhan."
   },
@@ -1453,7 +1453,7 @@
     "hiragana": "あいだ",
     "meaning": "Antara",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "机と椅子の間には何がありますか？ (Tsukue to isu no aida ni wa nani ga arimasu ka?) - Apa yang ada di antara meja dan kursi?"
   },
@@ -1462,7 +1462,7 @@
     "hiragana": "よこ",
     "meaning": "Samping",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "私の横に彼がいます。 (Watashi no yoko ni kare ga imasu.) - Dia ada di samping saya."
   },
@@ -1471,7 +1471,7 @@
     "hiragana": "そば",
     "meaning": "Sisi/Dekat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "私の側にいてください。 (Watashi no soba ni ite kudasai.) - Tolong di sisi saya."
   },
@@ -1480,7 +1480,7 @@
     "hiragana": "ひがし",
     "meaning": "Timur",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "direction",
     "example": "東に太陽が昇ります。 (Higashi ni taiyou ga noborimasu.) - Matahari terbit di timur."
   },
