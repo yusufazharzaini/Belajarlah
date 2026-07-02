@@ -4135,7 +4135,7 @@
     "hiragana": "さく",
     "meaning": "Mekar",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "桜が咲きます。 (Sakura ga sakimasu.) - Bunga sakura mekar."
   },
@@ -4144,7 +4144,7 @@
     "hiragana": "なく",
     "meaning": "Bersuara (hewan)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "鳥が鳴きます。 (Tori ga nakimasu.) - Burung berkicau."
   },
@@ -4153,7 +4153,7 @@
     "hiragana": "なく",
     "meaning": "Menangis",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "子供が泣いています。 (Kodomo ga naite imasu.) - Anak menangis."
   },
@@ -4162,7 +4162,7 @@
     "hiragana": "わらう",
     "meaning": "Tertawa",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "彼は笑っています。 (Kare wa waratte imasu.) - Dia tertawa."
   },
@@ -4171,7 +4171,7 @@
     "hiragana": "おこる",
     "meaning": "Marah",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "先生が怒りました。 (Sensei ga okorimashita.) - Guru marah."
   },
@@ -4180,7 +4180,7 @@
     "hiragana": "こまる",
     "meaning": "Kesulitan",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "困っています。 (Komatte imasu.) - Saya kesulitan."
   },
@@ -4189,7 +4189,7 @@
     "hiragana": "つかれる",
     "meaning": "Lelah",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "今日は疲れました。 (Kyou wa tsukaremashita.) - Saya lelah hari ini."
   },
@@ -4198,7 +4198,7 @@
     "hiragana": "うたう",
     "meaning": "Bernyanyi",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "歌を歌います。 (Uta wo utaimasu.) - Saya bernyanyi."
   },
@@ -4207,7 +4207,7 @@
     "hiragana": "おどる",
     "meaning": "Menari",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ダンスを踊ります。 (Dansu wo odorimasu.) - Saya menari."
   },
@@ -4216,7 +4216,7 @@
     "hiragana": "ひく",
     "meaning": "Memainkan (instrumen)",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ピアノを弾きます。 (Piano wo hikimasu.) - Saya memainkan piano."
   },
@@ -4225,7 +4225,7 @@
     "hiragana": "ふく",
     "meaning": "Meniup",
     "type": "verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "風が吹きます。 (Kaze ga fukimasu.) - Angin bertiup."
   },
@@ -4234,7 +4234,7 @@
     "hiragana": "でんわする",
     "meaning": "Menelepon",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "友達に電話します。 (Tomodachi ni denwa shimasu.) - Saya menelepon teman."
   },
@@ -4243,7 +4243,7 @@
     "hiragana": "けっこんする",
     "meaning": "Menikah",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "彼は来年結婚します。 (Kare wa rainen kekkon shimasu.) - Dia menikah tahun depan."
   },
@@ -4252,7 +4252,7 @@
     "hiragana": "さんぽする",
     "meaning": "Jalan-jalan",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "公園を散歩します。 (Kouen wo sanpo shimasu.) - Saya jalan-jalan di taman."
   },
@@ -4261,7 +4261,7 @@
     "hiragana": "うんどうする",
     "meaning": "Berolahraga",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "毎日運動します。 (Mainichi undou shimasu.) - Saya berolahraga setiap hari."
   },
@@ -4270,7 +4270,7 @@
     "hiragana": "りょこうする",
     "meaning": "Bepergian",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "夏に旅行します。 (Natsu ni ryokou shimasu.) - Saya bepergian di musim panas."
   },
@@ -4279,7 +4279,7 @@
     "hiragana": "れんしゅうする",
     "meaning": "Berlatih",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ピアノを練習します。 (Piano wo renshuu shimasu.) - Saya berlatih piano."
   },
@@ -4288,7 +4288,7 @@
     "hiragana": "やくそくする",
     "meaning": "Berjanji",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "友達と約束します。 (Tomodachi to yakusoku shimasu.) - Saya berjanji dengan teman."
   },
@@ -4297,7 +4297,7 @@
     "hiragana": "しょうかいする",
     "meaning": "Memperkenalkan",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "友達を紹介します。 (Tomodachi wo shoukai shimasu.) - Saya memperkenalkan teman."
   },
@@ -4306,7 +4306,7 @@
     "hiragana": "せつめいする",
     "meaning": "Menjelaskan",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ルールを説明します。 (Ruuru wo setsumei shimasu.) - Saya menjelaskan aturan."
   },
@@ -4315,7 +4315,7 @@
     "hiragana": "しんぱいする",
     "meaning": "Khawatir",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "彼のことを心配します。 (Kare no koto wo shinpai shimasu.) - Saya khawatir tentang dia."
   },
@@ -4324,7 +4324,7 @@
     "hiragana": "じゅんびする",
     "meaning": "Mempersiapkan",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "試験の準備をします。 (Shiken no junbi wo shimasu.) - Saya mempersiapkan ujian."
   },
@@ -4333,7 +4333,7 @@
     "hiragana": "よやくする",
     "meaning": "Memesan",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "ホテルを予約します。 (Hoteru wo yoyaku shimasu.) - Saya memesan hotel."
   },
@@ -4342,7 +4342,7 @@
     "hiragana": "コピーする",
     "meaning": "Menyalin",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "書類をコピーします。 (Shorui wo kopii shimasu.) - Saya menyalin dokumen."
   },
@@ -4351,7 +4351,7 @@
     "hiragana": "シャワーする",
     "meaning": "Mandi shower",
     "type": "suru-verb",
-    "level": "N5",
+    "level": "n5",
     "theme": "verb",
     "example": "シャワーを浴びます。 (Shawaa wo abimasu.) - Saya mandi shower."
   },
@@ -4360,7 +4360,7 @@
     "hiragana": "えいが",
     "meaning": "Film",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "entertainment",
     "example": "映画を見ます。 (Eiga wo mimasu.) - Saya menonton film."
   },
@@ -4369,7 +4369,7 @@
     "hiragana": "おんがく",
     "meaning": "Musik",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "entertainment",
     "example": "音楽を聞きます。 (Ongaku wo kikimasu.) - Saya mendengar musik."
   },
@@ -4378,7 +4378,7 @@
     "hiragana": "うた",
     "meaning": "Lagu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "entertainment",
     "example": "歌を歌います。 (Uta wo utaimasu.) - Saya bernyanyi."
   },
@@ -4387,7 +4387,7 @@
     "hiragana": "ダンス",
     "meaning": "Tarian",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "entertainment",
     "example": "ダンスをします。 (Dansu wo shimasu.) - Saya menari."
   },
@@ -4396,7 +4396,7 @@
     "hiragana": "スポーツ",
     "meaning": "Olahraga",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "sports",
     "example": "スポーツが好きです。 (Supootsu ga suki desu.) - Saya suka olahraga."
   },
@@ -4405,7 +4405,7 @@
     "hiragana": "サッカー",
     "meaning": "Sepak bola",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "sports",
     "example": "サッカーをします。 (Sakkaa wo shimasu.) - Saya bermain sepak bola."
   },
@@ -4414,7 +4414,7 @@
     "hiragana": "やきゅう",
     "meaning": "Bisbol",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "sports",
     "example": "野球を見ます。 (Yakyuu wo mimasu.) - Saya menonton bisbol."
   },
@@ -4423,7 +4423,7 @@
     "hiragana": "テニス",
     "meaning": "Tenis",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "sports",
     "example": "テニスをします。 (Tenisu wo shimasu.) - Saya bermain tenis."
   },
@@ -4432,7 +4432,7 @@
     "hiragana": "りょこう",
     "meaning": "Perjalanan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "travel",
     "example": "旅行に行きます。 (Ryokou ni ikimasu.) - Saya pergi bepergian."
   },
@@ -4441,7 +4441,7 @@
     "hiragana": "しごと",
     "meaning": "Pekerjaan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "work",
     "example": "仕事を探しています。 (Shigoto wo sagashite imasu.) - Saya mencari pekerjaan."
   },
@@ -4450,7 +4450,7 @@
     "hiragana": "じゅぎょう",
     "meaning": "Pelajaran",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "school",
     "example": "授業があります。 (Jugyou ga arimasu.) - Ada pelajaran."
   },
@@ -4459,7 +4459,7 @@
     "hiragana": "しゅくだい",
     "meaning": "PR",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "school",
     "example": "宿題をします。 (Shukudai wo shimasu.) - Saya mengerjakan PR."
   },
@@ -4468,7 +4468,7 @@
     "hiragana": "しけん",
     "meaning": "Ujian",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "school",
     "example": "試験があります。 (Shiken ga arimasu.) - Ada ujian."
   },
@@ -4477,7 +4477,7 @@
     "hiragana": "テスト",
     "meaning": "Tes",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "school",
     "example": "テストを受けます。 (Tesuto wo ukemasu.) - Saya mengikuti tes."
   },
@@ -4486,7 +4486,7 @@
     "hiragana": "もんだい",
     "meaning": "Masalah/Soal",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "school",
     "example": "問題を解きます。 (Mondai wo tokimasu.) - Saya memecahkan soal."
   },
@@ -4495,7 +4495,7 @@
     "hiragana": "こたえ",
     "meaning": "Jawaban",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "school",
     "example": "答えを書きます。 (Kotae wo kakimasu.) - Saya menulis jawaban."
   },
@@ -4504,7 +4504,7 @@
     "hiragana": "いみ",
     "meaning": "Arti",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "language",
     "example": "この言葉の意味は何ですか？ (Kono kotoba no imi wa nan desu ka?) - Apa arti kata ini?"
   },
@@ -4513,7 +4513,7 @@
     "hiragana": "ことば",
     "meaning": "Kata/Bahasa",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "language",
     "example": "新しい言葉を覚えます。 (Atarashii kotoba wo oboemasu.) - Saya mengingat kata baru."
   },
@@ -4522,7 +4522,7 @@
     "hiragana": "ぶん",
     "meaning": "Kalimat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "language",
     "example": "文を作ります。 (Bun wo tsukurimasu.) - Saya membuat kalimat."
   },
@@ -4531,7 +4531,7 @@
     "hiragana": "かんじ",
     "meaning": "Kanji",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "language",
     "example": "漢字を勉強します。 (Kanji wo benkyou shimasu.) - Saya belajar kanji."
   },
@@ -4540,7 +4540,7 @@
     "hiragana": "ひらがな",
     "meaning": "Hiragana",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "language",
     "example": "ひらがなを書きます。 (Hiragana wo kakimasu.) - Saya menulis hiragana."
   },
@@ -4549,7 +4549,7 @@
     "hiragana": "カタカナ",
     "meaning": "Katakana",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "language",
     "example": "カタカナを読みます。 (Katakana wo yomimasu.) - Saya membaca katakana."
   },
@@ -4558,7 +4558,7 @@
     "hiragana": "にほんご",
     "meaning": "Bahasa Jepang",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "language",
     "example": "日本語を話します。 (Nihongo wo hanashimasu.) - Saya berbicara bahasa Jepang."
   },
@@ -4567,7 +4567,7 @@
     "hiragana": "えいご",
     "meaning": "Bahasa Inggris",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "language",
     "example": "英語が分かりますか？ (Eigo ga wakarimasu ka?) - Apakah Anda mengerti bahasa Inggris?"
   },
@@ -4576,7 +4576,7 @@
     "hiragana": "がいこくご",
     "meaning": "Bahasa asing",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "language",
     "example": "外国語を勉強します。 (Gaikokugo wo benkyou shimasu.) - Saya belajar bahasa asing."
   },
@@ -4585,7 +4585,7 @@
     "hiragana": "ばんごう",
     "meaning": "Nomor",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "電話番号を教えてください。 (Denwa bangou wo oshiete kudasai.) - Tolong beri tahu nomor telepon."
   },
@@ -4594,7 +4594,7 @@
     "hiragana": "でんき",
     "meaning": "Listrik",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "電気をつけます。 (Denki wo tsukemasu.) - Saya menyalakan listrik."
   },
@@ -4603,7 +4603,7 @@
     "hiragana": "ガス",
     "meaning": "Gas",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "ガスを使います。 (Gasu wo tsukaimasu.) - Saya menggunakan gas."
   },
@@ -4612,7 +4612,7 @@
     "hiragana": "エアコン",
     "meaning": "AC",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "エアコンをつけます。 (Eakon wo tsukemasu.) - Saya menyalakan AC."
   },
@@ -4621,7 +4621,7 @@
     "hiragana": "れいぞうこ",
     "meaning": "Kulkas",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "冷蔵庫に食べ物があります。 (Reizouko ni tabemono ga arimasu.) - Ada makanan di kulkas."
   },
@@ -4630,7 +4630,7 @@
     "hiragana": "せんたくき",
     "meaning": "Mesin cuci",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "洗濯機で洗います。 (Sentakuki de araimasu.) - Saya mencuci dengan mesin cuci."
   },
@@ -4639,7 +4639,7 @@
     "hiragana": "そうじき",
     "meaning": "Penghisap debu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "掃除機をかけます。 (Soujiki wo kakemasu.) - Saya menggunakan penghisap debu."
   },
@@ -4648,7 +4648,7 @@
     "hiragana": "ストーブ",
     "meaning": "Pemanas",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "ストーブをつけます。 (Sutoobu wo tsukemasu.) - Saya menyalakan pemanas."
   },
@@ -4657,7 +4657,7 @@
     "hiragana": "ベッド",
     "meaning": "Tempat tidur",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "ベッドで寝ます。 (Beddo de nemasu.) - Saya tidur di tempat tidur."
   },
@@ -4666,7 +4666,7 @@
     "hiragana": "ふとん",
     "meaning": "Futon",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "布団を敷きます。 (Futon wo shikimasu.) - Saya menyiapkan futon."
   },
@@ -4675,7 +4675,7 @@
     "hiragana": "まくら",
     "meaning": "Bantal",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "枕を使います。 (Makura wo tsukaimasu.) - Saya memakai bantal."
   },
@@ -4684,7 +4684,7 @@
     "hiragana": "タオル",
     "meaning": "Handuk",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "タオルを干します。 (Taworu wo hoshimasu.) - Saya menjemur handuk."
   },
@@ -4693,7 +4693,7 @@
     "hiragana": "せっけん",
     "meaning": "Sabun",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "石鹸で手を洗います。 (Sekken de te wo araimasu.) - Saya mencuci tangan dengan sabun."
   },
@@ -4702,7 +4702,7 @@
     "hiragana": "シャンプー",
     "meaning": "Sampo",
     "type": "noun",
-    "level": "N5",
+    "levtheme"n5",
     "theme": "house",
     "example": "シャンプーを使います。 (Shanpuu wo tsukaimasu.) - Saya memakai sampo."
   },
@@ -4711,7 +4711,7 @@
     "hiragana": "はブラシ",
     "meaning": "Sikat gigi",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "歯ブラシで歯を磨きます。 (Haburashi de ha wo migakimasu.) - Saya menggosok gigi dengan sikat gigi."
   },
@@ -4720,7 +4720,7 @@
     "hiragana": "はみがきこ",
     "meaning": "Pasta gigi",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "歯磨き粉を使います。 (Hamigakiko wo tsukaimasu.) - Saya memakai pasta gigi."
   },
@@ -4729,7 +4729,7 @@
     "hiragana": "かがみ",
     "meaning": "Cermin",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "house",
     "example": "鏡を見ます。 (Kagami wo mimasu.) - Saya melihat cermin."
   },
@@ -4738,7 +4738,7 @@
     "hiragana": "くすり",
     "meaning": "Obat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "health",
     "example": "薬を飲みます。 (Kusuri wo nomimasu.) - Saya minum obat."
   },
@@ -4747,7 +4747,7 @@
     "hiragana": "びょうき",
     "meaning": "Penyakit",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "health",
     "example": "病気になりました。 (Byouki ni narimashita.) - Saya sakit."
   },
@@ -4756,7 +4756,7 @@
     "hiragana": "ねつ",
     "meaning": "Demam",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "health",
     "example": "熱があります。 (Netsu ga arimasu.) - Saya demam."
   },
@@ -4765,7 +4765,7 @@
     "hiragana": "かぜ",
     "meaning": "Masuk angin",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "health",
     "example": "風邪をひきました。 (Kaze wo hikimashita.) - Saya masuk angin."
   },
@@ -4774,7 +4774,7 @@
     "hiragana": "ずつう",
     "meaning": "Sakit kepala",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "health",
     "example": "頭痛がします。 (Zutsuu ga shimasu.) - Saya sakit kepala."
   },
@@ -4783,7 +4783,7 @@
     "hiragana": "たいおん",
     "meaning": "Suhu tubuh",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "health",
     "example": "体温を測ります。 (Taion wo hakarimasu.) - Saya mengukur suhu tubuh."
   },
@@ -4792,7 +4792,7 @@
     "hiragana": "こえ",
     "meaning": "Suara",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "声が大きいです。 (Koe ga ookii desu.) - Suaranya keras."
   },
@@ -4801,7 +4801,7 @@
     "hiragana": "おと",
     "meaning": "Bunyi",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "音が聞こえます。 (Oto ga kikoemasu.) - Saya mendengar bunyi."
   },
@@ -4810,7 +4810,7 @@
     "hiragana": "におい",
     "meaning": "Bau",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "いい匂いがします。 (Ii nioi ga shimasu.) - Ada bau harum."
   },
@@ -4819,7 +4819,7 @@
     "hiragana": "あじ",
     "meaning": "Rasa",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "味がいいです。 (Aji ga ii desu.) - Rasanya enak."
   },
@@ -4828,7 +4828,7 @@
     "hiragana": "かたち",
     "meaning": "Bentuk",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "この形は何ですか？ (Kono katachi wa nan desu ka?) - Bentuk apa ini?"
   },
@@ -4837,7 +4837,7 @@
     "hiragana": "おおきさ",
     "meaning": "Ukuran",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "大きさを測ります。 (Ookisa wo hakarimasu.) - Saya mengukur ukuran."
   },
@@ -4846,7 +4846,7 @@
     "hiragana": "ながさ",
     "meaning": "Panjang",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "長さを測ります。 (Nagasa wo hakarimasu.) - Saya mengukur panjang."
   },
@@ -4855,7 +4855,7 @@
     "hiragana": "おもさ",
     "meaning": "Berat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "重さを測ります。 (Omosa wo hakarimasu.) - Saya mengukur berat."
   },
@@ -4864,7 +4864,7 @@
     "hiragana": "ちから",
     "meaning": "Kekuatan",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "general",
     "example": "力が強いです。 (Chikara ga tsuyoi desu.) - Kekuatannya kuat."
   },
@@ -4873,7 +4873,7 @@
     "hiragana": "おまつり",
     "meaning": "Festival",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "event",
     "example": "お祭りに行きます。 (Omatsuri ni ikimasu.) - Saya pergi ke festival."
   },
@@ -4882,7 +4882,7 @@
     "hiragana": "おしょうがつ",
     "meaning": "Tahun Baru",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "event",
     "example": "お正月は家族と過ごします。 (Oshougatsu wa kazoku to sugoshimasu.) - Saya menghabiskan Tahun Baru dengan keluarga."
   },
@@ -4891,7 +4891,7 @@
     "hiragana": "たんじょうび",
     "meaning": "Ulang tahun",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "event",
     "example": "今日は私の誕生日です。 (Kyou wa watashi no tanjoubi desu.) - Hari ini ulang tahun saya."
   },
@@ -4900,7 +4900,7 @@
     "hiragana": "クリスマス",
     "meaning": "Natal",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "event",
     "example": "クリスマスにプレゼントをもらいます。 (Kurisumasu ni purezento wo moraimasu.) - Saya menerima hadiah pada Natal."
   },
@@ -4909,7 +4909,7 @@
     "hiragana": "パーティー",
     "meaning": "Pesta",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "event",
     "example": "パーティーを開きます。 (Paatii wo hirakimasu.) - Saya mengadakan pesta."
   },
@@ -4918,7 +4918,7 @@
     "hiragana": "プレゼント",
     "meaning": "Hadiah",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "event",
     "example": "プレゼントを買います。 (Purezento wo kaimasu.) - Saya membeli hadiah."
   },
@@ -4927,7 +4927,7 @@
     "hiragana": "カード",
     "meaning": "Kartu",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "object",
     "example": "カードを書きます。 (Kaado wo kakimasu.) - Saya menulis kartu."
   },
@@ -4936,7 +4936,7 @@
     "hiragana": "ケーキ",
     "meaning": "Kue",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "food",
     "example": "ケーキを食べます。 (Keeki wo tabemasu.) - Saya makan kue."
   },
@@ -4945,7 +4945,7 @@
     "hiragana": "アイスクリーム",
     "meaning": "Es krim",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "food",
     "example": "アイスクリームが好きです。 (Aisukuriimu ga suki desu.) - Saya suka es krim."
   },
@@ -4954,7 +4954,7 @@
     "hiragana": "チョコレート",
     "meaning": "Coklat",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "food",
     "example": "チョコレートを食べます。 (Chokoreeto wo tabemasu.) - Saya makan coklat."
   },
@@ -4963,7 +4963,7 @@
     "hiragana": "おかし",
     "meaning": "Kue/Permen",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "food",
     "example": "お菓子を買います。 (Okashi wo kaimasu.) - Saya membeli kue."
   },
@@ -4972,7 +4972,7 @@
     "hiragana": "べんとう",
     "meaning": "Bento",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "food",
     "example": "弁当を作ります。 (Bentou wo tsukurimasu.) - Saya membuat bento."
   },
@@ -4981,7 +4981,7 @@
     "hiragana": "あさ",
     "meaning": "Pagi",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "time",
     "example": "朝ご飯を食べます。 (Asagohan wo tabemasu.) - Saya sarapan."
   },
@@ -4990,7 +4990,7 @@
     "hiragana": "プール",
     "meaning": "Kolam renang",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "プールで泳ぎます。 (Puuru de oyogimasu.) - Saya berenang di kolam renang."
   },
@@ -4999,7 +4999,7 @@
     "hiragana": "たいいくかん",
     "meaning": "Gimnasium",
     "type": "noun",
-    "level": "N5",
+    "level": "n5",
     "theme": "place",
     "example": "体育館で運動します。 (Taiikukan de undou shimasu.) - Saya berolahraga di gimnasium."
   },
